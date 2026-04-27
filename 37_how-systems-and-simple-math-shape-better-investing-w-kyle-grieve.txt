@@ -1,0 +1,75 @@
+How Systems and Simple Math Shape Better Investing
+==================================================
+URL:  https://www.theinvestorspodcast.com/episodes/how-systems-and-simple-math-shape-better-investing-w-kyle-grieve/
+Date: 29 November 2025
+
+On today’s episode, Kyle Grieve discusses powerful mental models from systems thinking and mathematics and applies them directly to investing and life. He breaks down concepts like feedback loops, kill criteria, scale, compounding, randomness, and regression to the mean to show how they shape real-world outcomes. He’ll also share practical frameworks for improving decision-making, managing uncertainty, and positioning your portfolio to benefit from long-term compounding.
+
+SUBSCRIBE
+
+IN THIS EPISODE, YOU’LL LEARN:
+How feedback loops stabilize or reinforce outcomes in investing
+How kill criteria help you make predetermined decisions in a noisy world
+Why the cone of uncertainty is useful for evaluating conviction and position sizing
+How scale changes the behavior, costs, and risks of a growing business
+How algorithms clarify which inputs drive the conclusions you rely on
+How to evaluate a company’s ability to reach critical mass and become self-sustaining
+The hidden forms of compounding that are just as powerful as the visible ones
+Why power laws should influence your portfolio concentration
+How randomness shapes investing outcomes, and how to take advantage of it
+Why regression to the mean matters during periods of strong or weak performance
+
+TRANSCRIPT
+Disclaimer: The transcript that follows has been generated using artificial intelligence. We strive to be as accurate as possible, but minor errors and slightly off timestamps may be present due to platform differences.
+ 
+[00:00:03] Kyle Grieve: Did you know that over long periods, just a handful of stocks will account for the vast majority of a portfolio’s return, and that’s even if half of your investments fail, the winners can still make up for the losses and then some. Now that asymmetry results from power laws and convex compounding.
+
+[00:00:19] Kyle Grieve: And once you truly understand how these mathematical forces work inside of real world systems, it will completely change the way that you think about investing. In today’s episode, we’re exploring the mental models from systems thinking and mathematics that have had the biggest impact on my own personal investing approach, we’ll look at things such as feedback loops, kill criteria, and the cone of uncertainty, and how these systems can be used to improve your thinking process.
+[00:00:43] Kyle Grieve: We’ll examine how scale changes a business as it grows, how algorithms help you make more certain decisions, and how critical mass can propel a company into beneficial self-sustaining mode. Then we’ll shift over to the mathematical side of things, and don’t worry, you won’t need to pull out a calculator to follow along.
+[00:01:00] Kyle Grieve: We’ll look at concepts like hidden compounding, power laws, randomness and regression to the mean, and then we’ll tie them all together so you can really understand just how these forces quietly shape your portfolio’s long-term performance. This episode is for investors who want to think more clearly, whether you’re trying to expand your mental toolbox, aiming to avoid common pitfalls, or looking for new ways to stress test your own reasoning.
+[00:01:23] Kyle Grieve: If you’re someone who really values long-term thinking, likes, understanding just why things work the way they do and wants an edge that isn’t based on things like predictions or noise, then this episode is for you. Let’s get right into it.
+[00:01:38] Intro: Since 2014 and through more than 180 million downloads, we’ve studied the financial markets and read the books that influence self-made billionaires the most. We keep you informed and prepared for the unexpected. Now for your host, Kyle Grieve.
+[00:02:03] Kyle Grieve: Welcome to The investors Podcast. I’m your host, Kyle Grieve, and today we’re going to discuss mental models from two very distinct areas, systems and mathematics. So my first introduction to systems was by reading, Thinking in Systems: A Primer by Donella Meadows. That book really helped me develop a basic understanding of just how systems work.
+[00:02:22] Kyle Grieve: My biggest takeaway was just, you know, how these systems tend to work together and how small changes to one part of the system could cause a very massive change to outputs in other part of the system. Obviously, this could be a desirable or undesirable outcome. As I began to think more and more about systems, I came across another excellent book, which was The Great Mental Models, Volume 3: Systems and Mathematics by Farnam Street.
+[00:02:44] Kyle Grieve: This book compiles numerous great mental models from these two broad areas of learning. While preparing for this episode, I also couldn’t help but add yet another mental model that I use very extensively, which I learned from Annie Duke in her book Quit. I’ll be discussing, uh, that mental model in a lot more detail, as well as I think it synthesizes very well with systems.
+
+
+HELP US OUT!
+Help us reach new listeners by leaving us a rating and review on Apple Podcasts! It takes less than 30 seconds, and really helps our show grow, which allows us to bring on even better guests for you all! Thank you – we really appreciate it!
+BOOKS AND RESOURCES
+Join the exclusive ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TIP Mastermind Community⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ to engage in meaningful stock investing discussions with Stig, Clay, Kyle, and the other community members.
+Buy Thinking in Systems ⁠here⁠.
+Buy The Great Mental Models Vol 3: Systems and Mathematics ⁠here⁠.
+Buy Quit ⁠here⁠.
+Listen to my interview with Annie Duke ⁠here⁠.
+Related ⁠⁠⁠books⁠⁠⁠ mentioned in the podcast.
+Ad-free episodes on our ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠Premium Feed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+
+NEW TO THE SHOW?
+Get smarter about valuing businesses in just a few minutes each week through our newsletter, ⁠⁠⁠The Intrinsic Value Newsletter⁠⁠⁠.
+Check out our ⁠⁠⁠The Investor’s Podcast Starter Packs⁠⁠⁠.
+Follow our official social media accounts: ⁠⁠⁠X (Twitter)⁠⁠⁠ | ⁠⁠⁠LinkedIn⁠⁠⁠ | ⁠⁠⁠Instagram⁠⁠⁠ | ⁠⁠⁠Facebook⁠⁠⁠ | ⁠⁠⁠TikTok⁠⁠⁠.
+Browse through all our episodes (complete with transcripts) ⁠⁠⁠here⁠⁠⁠.
+Try our tool for picking stock winners and managing our portfolios: ⁠⁠⁠TIP Finance Tool⁠⁠⁠.
+Enjoy exclusive perks from our ⁠⁠⁠favorite Apps and Services⁠⁠⁠.
+Learn how to better start, manage, and grow your business with the ⁠⁠⁠best business podcasts⁠⁠⁠.
+
+SPONSORS
+Support our free podcast by supporting our sponsors:
+Simple Mining⁠⁠
+⁠⁠Human Rights Foundation⁠⁠
+⁠⁠Unchained⁠⁠
+⁠⁠Onramp⁠⁠
+⁠⁠HardBlock⁠⁠
+⁠⁠Amazon Ads⁠⁠
+⁠⁠reMarkable⁠⁠
+⁠⁠Alexa+⁠⁠
+⁠⁠Linkedin Talent Solutions⁠⁠
+⁠⁠Public.com⁠⁠
+⁠⁠Vanta⁠⁠
+⁠⁠Netsuite⁠⁠
+⁠⁠Shopify⁠⁠
+⁠⁠Abundant Mines⁠⁠
+⁠⁠Horizon⁠
+
+Disclosure: The Investor’s Podcast Network is an Amazon Associate. We may earn commission from qualifying purchases made through our affiliate links.

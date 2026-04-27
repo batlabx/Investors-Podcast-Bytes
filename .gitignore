@@ -1,0 +1,14 @@
+# Local-only auth — never commit
+.gh_token
+.critechery_github_token
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
