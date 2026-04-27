@@ -2,6 +2,12 @@
 .gh_token
 .critechery_github_token
 
+# Local-only working notes — never commit
+SKILL.md
+NOTES.md
+TODO.md
+*.local.md
+
 # Python
 __pycache__/
 *.pyc

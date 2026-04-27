@@ -296,7 +296,7 @@ def git_commit_and_push(repo_dir: Path, n_new: int, token: str | None) -> None:
         return
 
     run(["git", "add", "-A"], cwd=repo_dir)
-    msg = f"Refresh: +{n_new} new episode summaries" if n_new else "Refresh README"
+    msg = f"Refresh: +{n_new} new episode summaries" if n_new else "Refresh INDEX"
     run(["git", "commit", "-m", msg], cwd=repo_dir)
 
     if not token:
