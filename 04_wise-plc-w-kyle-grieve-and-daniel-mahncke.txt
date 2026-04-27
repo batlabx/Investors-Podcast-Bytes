@@ -1,0 +1,68 @@
+Wise PLC w/ Kyle Grieve and Daniel Mahncke
+==========================================
+URL:  https://www.theinvestorspodcast.com/episodes/wise-plc-w-kyle-grieve-and-daniel-mahncke/
+Date: 09 April 2026
+
+In today’s episode of The Investor’s Podcast, formerly known as We Study Billionaires, Kyle Grieve is joined by co-host Daniel Mahncke to discuss Wise PLC, a London-listed FinTech company that enables cheap and fast cross-border payments by matching local flows rather than moving money internationally through costly SWIFT networks. They’ll explore Wise’s founding story, its four revenue streams (cross-border payments, card revenue, customer deposit interest, and Wise Platform), and the powerful flywheel that creates economies of scale shared with customers through continuously declining take rates and decreased transaction times. The episode also covers Wise’s competitive moat against banks, remittance companies, and other FinTechs, as well as Kyle’s valuation framework.
+
+SUBSCRIBE
+
+IN THIS EPISODE, YOU’LL LEARN:
+Why two Estonians at a London party ended up disrupting global banking
+The clever mechanism Wise uses to move money without actually crossing borders
+How Wise earns revenue from four streams and why one may surprise you
+Why deliberately lowering your own prices can be a sign of business strength
+Which of Wise’s three competitor industries is the most threatening and why
+The flywheel that makes Wise harder to beat, the larger it grows
+How fast payments have become at Wise, and why the number is staggering
+What to make of the CEO controversy and whether it should concern investors
+How Wise’s capital allocation stacks up against Buffett’s ultimate litmus test
+What the numbers suggest investors could earn holding Wise over the next five years
+And so much more!
+
+Disclosure: This episode and the resources on this page are for informational and educational purposes only and do not constitute financial, investment, tax, or legal advice. For full disclosures, see link.
+
+TRANSCRIPT
+Disclaimer: The transcript that follows has been generated using artificial intelligence. We strive to be as accurate as possible, but minor errors and slightly off timestamps may be present due to platform differences.
+[00:00:00] Kyle Grieve: Over the last five years Wise PLC has compounded reported profits at 90% per year. And yet, if you’ve owned this business since its IPO in 2021, your return has roughly been only 1% per year. So what exactly is going on? The answer, as it turns out, is actually pretty straightforward Wise went public when the market was at peak euphoria.
+[00:00:18] Kyle Grieve: This euphoria created a price for Wise that was simply not sustainable over market cycles as it approached 390 times earnings. A valuation like that leaves zero room for error. And even if you continue to generate high profit growth, the market is very unlikely to maintain a multiple like that for a very long period of time.
+[00:00:37] Kyle Grieve: But if you strip away the noise of the inflated IPO price, what you find is a business that has been quietly compounding its fundamentals and executing at a very high rate. Today I’ll be joined by my co-host Daniel Mahncke, to take a closer look at Wise, we’ll get into how the business actually works.
+[00:00:53] Kyle Grieve: While most investors have probably sent money overseas before, the specific mechanisms of just how that actually happens are probably going to surprise you, and where Wise has its advantage will surprise you even more as it’s very different from what most cross-border payment companies do, which is why Wise has some very unique advantages.
+[00:01:10] Kyle Grieve: We’ll also look at Wise’s revenue streams, honestly assess their true competitors and examine some CEO controversies that I think are worth understanding with some context, we’ll also look at destination analysis, examining where the fundamentals of this business could be headed over the next few years.
+[00:01:26] Kyle Grieve: This should give you a sense of what this business could realistically be worth. I think you’ll find it’s a very different story today than what the stock chart might suggest. Now, let’s get right into this week’s episode on Wise PLC.
+[00:01:41] Intro: Since 2014 and through more than one hundred and ninety million downloads. We break down the principles of value investing and sit down with some of the world’s best asset managers. We uncover potential opportunities in the market and explore the intersection between money, happiness, and the art of living a good life. This show is not investment advice. It’s intended for informational and entertainment purposes only. All opinions expressed by hosts and guests are solely their own, and they may have investments in the securities discussed. Now for your host, Kyle Grieve.
+[00:02:23] Kyle Grieve: Welcome to The Investor’s Podcast. I’m your host, Kyle Grieve, and I’m very excited today to be joined by my co-host Daniel Mahncke, to discuss Wise PLC. Daniel’s going to be joining TIP and me a lot more regularly here, which I’m really, really excited about as I always learn quite a lot from just listening to Daniel’s great analysis.
+
+
+HELP US OUT!
+Help us reach new listeners by leaving us a rating and review on Apple Podcasts! It takes less than 30 seconds, and really helps our show grow, which allows us to bring on even better guests for you all! Thank you – we really appreciate it!
+BOOKS AND RESOURCES
+Join the exclusive ⁠⁠⁠TIP Mastermind Community⁠⁠⁠ to engage in meaningful stock investing discussions with Stig, Clay, Kyle, and the other community members.
+Learn how to join us in Omaha for the Berkshire meeting ⁠⁠here⁠⁠.
+Kyle and Daniel use ⁠Fiscal.ai ⁠for every company they research — use their referral link to get started with a 15% discount!
+Read about ⁠cross-border payments 101⁠.
+Read more on Wise, featured in ⁠Wall Street’s Blind Spots⁠.
+Listen to a ⁠conversation with Wise’s CEO⁠, Kristo Käärmann.
+Related ⁠books⁠ mentioned in the podcast.
+Ad-free episodes on our Premium Feed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+
+Some of the links on this page are affiliate links or relate to partners who support our show. If you choose to sign up or make a purchase through them, we may receive compensation at no additional cost to you.
+NEW TO THE SHOW?
+Get smarter about valuing businesses in just a few minutes each week through our newsletter, ⁠⁠⁠The Intrinsic Value Newsletter⁠⁠⁠.
+Check out ⁠⁠⁠The Investor’s Podcast Starter Packs⁠⁠⁠.
+Follow our official social media accounts: ⁠⁠⁠X (Twitter)⁠⁠⁠ | ⁠⁠⁠LinkedIn⁠⁠⁠ | ⁠⁠⁠Facebook⁠⁠⁠⁠⁠⁠.
+Browse through all our episodes (complete with transcripts) ⁠⁠⁠here⁠⁠⁠.
+Try our tool for picking stock winners and managing our portfolios: ⁠⁠⁠TIP Finance Tool⁠⁠⁠.
+Enjoy exclusive perks from our ⁠⁠⁠favorite Apps and Services⁠⁠⁠.
+Learn how to better start, manage, and grow your business with the ⁠⁠⁠best business podcasts⁠⁠⁠.
+
+SPONSORS
+Support our free podcast by supporting our sponsors:
+HardBlock⁠
+⁠Human Rights Foundation⁠
+⁠Plus500⁠
+⁠Shopify⁠
+⁠Netsuite⁠
+⁠Vanta
+
+References to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.

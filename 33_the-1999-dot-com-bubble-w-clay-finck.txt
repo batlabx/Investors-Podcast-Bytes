@@ -1,0 +1,68 @@
+The 1999 Dot-Com Bubble w/ Clay Finck
+========================================
+URL:  https://www.theinvestorspodcast.com/episodes/the-1999-dot-com-bubble-w-clay-finck/
+Date: 18 December 2025
+
+In this episode, Clay explores the dot-com boom and bust through Roger Lowenstein’s book, Origins of the Crash. The book unpacks how distorted incentives, financial engineering, and speculative excess reshaped markets. By studying this period in market history, investors can better recognize recurring patterns in behavior, incentives, and speculation, and apply those lessons to avoid future manias.
+
+SUBSCRIBE
+
+IN THIS EPISODE, YOU’LL LEARN:
+How distorted incentives fueled the dot-com bubble
+Why stock options often misalign executives and long-term shareholders
+How financial engineering was abused in the 1990s market boom
+The role Wall Street analysts and the media played in amplifying speculation
+Why revolutionary technologies don’t guarantee successful investments
+How Enron’s deception exposed systemic failures in governance and oversight
+Clay’s lessons for avoiding hype-driven bubbles in the future
+And so much more!
+
+TRANSCRIPT
+Disclaimer: The transcript that follows has been generated using artificial intelligence. We strive to be as accurate as possible, but minor errors and slightly off timestamps may be present due to platform differences.
+ 
+[00:00:00] Clay Finck: On today’s episode, we’re exploring one of the most dramatic chapters in financial history, the dot-com boom, in the unraveling that followed, as told through Roger Lowenstein s book, Origins of the Crash. For those who didn’t live through it like myself, the late 1990s can feel almost mythical.
+[00:00:17] Clay Finck: A time when new technologies seemed destined to rewrite every rule of business and investing stocks soared. IPOs doubled in a day, and Wall Street corporate insiders and everyday investors all got swept up in the belief that a new era had arrived. But behind the headlines and the hype were deeper structural problems such as hugely misaligned incentives, questionable accounting practices, and an obsession with short-term stock price movements.
+[00:00:46] Clay Finck: Lowenstein traces how all of this came to a head from the manic rise of internet companies to the stunning collapse of Enron, reminding us just how fragile markets can become when speculation overtakes discipline. In this episode, we’re going to walk through the causes, the characters, and the cascading consequences of the crash, and more importantly, the timeless lessons individual investors can take from it.
+[00:01:11] Clay Finck: These events reshaped corporate governance, transformed regulation and exposed the system’s vulnerabilities when greed, leverage, and new technology collide. So with that, I hope you enjoy today’s episode on the Origins of the Crash by Roger Lowenstein.
+[00:01:30] Intro: Since 2014, and through more than 180 million downloads, we’ve studied the financial markets and read the books that influenced self-made billionaires the most. We keep you informed and prepared for the unexpected. Now for your host, Clay Finck.
+[00:01:54] Clay Finck: On today’s episode, we will be reviewing Roger Lowenstein’s book, Origins of the Crash, which outlines the speculative mania that was at play during the 1999 dot-com bubble. Lowenstein has written several great books, including Buffett: The Making of An American Capitalist, and When Genius Failed, which is a book I covered back on episode 707.
+[00:02:15] Clay Finck: Investors that are my age or younger did not live through the dot-com bubble, but were all familiar with it since its reference so often. Before the fireworks of the late nineties, we need to understand the slow burning fuse that started decades earlier. If we rewind back to the 1970s, it was a brutal time to be a stock market investor, and for the most part, stock investing was just not on people’s radar.
+
+
+HELP US OUT!
+Help us reach new listeners by leaving us a rating and review on Apple Podcasts! It takes less than 30 seconds, and really helps our show grow, which allows us to bring on even better guests for you all! Thank you – we really appreciate it!
+BOOKS AND RESOURCES
+Join the exclusive ⁠⁠⁠TIP Mastermind Community⁠⁠⁠ to engage in meaningful stock investing discussions with Stig, Clay, Kyle, and the other community members.
+Learn how to join us in Omaha for the Berkshire meeting ⁠here⁠.
+Roger Lowenstein’s book: ⁠Origins of the Crash⁠.
+Mentioned Episode ⁠TIP693: The Power Law: Unlocking Venture Capital’s Secrets w/ Clay Finck⁠.
+Related ⁠books⁠ mentioned in the podcast.
+Ad-free episodes on our Premium Feed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+
+NEW TO THE SHOW?
+Get smarter about valuing businesses in just a few minutes each week through our newsletter, ⁠⁠⁠The Intrinsic Value Newsletter⁠⁠⁠.
+Check out our ⁠⁠⁠The Investor’s Podcast Starter Packs⁠⁠⁠.
+Follow our official social media accounts: ⁠⁠⁠X (Twitter)⁠⁠⁠ | ⁠⁠⁠LinkedIn⁠⁠⁠ | ⁠⁠⁠Instagram⁠⁠⁠ | ⁠⁠⁠Facebook⁠⁠⁠ | ⁠⁠⁠TikTok⁠⁠⁠.
+Browse through all our episodes (complete with transcripts) ⁠⁠⁠here⁠⁠⁠.
+Try our tool for picking stock winners and managing our portfolios: ⁠⁠⁠TIP Finance Tool⁠⁠⁠.
+Enjoy exclusive perks from our ⁠⁠⁠favorite Apps and Services⁠⁠⁠.
+Learn how to better start, manage, and grow your business with the ⁠⁠⁠best business podcasts⁠⁠⁠.
+
+SPONSORS
+Support our free podcast by supporting our sponsors:
+Simple Mining⁠⁠
+⁠⁠Human Rights Foundation⁠⁠
+⁠⁠Unchained⁠⁠
+⁠⁠HardBlock⁠⁠
+⁠⁠Linkedin Talent Solutions⁠⁠
+⁠⁠Onramp⁠⁠
+⁠⁠Amazon Ads⁠⁠
+⁠⁠Alexa+⁠⁠
+⁠⁠Shopify⁠⁠
+⁠⁠Vanta⁠⁠
+⁠⁠Public.com
+⁠⁠Abundant Mines⁠⁠
+⁠⁠Horizon
+
+Paid endorsement. Brokerage services provided by Open to the Public Investing Inc, member FINRA & SIPC. Investing involves risk. Not investment advice. Generated Assets is an interactive analysis tool by Public Advisors. Output is for informational purposes only and is not an investment recommendation or advice. See disclosures at public.com/disclosures/ga. Past performance does not guarantee future results, and investment values may rise or fall. See terms of match program at https://public.com/disclosures/matchprogram. Matched funds must remain in your account for at least 5 years. Match rate and other terms are subject to change at any time.
+Disclosure: The Investor’s Podcast Network is an Amazon Associate. We may earn commission from qualifying purchases made through our affiliate links.

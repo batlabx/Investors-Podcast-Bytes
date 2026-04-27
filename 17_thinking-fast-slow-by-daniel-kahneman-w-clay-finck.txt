@@ -1,0 +1,62 @@
+Thinking Fast & Slow by Daniel Kahneman w/ Clay Finck
+=====================================================
+URL:  https://www.theinvestorspodcast.com/episodes/thinking-fast-slow-by-daniel-kahneman-w-clay-finck/
+Date: 19 February 2026
+
+In this episode, Clay explores Daniel Kahneman’s book Thinking, Fast and Slow, unpacking the cognitive biases that quietly shape our investment decisions. While markets often appear to be driven by data and logic, our decisions are frequently influenced by intuition, emotions, and mental shortcuts we don’t even realize we’re using. 
+Clay connects Kahneman’s insights on System 1 and System 2 thinking, loss aversion, overconfidence, and hindsight bias directly to stock investing. By understanding these mental traps, investors can make clearer decisions when emotions and uncertainty run high.
+
+SUBSCRIBE
+
+IN THIS EPISODE, YOU’LL LEARN:
+The difference between System 1 and System 2 thinking
+Why temperament matters more than IQ in investing
+How cognitive substitution leads investors to answer the wrong questions and unknowingly ignore the more important questions
+How loss aversion shapes investor behavior during drawdowns and market volatility
+Clay’s updated views on Constellation Software
+And so much more!
+
+Disclosure: This episode and the resources on this page are for informational and educational purposes only and do not constitute financial, investment, tax, or legal advice. For full disclosures, see link.
+
+TRANSCRIPT
+Disclaimer: The transcript that follows has been generated using artificial intelligence. We strive to be as accurate as possible, but minor errors and slightly off timestamps may be present due to platform differences.
+[00:00:03] Clay Finck: On today’s episode, we will be exploring the book, thinking Fast and Slow by Daniel Kahneman. Kahneman is a Nobel Prize winning psychologist whose research helps shape the field of behavioral economics and transformed how we understand decision making. At the center of the book is the idea that our minds operate through two systems.
+[00:00:22] Clay Finck: One is fast, intuitive, and automatic, and the other is slow, deliberate, and analytical. Most of the time, we rely on the first far more than we realize, even when the stakes are at their highest. For investors, this matters deeply. Many of the biggest mistakes in markets are not driven by a lack of information, but by cognitive biases like loss aversion overconfidence, and our tendency to not think hard about the difficult but important questions.
+[00:00:51] Clay Finck: In this episode, we’ll break down several of Kahneman’s most important insights and connect them directly to investing, and at the end of the episode, I’ll share some of my thoughts around the recent sell off of software companies. In more recent news related to Constellation Software. So with that, I hope you enjoy today’s episode.
+[00:01:14] Intro: Since 2014 and through more than 190 million downloads, we break down the principles of value investing and sit down with some of the world’s best asset managers. We uncover potential opportunities in the market and explore the intersection between money, happiness, and the art of living a good life. This show is not investment advice. It’s intended for informational and entertainment purposes only. All opinions expressed by hosts and guests are solely their own, and they may have investments in the securities discussed. Now, for your host, Clay Finck.
+[00:01:56] Clay Finck: Hey everybody. Welcome back to The Investor’s Podcast. I’m your host, Clay Finck. On today’s episode, I’ll be discussing Daniel Kahneman’s book, Thinking Fast and Slow. This book is a masterclass in explaining the inherent biases that we all have as humans, as it was based on decades of experimental psychology research, much of which was conducted by Kahneman and Amos Tversky.
+[00:02:19] Clay Finck: In their research, they relied on controlled experiments that tested how people make judgements under uncertainty using simple problems and decision scenarios. And these experiments revealed systematic and repeatable errors in human reasoning rather than just random mistakes. Daniel Kahneman has a Nobel Prize in economics and has popularized several ideas on the subject of behavioral finance, such as loss aversion, overconfidence, and cognitive biases.
+
+
+HELP US OUT!
+Help us reach new listeners by leaving us a rating and review on Apple Podcasts! It takes less than 30 seconds, and really helps our show grow, which allows us to bring on even better guests for you all! Thank you – we really appreciate it!
+BOOKS AND RESOURCES
+Join the exclusive ⁠⁠⁠TIP Mastermind Community⁠⁠⁠ to engage in meaningful stock investing discussions with Stig, Clay, Kyle, and the other community members.
+Learn how to join us in Omaha for the Berkshire meeting ⁠⁠here⁠⁠.
+Daniel Kahneman’s book: ⁠Thinking Fast & Slow⁠.
+Sequoia Fund’s ⁠2025 year-end letter⁠.
+Related ⁠books⁠ mentioned in the podcast.
+Ad-free episodes on our Premium Feed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+
+Some of the links on this page are affiliate links or relate to partners who support our show. If you choose to sign up or make a purchase through them, we may receive compensation at no additional cost to you.
+NEW TO THE SHOW?
+Get smarter about valuing businesses in just a few minutes each week through our newsletter, ⁠⁠⁠The Intrinsic Value Newsletter⁠⁠⁠.
+Check out our ⁠⁠⁠We Study Billionaires Starter Packs⁠⁠⁠.
+Follow our official social media accounts: ⁠⁠⁠X (Twitter)⁠⁠⁠ | ⁠⁠⁠LinkedIn⁠⁠⁠ | ⁠⁠⁠Facebook⁠⁠⁠⁠⁠⁠.
+Browse through all our episodes (complete with transcripts) ⁠⁠⁠here⁠⁠⁠.
+Try our tool for picking stock winners and managing our portfolios: ⁠⁠⁠TIP Finance Tool⁠⁠⁠.
+Enjoy exclusive perks from our ⁠⁠⁠favorite Apps and Services⁠⁠⁠.
+Learn how to better start, manage, and grow your business with the ⁠⁠⁠best business podcasts⁠⁠⁠.
+
+SPONSORS
+Support our free podcast by supporting our sponsors:
+HardBlock⁠
+⁠Human Rights Foundation⁠
+⁠Simple Mining⁠
+⁠Netsuite⁠
+⁠Masterworks⁠
+⁠Shopify⁠
+⁠Vanta⁠
+⁠Fundrise
+
+References to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.

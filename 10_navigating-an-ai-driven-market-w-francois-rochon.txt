@@ -1,0 +1,67 @@
+Navigating an AI-Driven Market w/ François Rochon
+=================================================
+URL:  https://www.theinvestorspodcast.com/episodes/navigating-an-ai-driven-market-w-francois-rochon/
+Date: 19 March 2026
+
+On today’s episode of The Investor’s Podcast, formerly known as We Study Billionaires, Clay is joined by François Rochon to discuss his 2025 annual letter and the key themes shaping markets in 2025. François shares his thoughts on the rapid rise of artificial intelligence, drawing historical parallels to the railroad boom and the early internet era to highlight the difficulty of valuing AI businesses. He also digs into his top holdings, including Constellation Software, Alphabet, and Meta, and makes the case that great businesses with durable moats remain attractive even amid technological disruption. 
+Since Francois started the Rochon Global Portfolio in 1993, he’s compounded capital at 13.4% per year on average net of fees, and the S&P 500 has compounded at 10.8%.
+
+SUBSCRIBE
+
+IN THIS EPISODE, YOU’LL LEARN:
+François’s key takeaways and lessons from 2025
+Why François views AI as a revolution on par with the early internet and why it’s still so hard to value
+The circular investment dynamic in AI infrastructure and what it means for companies like Nvidia
+How Alphabet and Meta are using massive capex spending to both defend and grow their businesses
+Why François believes shares of Constellation Software are cheap despite the AI-driven sell-off in software stocks
+What made Mark Leonard one of François’s favorite CEOs of all time
+Why François sold CarMax after 18 years and what that decision taught him
+The three essential qualities every successful long-term investor must develop — rationality, humility, and patience
+And so much more!
+
+Disclosure: This episode and the resources on this page are for informational and educational purposes only and do not constitute financial, investment, tax, or legal advice. For full disclosures, see link.
+
+TRANSCRIPT
+Disclaimer: The transcript that follows has been generated using artificial intelligence. We strive to be as accurate as possible, but minor errors and slightly off timestamps may be present due to platform differences.
+[00:00:00] Clay Finck: On today’s episode, we bring back returning guests and investing legend Francois Rochon. Francois is the founder and portfolio manager at Giverny Capital, which he’s been running for over 30 years. He believes that owning great businesses at fair prices, staying fully invested in exercising patients are the keys to long-term investing success.
+[00:00:21] Clay Finck: Since Francois started the Rochon Global Portfolio in 1993, he’s compounded capital at 13.4% per year net of fees while the S&P 500 compounded at 10.8%. He’s one of the rare investors who have outperformed the market over multiple decades. During this conversation, we discuss his key takeaways and lessons from 2025, why Francois views AI as a revolution on par with the early internet, the circular investment dynamic in AI infrastructure, and what this means for companies like Nvidia, how Alphabet and Meta are using their massive capex spend to both defend and grow their businesses, why Francois believes that shares of Constellation software are cheap following the software selloff, what made Mark Leonard one of Francois’s favorite CEOs of all time in the three essential qualities every successful long-term investor must develop. That’s rationality, humility, and patience. With that, I really hope you enjoy my conversation with Francois Rochon.
+[00:01:23] Intro: Since 2014 and through more than 190 million downloads, we break down the principles of value investing and sit down with some of the world’s best asset managers. We uncover potential opportunities in the market and explore the intersection between money, happiness, and the art of living a good life. This show is not investment advice. It’s intended for informational and entertainment purposes only. All opinions expressed by hosts and guests are solely their own, and they may have investments in the securities discussed. Now, for your host, Clay Finck.
+[00:02:05] Clay Finck: Hey everybody. Welcome back to The Investor’s Podcast. I’m your host, Clay Finck, and today we welcome back Francois Rochon from Giverny Capital. Francois. As always, it’s great to have you back.
+[00:02:17] Francois Rochon: Thank you.
+[00:02:18] Clay Finck: So you just published your annual letter for 2025, which I certainly always enjoy visiting each year. And we’ll be getting to, you know, your letter, the markets and your investments as always.
+[00:02:29] Clay Finck: But I’m curious, as you look back on 2025, what are some of the things you learned throughout the year? It can be investment related or anything you found useful or interesting.
+[00:02:41] Francois Rochon: Well, it was a tough year. You know, at first our biggest holding constellation software, although we had good results, the stock went down 26%.
+[00:02:49] Francois Rochon: So that was was a little tough. Of course, we always keep the eye on the long term and you know, it’s been in the portfolio for 12 years. So, so far it’s been a very rewarding investment. But last year was a little tougher and we had two stocks that didn’t do very well last year. That really hurt us at CarMax, at Pfizer, and perhaps we could go into a deeper later in the interview, but we sold them during the fall.
+
+
+HELP US OUT!
+Help us reach new listeners by leaving us a rating and review on Apple Podcasts! It takes less than 30 seconds, and really helps our show grow, which allows us to bring on even better guests for you all! Thank you – we really appreciate it!
+BOOKS AND RESOURCES
+Join the exclusive ⁠⁠⁠TIP Mastermind Community⁠⁠⁠ to engage in meaningful stock investing discussions with Stig, Clay, Kyle, and the other community members.
+Learn how to join us in Omaha for the Berkshire meeting ⁠⁠here⁠⁠.
+Rochon’s firm: Giverny Capital.
+Rochon’s annual letters.
+Related ⁠books⁠ mentioned in the podcast.
+Ad-free episodes on our Premium Feed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+
+Some of the links on this page are affiliate links or relate to partners who support our show. If you choose to sign up or make a purchase through them, we may receive compensation at no additional cost to you.
+NEW TO THE SHOW?
+Get smarter about valuing businesses in just a few minutes each week through our newsletter, ⁠⁠⁠The Intrinsic Value Newsletter⁠⁠⁠.
+Check out ⁠⁠The Investor’s Podcast Starter Packs⁠⁠⁠.
+Follow our official social media accounts: ⁠⁠⁠X (Twitter)⁠⁠⁠ | ⁠⁠⁠LinkedIn⁠⁠⁠ | ⁠⁠⁠Facebook⁠⁠⁠⁠⁠⁠.
+Browse through all our episodes (complete with transcripts) ⁠⁠⁠here⁠⁠⁠.
+Try our tool for picking stock winners and managing our portfolios: ⁠⁠⁠TIP Finance Tool⁠⁠⁠.
+Enjoy exclusive perks from our ⁠⁠⁠favorite Apps and Services⁠⁠⁠.
+Learn how to better start, manage, and grow your business with the ⁠⁠⁠best business podcasts⁠⁠⁠.
+
+SPONSORS
+Support our free podcast by supporting our sponsors:
+HardBlock
+Human Rights Foundation
+Vanta
+Unchained
+Netsuite
+Fundrise
+Shopify
+
+References to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.

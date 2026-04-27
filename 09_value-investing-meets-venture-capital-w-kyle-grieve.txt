@@ -1,0 +1,70 @@
+Value Investing Meets Venture Capital w/ Kyle Grieve
+====================================================
+URL:  https://www.theinvestorspodcast.com/episodes/value-investing-meets-venture-capital-w-kyle-grieve/
+Date: 21 March 2026
+
+In today’s episode of The Investor’s Podcast, formerly known as We Study Billionaires, Kyle Grieve discusses lessons from venture capital that long-term value investors can apply to improve decision-making. He explores concepts such as power laws, network effects, de-risking investments, and the importance of holding high-potential businesses. Kyle also shares personal investing experiences and frameworks that blend VC thinking with value investing principles to identify asymmetric opportunities and long-term compounders.
+
+SUBSCRIBE
+
+IN THIS EPISODE, YOU’LL LEARN:
+How venture capital power laws shape investing returns and portfolio outcomes
+Why a tiny number of winners dominate most long-term investing results
+Why selling potential power-law winners early can severely damage portfolio performance
+How modest portfolio contributors can evolve into massive long-term winners
+Why accepting losses is the cost of capturing outsized investing returns
+How Moore’s Law and Metcalfe’s Law create powerful technology-driven investment opportunities
+Why investors should scale positions as businesses become progressively de-risked
+How unpopular or overlooked businesses can generate exceptional long-term investment returns
+Why averaging up in strong businesses can outperform traditional value strategies
+How long-horizon arbitrage allows investors to benefit from fundamental business improvement
+And so much more!
+
+Disclosure: This episode and the resources on this page are for informational and educational purposes only and do not constitute financial, investment, tax, or legal advice. For full disclosures, see link.
+
+TRANSCRIPT
+Disclaimer: The transcript that follows has been generated using artificial intelligence. We strive to be as accurate as possible, but minor errors and slightly off timestamps may be present due to platform differences.
+[00:00:00] Kyle Grieve: Let’s imagine for a second that you made a hundred investments over your lifetime. Now imagine that only three of those investments generated more than half of your total returns. That might sound crazy at first because most investors think about returns like a bell curve.
+[00:00:14] Kyle Grieve: We imagine a few winners, a few losers, and a large number of outcomes in between. But that’s not really how investing works. In reality, investing tends to follow something called a power law in which a small number of outcomes drive the vast majority of results. And interestingly enough, there’s one corner of the investing world that has developed a very deep insight into this dynamic venture capital.
+[00:00:37] Kyle Grieve: Now, if you’re a value investor, venture capital might seem like the last place that you’d look for lessons on how to improve your investing. After all, venture capital firms primarily invest in early stage companies where most investments not only fail to make money, but often go to zero. But when you look a little deeper, venture capital has developed some incredibly powerful frameworks for thinking about asymmetric returns, risk management, position sizing, and long-term decision making.
+[00:01:03] Kyle Grieve: And many of these frameworks translate surprisingly well to investors operating in public markets. Over the past few years, I found that some of the most valuable lessons that have improved my own investing have come directly from studying how venture capitalists think about their portfolios. Venture capitalists are forced to think differently simply because their investments are largely illiquid.
+[00:01:24] Kyle Grieve: They cannot easily just go and sell their positions, and that constraint leads to a powerful realization. One great investment can carry an entire portfolio, even when the majority of investments fall flat on their face. This way of thinking encourages investors to focus deeply on how businesses scale, how network effects can create extraordinary compounders, and how to add to winners rather than selling them too early.
+[00:01:48] Kyle Grieve: Venture capitalists also have fasting frameworks around de-risking investments, identifying key inflection points, and investing with an extremely long time horizon. When you begin applying some of these ideas to public markets, you start to see investing in a completely different light. You’ll even notice that many legendary public investors arrived at similar conclusions despite never describing their approach as venture style investing.
+[00:02:12] Kyle Grieve: In today’s episode, we’re going to explore several lessons from venture capital that long-term investors can apply to their own portfolios. So if you’re interested in improving your skills as a longtime investor, just thinking more clearly about outsize winners, understanding asymmetric opportunities better, and improving portfolio construction, I think you’re going to find this episode especially valuable.
+[00:02:32] Kyle Grieve: So let’s dive right into this week’s episode on what investors can learn from the world of venture capital.
+[00:02:40] Intro: Since 2014 and through more than 190 million downloads, we break down the principles of value investing and sit down with some of the world’s best asset managers. We uncover potential opportunities in the market and explore the intersection between money, happiness, and the art of living a good life.
+[00:02:58] Intro: This show is not investment advice. It’s intended for informational and entertainment purposes only. All opinions expressed by hosts and guests are solely their own, and they may have investments in the securities discussed. Now, for your host, Kyle Grieve.
+[00:03:23] Kyle Grieve: Welcome to The Investor’s Podcast. I’m your host, Kyle Grieve, and today we’re going to discuss lessons from the world of venture capital that long-term investors can utilize in their own investing strategy to improve their own decision making. Now, you may be thinking that VC is a very strange place for value investors to look for insights.
+[00:03:40] Kyle Grieve: Don’t VC businesses primarily invest in story stocks where you know, 90% of them or more go to zero? And I can’t argue with you on that point. Yes, VC invests in a very specific way, but as I learned more and more about the deep details of cloning from my co-host, William Green, we can clone just the parts that we find useful and disregard the rest.
+
+
+HELP US OUT!
+Help us reach new listeners by leaving us a rating and review on Apple Podcasts! It takes less than 30 seconds, and really helps our show grow, which allows us to bring on even better guests for you all! Thank you – we really appreciate it!
+BOOKS AND RESOURCES
+Join the exclusive ⁠⁠⁠TIP Mastermind Community⁠⁠⁠ to engage in meaningful stock investing discussions with Stig, Clay, Kyle, and the other community members.
+Learn how to join us in Omaha for the Berkshire meeting ⁠⁠here⁠⁠.
+Buy ⁠The Power Law⁠.
+Related ⁠books⁠ mentioned in the podcast.
+Ad-free episodes on our Premium Feed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+
+Some of the links on this page are affiliate links or relate to partners who support our show. If you choose to sign up or make a purchase through them, we may receive compensation at no additional cost to you.
+NEW TO THE SHOW?
+Get smarter about valuing businesses in just a few minutes each week through our newsletter, ⁠⁠⁠The Intrinsic Value Newsletter⁠⁠⁠.
+Check out ⁠⁠The Investor’s Podcast Starter Packs⁠⁠⁠.
+Follow our official social media accounts: ⁠⁠⁠X (Twitter)⁠⁠⁠ | ⁠⁠⁠LinkedIn⁠⁠⁠ | ⁠⁠⁠Facebook⁠⁠⁠⁠⁠⁠.
+Browse through all our episodes (complete with transcripts) ⁠⁠⁠here⁠⁠⁠.
+Try our tool for picking stock winners and managing our portfolios: ⁠⁠⁠TIP Finance Tool⁠⁠⁠.
+Enjoy exclusive perks from our ⁠⁠⁠favorite Apps and Services⁠⁠⁠.
+Learn how to better start, manage, and grow your business with the ⁠⁠⁠best business podcasts⁠⁠⁠.
+
+SPONSORS
+Support our free podcast by supporting our sponsors:
+HardBlock⁠⁠
+⁠⁠Human Rights Foundation⁠⁠
+⁠⁠Vanta⁠⁠
+⁠⁠Unchained⁠⁠
+⁠⁠Netsuite⁠⁠
+⁠⁠Fundrise⁠⁠
+⁠⁠Shopify
+
+References to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.
