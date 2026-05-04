@@ -1,0 +1,68 @@
+Hedging Against Market Crashes w/ Kris Sidial
+=============================================
+URL:  https://www.theinvestorspodcast.com/episodes/hedging-against-market-crashes-w-kris-sidial/
+Date: 27 February 2025
+
+On today’s episode, Clay is joined by Kris Sidial to discuss tail risk hedging. A tail risk hedging strategy is designed to help investors protect their portfolios from extreme market downturns, reducing the risk of significant capital loss. By mitigating large drawdowns, investors can potentially achieve a smoother return profile over time, enhancing their Sharpe ratio and the long-term growth of their portfolio. Kris Sidial is the co-investment officer of Ambrus Group, which implements a carry-neutral tail risk hedging strategy to protect investors against market crashes.
+
+SUBSCRIBE
+
+SUBSCRIBE
+
+IN THIS EPISODE, YOU’LL LEARN:
+What a tail risk hedging strategy is and how it’s implemented.
+What is the VIX, and how it ties into a tail risk hedging strategy.
+Examples of historical market blowups where a tail risk strategy thrives.
+The benefits of a tail risk strategy to investor portfolios.
+Why the reflexive nature of markets has led to more violent and swift drawdowns in recent years.
+Legendary traders Kris looks up to and books that influenced him the most.
+And so much more!
+
+TRANSCRIPT
+Disclaimer: The transcript that follows has been generated using artificial intelligence. We strive to be as accurate as possible, but minor errors and slightly off timestamps may be present due to platform differences. [00:00:02] Clay Finck: On today’s episode, I’m joined by Kris Sidial to discuss tail risk hedging. Kris is the co-investment officer of Ambrus Group, which implements a carry neutral tail risk hedging strategy to protect investors against market crashes. A tail risk hedging strategy is designed to help investors protect their portfolios from extreme market downturns, reducing the risk of significant capital loss by mitigating large drawdowns. [00:00:26] Clay Finck: Investors can potentially achieve a smoother return profile over time, enhancing their risk adjusted returns in the long term growth of their portfolio. During this episode, Kris and I discuss what a tail risk hedging strategy is and how it’s implemented, how investors should think about the VIX, examples of historical market blow ups where a tail risk strategy thrives. [00:00:45] Clay Finck: The benefits of this strategy to investors portfolios, why the reflexive nature of markets has led to more violent and swift drawdowns such as what happened in March 2020, the legendary traders Kris looks up to, and so much more. While we very rarely discuss different trading strategies here on the show, Kris’s approach to tail risk hedging very much reminds me of someone who is taking a value investing approach and applying it to the derivatives market. [00:01:09] Clay Finck: So with that, here’s my chat with Kris Sidial. [00:01:16] Intro: Since 2014, and through more than 180 million downloads, we’ve studied the financial markets and read the books that influenced self-made billionaires the most. We keep you informed and prepared for the unexpected. Now for your host, Clay Finck. [00:01:40] Clay Finck: All right. Welcome to The Investor’s Podcast. I’m your host, Clay Finck. And today I’m happy to welcome Kris Sidial to the show. Kris, it’s great to have you here. Thanks so much for having me. I’m excited. I think today’s going to be a good one. On today’s episode, we’re going to be diving into the topic of tail risk hedging, which is a topic we’ve touched on only a couple of times over the years of the show. [00:01:59] Clay Finck: And before this interview, I was thinking about how we just live in a world where volatility and uncertainty are features of the world and not necessarily a bug and it’s likely always going to be that way. And for investors, we’ve been a bit spoiled with this secular bull market since the great financial crisis with a few periods here and there of moderate declines before we roared back to new highs. [00:02:23] Clay Finck: And I think that this can lead to a bit of just complacency among investors who might not appreciate just how uncertain the world can be. With that said, how about we just start by defining what a tail risk hedging strategy is. [00:02:37] Kris Sidial: So it could sound a little bit more opaque than it actually is. And I think an easy way for people to think about this is they could say, okay, if you have a coin and you flip a coin, there’s only two outcomes that could potentially occur, right?
+
+
+HELP US OUT!
+Help us reach new listeners by leaving us a rating and review on Spotify! It takes less than 30 seconds, and really helps our show grow, which allows us to bring on even better guests for you all! Thank you – we really appreciate it!
+BOOKS AND RESOURCES
+Join the exclusive TIP Mastermind Community to engage in meaningful stock investing discussions with Stig, Clay, Kyle, and the other community members.
+Kris’s firm: Ambrus Group.
+Book mentioned: The Misbehavior of Markets.
+Episode mentioned: TIP128: Edward Thorp: Investing Legend, Math Genius.
+Email Shawn at shawn@theinvestorspodcast.com to attend our free events in Omaha or visit this page.
+Check out all the books mentioned and discussed in our podcast episodes here.
+Enjoy ad-free episodes when you subscribe to our Premium Feed.
+
+NEW TO THE SHOW?
+Follow our official social media accounts: X (Twitter) | LinkedIn | Instagram | Facebook | TikTok.
+Check out our The Investor’s Podcast Starter Packs.
+Browse through all our episodes (complete with transcripts) here.
+Try our tool for picking stock winners and managing our portfolios: TIP Finance Tool.
+Enjoy exclusive perks from our favorite Apps and Services.
+Stay up-to-date on financial markets and investing strategies through our daily newsletter, We Study Markets.
+Learn how to better start, manage, and grow your business with the best business podcasts.
+
+SPONSORS
+Support our free podcast by supporting our sponsors:
+HardBlock
+SimpleMining
+Unchained
+Netsuite
+Found
+Fintool
+The Bitcoin Way
+Shopify
+Vanta
+Onramp
+TurboTax
+PrizePicks
+Fundrise
+
+CONNECT WITH CLAY
+
+CONNECT WITH KRIS
+
+PROMOTIONS
+Check out our latest offer for all The Investor’s Podcast Network listeners!
+
+WSB + BFF + RWH Promotions
