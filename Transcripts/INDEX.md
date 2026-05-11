@@ -1,6 +1,6 @@
 # Episode Index
 
-Auto-generated index of every episode summary in this folder. **134 episodes** archived, most recent first.
+Auto-generated index of every episode summary in this folder. **138 episodes** archived, most recent first.
 
 Want the daily 5-minute read instead of digging through these `.txt` files? **[Subscribe on Substack →](https://batlab.substack.com)**
 
@@ -140,6 +140,10 @@ Want the daily 5-minute read instead of digging through these `.txt` files? **[S
 | 132 | [Mastering Focus Investing: Lessons From The Legends](132_mastering-focus-investing-lessons-from-the-legends.txt) | 23 November 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/mastering-focus-investing-lessons-from-the-legends/) |
 | 133 | [You Can Be a Stock Market Genius w/ Roger Fan](133_you-can-be-a-stock-market-genius-roger-fan.txt) | 21 November 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/you-can-be-a-stock-market-genius-roger-fan/) |
 | 134 | [Richer, Wiser, Happier Q4, 2024 w/ Stig Brodersen & William Green](134_richer-wiser-happier-q4-2024-w-stig-brodersen-william-green.txt) | 16 November 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/richer-wiser-happier-q4-2024-w-stig-brodersen-william-green/) |
+| 135 | [Microsoft (MSFT): Is Microsoft a Misunderstood AI Opportunity?](135_microsoft-msft-is-microsoft-a-misunderstood-ai-opportunity-tip.txt) | 06 May 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/microsoft-msft-is-microsoft-a-misunderstood-ai-opportunity-tip/) |
+| 136 | [Mohnish Pabrai: Berkshire & Letting Winners Run](136_mohnish-pabrai-berkshire-letting-winners-run.txt) | 02 May 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/mohnish-pabrai-berkshire-letting-winners-run/) |
+| 137 | [OTC Markets: A Picks and Shovels Play in Modern Capital Markets](137_otc-markets-otcm-a-picks-and-shovels-play-in-modern-capital-markets-tip.txt) | 29 April 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/otc-markets-otcm-a-picks-and-shovels-play-in-modern-capital-markets-tip/) |
+| 138 | [Berkshire Hathaway 2026 Valuation w/ Chris Bloomstran](138_berkshire-hathaway-2026-valuation-w-chris-bloomstran.txt) | 25 April 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/berkshire-hathaway-2026-valuation-w-chris-bloomstran/) |
 
 ---
 
