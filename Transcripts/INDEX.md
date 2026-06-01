@@ -1,6 +1,6 @@
 # Episode Index
 
-Auto-generated index of every episode summary in this folder. **168 episodes** archived, most recent first.
+Auto-generated index of every episode summary in this folder. **188 episodes** archived, most recent first.
 
 Want the daily 5-minute read instead of digging through these `.txt` files? **[Subscribe on Substack →](https://batlab.substack.com)**
 
@@ -174,6 +174,26 @@ Want the daily 5-minute read instead of digging through these `.txt` files? **[S
 | 166 | [TIP649: Owning Stocks for the Long Run w/ Pierre-Olivier Langevin](166_owning-stocks-for-the-long-run-pierre-olivier-langevin.txt) | 01 August 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/owning-stocks-for-the-long-run-pierre-olivier-langevin/) |
 | 167 | [Essential Skills for Successful Investing w/ Ian Cassel](167_essential-skills-for-successful-investing-w-ian-cassel.txt) | 27 July 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/essential-skills-for-successful-investing-w-ian-cassel/) |
 | 168 | [TIP647: Value Investing Masterclass w/ Soo Chuen Tan - The Investor's Podcast Network](168_value-investing-masterclass-soo-chuen-tan.txt) | 25 July 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/value-investing-masterclass-soo-chuen-tan/) |
+| 169 | [Simple Investing Beats Complexity \| The Investor's Podcast](169_simple-investing-beats-complexity.txt) | 23 May 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/simple-investing-beats-complexity/) |
+| 170 | [Sea Limited (SE): Can Sea Limited 10x Again?](170_sea-limited-se-can-sea-limited-10x-again-tip.txt) | 20 May 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/sea-limited-se-can-sea-limited-10x-again-tip/) |
+| 171 | [Lyn Alden on Why Fiscal Dominance Changes Everything](171_lyn-alden-on-why-fiscal-dominance-changes-everything.txt) | 16 May 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/lyn-alden-on-why-fiscal-dominance-changes-everything/) |
+| 172 | [How To Understand A Business Like A Pro w/ Kyle Grieve](172_how-to-understand-a-business-like-a-pro-w-kyle-grieve.txt) | 19 July 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/how-to-understand-a-business-like-a-pro-w-kyle-grieve/) |
+| 173 | [The King of Luxury: Bernard Arnault & LVMH w/ Christian Billinger](173_the-king-of-luxury-bernard-arnault-lvmh-w-christian-billinger.txt) | 18 July 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/the-king-of-luxury-bernard-arnault-lvmh-w-christian-billinger/) |
+| 174 | [Richer, Wiser, Happier Q3, 2024 w/ Stig Brodersen & William Green](174_richer-wiser-happier-q3-2024-w-stig-brodersen-william-green.txt) | 13 July 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/richer-wiser-happier-q3-2024-w-stig-brodersen-william-green/) |
+| 175 | [The Luxury Strategy w/ Christian Billinger](175_the-luxury-strategy-w-christian-billinger.txt) | 11 July 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/the-luxury-strategy-w-christian-billinger/) |
+| 176 | [The Story of Starbucks: Building an Iconic Brand w/ Clay Finck](176_the-story-of-starbucks-building-an-iconic-brand-w-clay-finck.txt) | 04 July 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/the-story-of-starbucks-building-an-iconic-brand-w-clay-finck/) |
+| 177 | [Improve Decision Making with Mental Models w/ Clay & Kyle](177_improve-decision-making-with-mental-models-w-clay-finck-kyle-grieve.txt) | 29 June 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/improve-decision-making-with-mental-models-w-clay-finck-kyle-grieve/) |
+| 178 | [Investing: The Last Liberal Art w/ Clay Finck & Kyle Grieve](178_investing-the-last-liberal-art-w-clay-finck-kyle-grieve.txt) | 27 June 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/investing-the-last-liberal-art-w-clay-finck-kyle-grieve/) |
+| 179 | [TIP639: Buffett's Favorite Business Book w/ David Fagan - The Investor's Podcast Network](179_buffetts-favorite-business-book-w-david-fagan.txt) | 20 June 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/buffetts-favorite-business-book-w-david-fagan/) |
+| 180 | [Gold w/ Lyn Alden \| The Investor's Podcast Network](180_gold-w-lyn-alden.txt) | 15 June 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/gold-w-lyn-alden/) |
+| 181 | [TIP637: Jeff Bezos Shareholder Letters w/ Clay Finck - The Investor's Podcast Network](181_jeff-bezos-letters-w-clay-finck.txt) | 13 June 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/jeff-bezos-letters-w-clay-finck/) |
+| 182 | [Billionaire Investing Legend Li Lu w/ Clay Finck](182_billionaire-investing-legend-li-lu-w-clay-finck.txt) | 08 June 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/billionaire-investing-legend-li-lu-w-clay-finck/) |
+| 183 | [Deep Diving Into The Warren Buffett Way w/ Robert Hagstrom - TIP](183_deep-diving-into-the-warren-buffett-way-w-robert-hagstrom.txt) | 01 June 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/deep-diving-into-the-warren-buffett-way-w-robert-hagstrom/) |
+| 184 | [Value Investing Fundamentals w/ John Huber](184_value-investing-fundamentals-w-john-huber.txt) | 30 May 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/value-investing-fundamentals-w-john-huber/) |
+| 185 | [What I Learned from Chris Mayer w/ Clay Finck](185_what-i-learned-from-chris-mayer-w-clay-finck.txt) | 23 May 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/what-i-learned-from-chris-mayer-w-clay-finck/) |
+| 186 | [Mastermind Q2 2024 w/ Tobias Carlisle and Hari Ramachandra](186_mastermind-q2-2024-burberry-icici-bank-limited-playtika.txt) | 18 May 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/mastermind-q2-2024-burberry-icici-bank-limited-playtika/) |
+| 187 | [The Bullish Energy Cycle w/ Arvind Sanger](187_the-bullish-energy-cycle-w-arvind-sanger.txt) | 16 May 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/the-bullish-energy-cycle-w-arvind-sanger/) |
+| 188 | [The Wealthy Gardener w/ Kyle Grieve](188_the-wealthy-gardener-w-kyle-grieve.txt) | 11 May 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/the-wealthy-gardener-w-kyle-grieve/) |
 
 ---
 
