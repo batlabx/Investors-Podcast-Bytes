@@ -1,0 +1,91 @@
+The Art Of Decision Making w/ Annie Duke - TIP Network
+======================================================
+URL:  https://www.theinvestorspodcast.com/episodes/the-art-of-decision-making/
+Date: 13 April 2024
+
+Kyle Grieve chats with Annie Duke about her own story of quitting and how it helped sparked the idea for one of her books, the importance of base rates in helping us make better decisions, how to improve our investing processes when we have long feedback loops, the importance of using kill criteria to quit an investment or hypothesis, how to use a quitting coach to help you quit things we hold onto for too long, the importance of dissociating ourselves from our most cherished ideas, and a whole lot more!
+Annie Duke is an author, consultant, and speaker in the decision-making space. She’s a Special Partner focused on Decision Science at First Round Capital Partners, a seed-stage venture fund. In her poker career, Annie has won more than $4 million from playing tournament poker, winning events such as the World Series of Poker. She is the only woman to win the World Series of Poker Tournament of Champions and the NBC National Poker Heads-Up Championship. In 2023, Annie completed her PhD in Cognitive Psychology at UPenn. Annie co-founded The Alliance for Decision Education, a non-profit whose mission is to improve lives by empowering students through decision skills education.
+
+SUBSCRIBE
+
+SUBSCRIBE
+
+IN THIS EPISODE, YOU’LL LEARN:
+Annie’s own story of quitting and how it got here to where she is today.
+Why expected value is so crucial for investors to manage risk best.
+The importance of understanding base rates.
+How we can use base rates to help us best understand expected values of our investments.
+How we can reframe our analysis of a business to close feedback loops on long-term investments.
+How we can get transfer from one skill to another far away skill (e.g. chess to investing).
+How we can use kill criteria in our investing decision-making to improve our abilities to quit a losing investment.
+How we can disassociate ourselves from our investments to reduce the impacts of the endowment effects.
+How to engineer your decision-making to give yourself an outside view.
+How to set up a quitting coach by permitting them to disagree with you.
+And so much more!
+
+TRANSCRIPT
+Disclaimer: The transcript that follows has been generated using artificial intelligence. We strive to be as accurate as possible, but minor errors and slightly off timestamps may be present due to platform differences.
+[00:00:02] Kyle Grieve: Annie Duke has one of the best minds on decision making I’ve talked to on We Study Billionaires. Decision making might not sound thrilling at first, but hold on tight because this is the very essence of successful investing. Think about it. Every trade, every hold, every decision is a product of our mental gymnastics aimed at maximizing returns and optimizing our process.
+[00:00:21] Kyle Grieve: And Annie, with her background as a legendary poker player turned author, brings unparalleled insights into this complex arena. In this episode, we’re not just scratching the surface. We’re delving into Annie’s treasure trove of wisdom, honed over years of intense study and practical experience. Her books, Thinking Invest and Quit, are more than just reads, they’re guides to mastering decision making in both investing and life.
+[00:00:43] Kyle Grieve: Today, we’ll unpack some of her most valuable advice to investors to bring more clarity to your thinking. We’ll focus on our pre commitment devices, invaluable mental tools that can save us from costly mistakes and lead us towards smarter, more profitable choices. One of my biggest takeaways from our chat was how we can create data points on long term investments.
+[00:01:00] Kyle Grieve: This allows us to zoom into our process to make sure we are on track for a process that may be many years into the future. Imagine being able to anticipate the fundamental downturns of a business in your portfolio before the market recognizes it. Or, think about having the ability to more easily walk away from a losing investment that is burning a hole in your pocket and eating away at your returns.
+[00:01:19] Kyle Grieve: Annie’s insights here alone are worth paying very close attention to. If you relish in the intellectual challenge of investing, this episode is tailor made for you. After listening to this episode, you’ll have a number of practical tools that you can use instantly to supercharge your decision making, not just in investing, but in every aspect of your life.
+[00:01:36] Kyle Grieve: Now, let’s get right into this week’s episode with Annie Duke.
+[00:01:43] Intro: Celebrating 10 years and more than 150 million downloads. You are listening to The Investor’s Podcast Network. Since 2014, we studied the financial markets and read the books that influence self made billionaires the most. We keep you informed and prepared for the unexpected. Now, for your host, Kyle Grieve.
+[00:02:11] Kyle Grieve: Welcome to The Investor’s Podcast. I’m your host, Kyle Grieve, and today we bring Annie Duke onto the show. Annie, welcome to the podcast. 
+[00:02:19] Annie Duke: Thank you for having me. 
+[00:02:20] Kyle Grieve: So Annie has written several books on how to think more efficiently and has tied many of her awesome experiences from being a professional poker player into the books.
+[00:02:28] Kyle Grieve: Two of her books that really stood out to me were thinking in bets and quit. So I’m very excited to learn more about some of the key concepts from these books and discuss how listeners of the show can apply these concepts to make better decisions. So to kick things off, Annie, I’d love for you to just give your backstory in academics and poker and how it relates to your own story of quitting.
+[00:02:47] Annie Duke: I started off my adult life at the University of Pennsylvania. I was getting my PhD in cognitive science. Which is just broadly, how do we as humans create models of the world? Like, how, are we sort of interacting with the world and learning judgment and decision making, those kinds of things would go under that.
+
+
+HELP US OUT!
+Help us reach new listeners by leaving us a rating and review on Apple Podcasts! It takes less than 30 seconds, and really helps our show grow, which allows us to bring on even better guests for you all! Thank you – we really appreciate it!
+BOOKS AND RESOURCES
+Join the exclusive TIP Mastermind Community to engage in meaningful stock investing discussions with Stig, Clay, Kyle, and the other community members.
+Buy Quit: The Power of Knowing When to Walk Away here.
+Buy Thinking in Bets: Making Smarter Decisions When You Don’t Have All the Facts here.
+Check out Annie’s substack here.
+Learn more about Annie Duke here.
+Related Episode: RWH015: Betting Better In Markets & Life w/ Annie Duke | YouTube video.
+Related Episode: TIP231: The Mind Of A World Poker Champion w/ Annie Duke | YouTube video.
+Learn more about the Berkshire Summit by clicking here or emailing Clay at clay@theinvestorspodcast.com
+Check out all the books mentioned and discussed in our podcast episodes here.
+Enjoy ad-free episodes when you subscribe to our Premium Feed.
+
+NEW TO THE SHOW?
+Follow our official social media accounts: X (Twitter) | LinkedIn | Instagram | Facebook | TikTok.
+Check out our The Investor’s Podcast Starter Packs.
+Browse through all our episodes (complete with transcripts) here.
+Try our tool for picking stock winners and managing our portfolios: TIP Finance Tool.
+Enjoy exclusive perks from our favorite Apps and Services.
+Stay up-to-date on financial markets and investing strategies through our daily newsletter, We Study Markets.
+Learn how to better start, manage, and grow your business with the best business podcasts.
+
+SPONSORS
+Support our free podcast by supporting our sponsors:
+River
+Toyota
+TurboTax
+Fidelity
+Monarch Money
+Meyka
+Simon & Schuster
+CI Financial
+Vacasa
+Long Angle
+Fundrise
+iFlex Stretch Studios
+American Express
+Shopify
+
+Disclosure: The Investor’s Podcast Network is an Amazon Associate. We may earn commission from qualifying purchases made through our affiliate links.
+
+CONNECT WITH KYLE
+
+CONNECT WITH ANNIE
+
+PROMOTIONS
+Check out our latest offer for all The Investor’s Podcast Network listeners!
+
+WSB + BFF + RWH Promotions

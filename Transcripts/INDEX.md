@@ -1,6 +1,6 @@
 # Episode Index
 
-Auto-generated index of every episode summary in this folder. **188 episodes** archived, most recent first.
+Auto-generated index of every episode summary in this folder. **203 episodes** archived, most recent first.
 
 Want the daily 5-minute read instead of digging through these `.txt` files? **[Subscribe on Substack →](https://batlab.substack.com)**
 
@@ -194,6 +194,21 @@ Want the daily 5-minute read instead of digging through these `.txt` files? **[S
 | 186 | [Mastermind Q2 2024 w/ Tobias Carlisle and Hari Ramachandra](186_mastermind-q2-2024-burberry-icici-bank-limited-playtika.txt) | 18 May 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/mastermind-q2-2024-burberry-icici-bank-limited-playtika/) |
 | 187 | [The Bullish Energy Cycle w/ Arvind Sanger](187_the-bullish-energy-cycle-w-arvind-sanger.txt) | 16 May 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/the-bullish-energy-cycle-w-arvind-sanger/) |
 | 188 | [The Wealthy Gardener w/ Kyle Grieve](188_the-wealthy-gardener-w-kyle-grieve.txt) | 11 May 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/the-wealthy-gardener-w-kyle-grieve/) |
+| 189 | [NVR: What's Next for One of History's Greatest Compounders?](189_nvr-whats-next-for-one-of-historys-greatest-compounders-tip.txt) | 27 May 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/nvr-whats-next-for-one-of-historys-greatest-compounders-tip/) |
+| 190 | [Berkshire Hathaway Annual Shareholder's Meeting 2024 w/ Clay Finck and Kyle Grieve](190_berkshire-hathaway-annual-shareholders-meeting-2024-w-clay-finck-and-kyle-grieve.txt) | 09 May 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/berkshire-hathaway-annual-shareholders-meeting-2024-w-clay-finck-and-kyle-grieve/) |
+| 191 | [The Inner Scorecard w/ Mohnish Pabrai \| The Investor's Podcast](191_the-inner-scorecard-w-mohnish-pabrai.txt) | 04 May 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/the-inner-scorecard-w-mohnish-pabrai/) |
+| 192 | [Best Quality Idea Q2 2024 w/ Clay Finck & Kyle Grieve](192_best-quality-idea-q2-2024-w-clay-finck-kyle-grieve.txt) | 03 May 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/best-quality-idea-q2-2024-w-clay-finck-kyle-grieve/) |
+| 193 | [Beating the Market w/ François Rochon](193_intelligent-rational-long-term-investing-w-francois-rochon.txt) | 25 April 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/intelligent-rational-long-term-investing-w-francois-rochon/) |
+| 194 | [Berkshire Hathaway w/ Chris Bloomstran \| The Investor's Podcast](194_berkshire-hathaway-w-chris-bloomstran.txt) | 20 April 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/berkshire-hathaway-w-chris-bloomstran/) |
+| 195 | [Studying Financial History w/ Clay Finck](195_studying-financial-history-w-clay-finck.txt) | 18 April 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/studying-financial-history-w-clay-finck/) |
+| 196 | [The Art Of Decision Making w/ Annie Duke - TIP Network](196_the-art-of-decision-making.txt) | 13 April 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/the-art-of-decision-making/) |
+| 197 | [Finding Certainty in an Uncertain World w/ Joseph Shaposhnik](197_finding-certainty-in-an-uncertain-world-w-joseph-shaposhnik.txt) | 11 April 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/finding-certainty-in-an-uncertain-world-w-joseph-shaposhnik/) |
+| 198 | [The Power Of Corporate Governance - TIP Network](198_warren-buffetts-wisdom-the-power-of-corporate-governance.txt) | 06 April 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/warren-buffetts-wisdom-the-power-of-corporate-governance/) |
+| 199 | [The Intelligent Investor by Benjamin Graham](199_the-intelligent-investor-by-benjamin-graham.txt) | 04 April 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/the-intelligent-investor-by-benjamin-graham/) |
+| 200 | [The Cable Cowboy: John Malone w/ Kyle Grieve](200_the-cable-cowboy-john-malone-w-kyle-grieve.txt) | 30 March 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/the-cable-cowboy-john-malone-w-kyle-grieve/) |
+| 201 | [Stig's Portfolio Performance since 2014 w/ Stig Brodersen & Clay Finck](201_stigs-portfolio-performance-since-2014-w-stig-brodersen-clay-finck.txt) | 28 March 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/stigs-portfolio-performance-since-2014-w-stig-brodersen-clay-finck/) |
+| 202 | [TIP617: Improve Your Investing Operating System TIP Network](202_improve-your-investing-operating-system.txt) | 23 March 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/improve-your-investing-operating-system/) |
+| 203 | [The Godfather of Influence w/ Dr. Robert Cialdini](203_the-godfather-of-influence-w-dr-robert-cialdini.txt) | 21 March 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/the-godfather-of-influence-w-dr-robert-cialdini/) |
 
 ---
 
