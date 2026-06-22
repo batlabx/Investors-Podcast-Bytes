@@ -1,6 +1,6 @@
 # Episode Index
 
-Auto-generated index of every episode summary in this folder. **203 episodes** archived, most recent first.
+Auto-generated index of every episode summary in this folder. **222 episodes** archived, most recent first.
 
 Want the daily 5-minute read instead of digging through these `.txt` files? **[Subscribe on Substack →](https://batlab.substack.com)**
 
@@ -209,6 +209,25 @@ Want the daily 5-minute read instead of digging through these `.txt` files? **[S
 | 201 | [Stig's Portfolio Performance since 2014 w/ Stig Brodersen & Clay Finck](201_stigs-portfolio-performance-since-2014-w-stig-brodersen-clay-finck.txt) | 28 March 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/stigs-portfolio-performance-since-2014-w-stig-brodersen-clay-finck/) |
 | 202 | [TIP617: Improve Your Investing Operating System TIP Network](202_improve-your-investing-operating-system.txt) | 23 March 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/improve-your-investing-operating-system/) |
 | 203 | [The Godfather of Influence w/ Dr. Robert Cialdini](203_the-godfather-of-influence-w-dr-robert-cialdini.txt) | 21 March 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/the-godfather-of-influence-w-dr-robert-cialdini/) |
+| 204 | [WIX: The Most Asymmetric AI Bet?](204_wix-the-most-asymmetric-ai-bet-tip.txt) | 03 June 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/wix-the-most-asymmetric-ai-bet-tip/) |
+| 205 | [Lifco AB: The Serial Acquirer Building an Unstoppable Compounding Engine](205_ab-lifco-b-st-the-serial-acquirer-building-an-unstoppable-compounding-engine-tip.txt) | 30 May 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/ab-lifco-b-st-the-serial-acquirer-building-an-unstoppable-compounding-engine-tip/) |
+| 206 | [Current Market Conditions w/ Richard Duncan](206_current-market-conditions-w-richard-duncan-2.txt) | 15 March 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/current-market-conditions-w-richard-duncan-2/) |
+| 207 | [Investing Guardrails: Avoiding Common Mistakes w/ Kyle Grieve](207_investing-guardrails-avoiding-common-mistakes.txt) | 09 March 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/investing-guardrails-avoiding-common-mistakes/) |
+| 208 | [Stock Market Basics & Financial Independence w/ Clay Finck & Kyle Grieve](208_stock-market-basics-financial-independence-w-clay-finck-kyle-grieve.txt) | 07 March 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/stock-market-basics-financial-independence-w-clay-finck-kyle-grieve/) |
+| 209 | [Profiting From Maximum Pessimism w/ Lauren Templeton](209_investing-in-fear-profiting-from-maximum-pessimism.txt) | 02 March 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/investing-in-fear-profiting-from-maximum-pessimism/) |
+| 210 | [The Bear Case for China w/ Kyle Bass](210_the-bear-case-for-china-w-kyle-bass.txt) | 29 February 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/the-bear-case-for-china-w-kyle-bass/) |
+| 211 | [Mastermind Q1, 2024 w/ Tobias Carlisle and Hari Ramachandra](211_mastermind-q1-2024-spotify-disney-mueller-industries.txt) | 24 February 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/mastermind-q1-2024-spotify-disney-mueller-industries/) |
+| 212 | [Fooled by Randomness by Nassim Taleb](212_fooled-by-randomness-by-nassim-taleb.txt) | 22 February 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/fooled-by-randomness-by-nassim-taleb/) |
+| 213 | [Small But Mighty: Long-Term Compounding w/ Chris Mayer](213_long-term-compounding-w-chris-mayer.txt) | 15 February 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/long-term-compounding-w-chris-mayer/) |
+| 214 | [Small But Mighty: Uncovering Smallcap Value with Paul Andreola](214_small-but-mighty-uncovering-smallcap-value.txt) | 10 February 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/small-but-mighty-uncovering-smallcap-value/) |
+| 215 | [Multi-Bagger First Principles w/ Ian Cassel](215_multi-bagger-first-principles-w-ian-cassel.txt) | 08 February 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/multi-bagger-first-principles-w-ian-cassel/) |
+| 216 | [Untangling Global Outperformers w/ Dede Eyesan](216_untangling-global-outperformers-with-dede-eyesan.txt) | 03 February 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/untangling-global-outperformers-with-dede-eyesan/) |
+| 217 | [Best Quality Idea Q1 2024 w/ Clay Finck & Kyle Grieve](217_best-quality-idea-q1-2024-w-clay-finck-kyle-grieve.txt) | 01 February 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/best-quality-idea-q1-2024-w-clay-finck-kyle-grieve/) |
+| 218 | [Richer, Wiser, Happier, Q1 2024 w/ Stig Brodersen & William Green](218_richer-wiser-happier-q1-2024-w-stig-brodersen-william-green.txt) | 27 January 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/richer-wiser-happier-q1-2024-w-stig-brodersen-william-green/) |
+| 219 | [QXO: Can One of the World's Best Consolidators Strike Lightning Again?](219_qxo-qxo-can-one-of-the-worlds-best-consolidators-strike-lightning-again-tip.txt) | 10 June 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/qxo-qxo-can-one-of-the-worlds-best-consolidators-strike-lightning-again-tip/) |
+| 220 | [Grab Holdings (GRAB): Why Uber Surrendered Southeast Asia](220_grab-holdings-grab-why-uber-surrendered-southeast-asia-tip.txt) | 06 June 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/grab-holdings-grab-why-uber-surrendered-southeast-asia-tip/) |
+| 221 | [Same as Ever w/ Morgan Housel \| The Investor's Podcast](221_same-as-ever-w-morgan-housel.txt) | 25 January 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/same-as-ever-w-morgan-housel/) |
+| 222 | [Junk to Gold by Billionaire Willis Johnson \| The Investor's Podcast](222_junk-to-gold-by-billionaire-willis-johnson.txt) | 18 January 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/junk-to-gold-by-billionaire-willis-johnson/) |
 
 ---
 

@@ -1,0 +1,73 @@
+WIX: The Most Asymmetric AI Bet?
+========================================
+URL:  https://www.theinvestorspodcast.com/episodes/wix-the-most-asymmetric-ai-bet-tip/
+Date: 03 June 2026
+
+Daniel Mahncke and Shawn O’Malley take a deep dive into Wix.com — the Israeli website-building platform whose investment case now turns on two of the most debated questions in the stock today: whether the generative-AI wave that lets anyone spin up a site from a text prompt is the end of Wix or whether Wix is too sticky, and whether the Base 44 acquisition — Wix’s bet on AI-powered app generation — is the next leg of the story or a distraction from the SMB infrastructure business the company already dominates.
+Some investors believe Wix is set up to compound for the next decade, with a recurring subscription base that behaves more like embedded small-business infrastructure than a discretionary website tool, retention that holds because switching means rebuilding a company’s entire online presence, and an AI roadmap — from the Wix-built LLM powering Harmony to Base 44’s vibe-coding engine — that the market is pricing at roughly zero. Others see a more uncomfortable picture. The declining subscriber count looks less like deliberate, margin-accretive pruning of unprofitable customers and more like the leading edge of AI disruption, while the Base 44 push runs Wix straight into a crowded field of well-funded AI app builders with no obvious durable moat.
+Join Daniel Mahncke and Shawn O’Malley as they work through whether Wix’s subscription flywheel is strengthening or being quietly eroded by AI-native entrants, examine what the company’s AI strategy actually looks like in 2026 versus the “website builder in terminal decline” narrative the market still anchors to, and assess whether Wix.com deserves a spot in The Intrinsic Value Portfolio.
+
+SUBSCRIBE
+
+IN THIS EPISODE, YOU’LL LEARN:
+How Wix was founded
+How Much of WIX Is Actually Vulnerable to AI
+Why Wix is more sticky than it seems
+Whether vibecoding is likely to disrupt drag-and-drop website building
+Why clients keep using Wix
+Why Base44 could change the entire investment case
+How Wix could survive and turn into a multibagger
+Whether Shawn and Daniel add Wix to the Intrinsic Value Portfolio
+And much, much more!
+
+Disclosure: This episode and the resources on this page are for informational and educational purposes only and do not constitute financial, investment, tax, or legal advice. For full disclosures, see link.
+
+TRANSCRIPT
+Disclaimer: The transcript that follows has been generated using artificial intelligence. We strive to be as accurate as possible, but minor errors and slightly off timestamps may be present due to platform differences.
+[00:00:00] Shawn O’Malley: How are you feeling about today’s company?
+[00:00:02] Daniel Mahncke: I’d say it’s a controversial one. It doesn’t help that earnings actually send it down 30 percent last week.
+[00:00:08] Shawn O’Malley: Does that mean the thesis is broken?
+[00:00:10] Daniel Mahncke: No, I don’t think so. I think it’s a hit or miss case. If Wix is still relevant and let’s say five years, I think it will most likely have been a multi-bagger from today’s prices.
+[00:00:18] Shawn O’Malley: It doesn’t sound like you’d be surprised, though, if the company just completely gone then either.
+[00:00:23] Daniel Mahncke: No, I wouldn’t be. Got to be honest there.
+[00:00:26] Shawn O’Malley: When you first told me you’d cover Wix, I thought it would never make it into the portfolio. But I mean, some of the stats you sent me are impressive.
+[00:00:33] Daniel Mahncke: I thought so too. But if you just look at the numbers and also the business case that I’m going to make, hopefully, I think it’s a pretty interesting idea.
+[00:00:40] Shawn O’Malley: Okay, well, should we do it? Let’s do it. Let’s get into it.
+[00:00:46] Intro: Since 2014, with more than 200 million downloads. We have interviewed the world’s best investors, studied deeply the principles of value investing, and uncovered many compelling investment opportunities. We focus on understanding businesses and intrinsic value, investing accordingly and sharing everything we learn with you. This show is not investment advice. It’s intended for informational and entertainment purposes only. All opinions expressed by hosts and guests are solely their own, and they may have investments in the securities discussed. Now for your host, Shawn O’Malley and Daniel Mahncke.
+[00:01:32] Shawn O’Malley: We usually cover companies that are either well-known compounders or companies that have the potential to become well known compounders, and obviously the latter is even more attractive in some ways. But we’ve also bought some value plays for our portfolio before, like companies like Crocs and Ulta come to mind, and the hit rate on those hasn’t been too bad. And as far as I know, today’s pitch Wix sort of sits somewhere in between. Right.
+[00:01:54] Shawn O’Malley: Daniel, I don’t think you’re pitching it because you think it’s a buy and hold compounder. It’s also not an asset heavy cigar butt type of business, either. And in fact, when I look at the financials for Wix, they look more than solid. And it makes you wonder why this business is trading at one of the most depressed levels that’s ever traded at.
+
+
+HELP US OUT!
+Help us reach new listeners by leaving us a rating and review on Apple Podcasts! It takes less than 30 seconds, and really helps our show grow, which allows us to bring on even better guests for you all! Thank you – we really appreciate it!
+BOOKS AND RESOURCES
+Join the exclusive ⁠⁠⁠TIP Mastermind Community⁠⁠⁠ to engage in meaningful stock investing discussions with Stig, Clay, Kyle, and the other community members.
+Track ⁠The Intrinsic Value Portfolio⁠.
+Portfolio Review ⁠Submit Tool⁠.
+Value Investor Club ⁠Article⁠.
+Chit Chat Stocks w/ ⁠Manuel Cunha⁠.
+Future Investing ⁠Interview w/ Manuel Cunha⁠.
+Rene Sellman ⁠Substack Article⁠.
+Manuel Cunha ⁠Substack Article⁠.
+Previous Intrinsic Value breakdowns: ⁠Figma⁠, ⁠Microsoft⁠, ⁠Salesforce⁠, ⁠Adobe⁠.
+Related ⁠books⁠ mentioned in the podcast.
+Ad-free episodes on our Premium Feed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+
+Some of the links on this page are affiliate links or relate to partners who support our show. If you choose to sign up or make a purchase through them, we may receive compensation at no additional cost to you.
+NEW TO THE SHOW?
+Get smarter about valuing businesses in just a few minutes each week through our newsletter, ⁠⁠⁠The Intrinsic Value Newsletter⁠⁠⁠.
+Check out ⁠⁠⁠The Investor’s Podcast Starter Packs⁠⁠⁠.
+Follow our official social media accounts: ⁠⁠⁠X (Twitter)⁠⁠⁠ | ⁠⁠⁠LinkedIn⁠⁠⁠ | ⁠⁠⁠Facebook⁠⁠⁠⁠⁠⁠.
+Browse through all our episodes (complete with transcripts) ⁠⁠⁠here⁠⁠⁠.
+Try our tool for picking stock winners and managing our portfolios: ⁠⁠⁠TIP Finance Tool⁠⁠⁠.
+Enjoy exclusive perks from our ⁠⁠⁠favorite Apps and Services⁠⁠⁠.
+Learn how to better start, manage, and grow your business with the ⁠⁠⁠best business podcasts⁠⁠⁠.
+
+SPONSORS
+Support our free podcast by supporting our sponsors:
+Plus500⁠
+⁠Netsuite⁠
+⁠Shopify⁠
+⁠Vanta⁠
+
+References to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.

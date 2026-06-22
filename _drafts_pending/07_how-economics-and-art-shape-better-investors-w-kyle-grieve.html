@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Bring A Calculator To A Knife Fight</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,700;9..144,900&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #1a1a1a;
+    --ink-soft: #3a3a3a;
+    --muted: #6b6b6b;
+    --rule: #e5e5e0;
+    --accent: #b91c1c;
+    --paper: #fbfaf6;
+    --highlight: #fff3a6;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "Fraunces", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+    font-size: 19px;
+    line-height: 1.65;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+  .wrap {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 64px 28px 96px;
+  }
+  .kicker {
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 18px;
+  }
+  h1 {
+    font-family: "Fraunces", Georgia, serif;
+    font-weight: 900;
+    font-size: 54px;
+    line-height: 1.05;
+    letter-spacing: -0.02em;
+    margin: 0 0 18px;
+    color: var(--ink);
+    font-variation-settings: "opsz" 144;
+  }
+  .subtitle {
+    font-family: "Fraunces", Georgia, serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 22px;
+    line-height: 1.45;
+    color: var(--ink-soft);
+    margin: 0 0 28px;
+  }
+  .meta {
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+    color: var(--muted);
+    border-top: 1px solid var(--rule);
+    border-bottom: 1px solid var(--rule);
+    padding: 12px 0;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .meta a { color: var(--ink-soft); text-decoration: underline; text-decoration-color: var(--rule); text-underline-offset: 3px; }
+  .meta a:hover { text-decoration-color: var(--accent); color: var(--accent); }
+  .lede {
+    font-family: "Fraunces", Georgia, serif;
+    font-size: 22px;
+    line-height: 1.5;
+    color: var(--ink);
+    margin: 0 0 36px;
+    font-weight: 500;
+  }
+  .lede::first-letter {
+    font-family: "Fraunces", Georgia, serif;
+    font-weight: 900;
+    float: left;
+    font-size: 76px;
+    line-height: 0.85;
+    padding: 6px 10px 0 0;
+    color: var(--accent);
+    font-variation-settings: "opsz" 144;
+  }
+  h2 {
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin: 48px 0 6px;
+  }
+  h2 + p, h2 + ul { margin-top: 4px; }
+  h2::after {
+    content: "";
+    display: block;
+    width: 36px;
+    height: 2px;
+    background: var(--accent);
+    margin-top: 10px;
+  }
+  p { margin: 0 0 22px; }
+  p strong { color: var(--ink); font-weight: 700; }
+  em { color: var(--ink-soft); }
+  ul { padding-left: 22px; margin: 0 0 28px; }
+  li { margin-bottom: 14px; }
+  blockquote, .pullquote {
+    margin: 32px 0;
+    padding: 4px 0 4px 22px;
+    border-left: 3px solid var(--accent);
+    font-family: "Fraunces", Georgia, serif;
+    font-style: italic;
+    font-size: 24px;
+    line-height: 1.4;
+    color: var(--ink);
+    font-weight: 500;
+  }
+  .highlight {
+    background: linear-gradient(180deg, transparent 60%, var(--highlight) 60%);
+    padding: 0 2px;
+  }
+  hr.scene {
+    border: 0;
+    text-align: center;
+    margin: 44px 0;
+  }
+  hr.scene::before {
+    content: "§ § §";
+    color: var(--muted);
+    letter-spacing: 0.6em;
+    font-family: "Fraunces", serif;
+    font-size: 14px;
+  }
+  .footer-credit {
+    margin-top: 48px;
+    padding-top: 22px;
+    border-top: 1px solid var(--rule);
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+    color: var(--muted);
+    font-style: italic;
+  }
+  .footer-credit a { color: var(--ink-soft); }
+  @media (max-width: 540px) {
+    body { font-size: 18px; }
+    h1 { font-size: 40px; }
+    .subtitle { font-size: 19px; }
+    .lede { font-size: 20px; }
+    .lede::first-letter { font-size: 60px; }
+    .pullquote { font-size: 20px; }
+    .wrap { padding: 40px 20px 72px; }
+  }
+</style>
+</head>
+<body>
+<article class="wrap">
+
+  <div class="kicker">Investor Bytes · Episode 07</div>
+  <h1>Bring A Calculator To A Knife Fight</h1>
+  <p class="subtitle">Kyle Grieve on the mental model quietly killing portfolios — and why the smartest investors read shareholder letters like movie scripts.</p>
+
+  <div class="meta">
+    <span>Source: <a href="https://www.theinvestorspodcast.com/episodes/how-economics-and-art-shape-better-investors-w-kyle-grieve/">How Economics and Art Shape Better Investors</a></span>
+    <span>The Investor's Podcast · 28 March 2026 · ~6 min read</span>
+  </div>
+
+  <p class="lede">There's a sentence Kyle Grieve drops in the first sixty seconds of this episode that should be tattooed onto every analyst's wrist. <span class="highlight">"Optimization has led to catastrophic failures when the environment changes rapidly."</span> If you're investing in 2026 — with AI capex melting income statements, rates that won't sit still, and an entire generation of "best in class" operators staring at customer behavior they no longer recognize — that one line is the whole game.</p>
+
+  <h2>TL;DR</h2>
+
+  <p>Grieve's pitch: the best investors hold two contradictory tools at once — the <strong>cold scalpel of economics</strong> (scarcity, supply and demand, optimization, competition) and the <strong>warm brush of art</strong> (audience, contrast, framing, narrative). Lean too hard on either side and you go blind. Pure spreadsheet thinking misses why a brand can charge 10× what it costs to make. Pure storytelling misses why even great stories get crushed when the cycle turns.</p>
+
+  <p class="pullquote">"A good manager is like a skilled movie director. They tell a story specifically cultivated to attract the audience that they think would make the best viewers."</p>
+
+  <p>Read every shareholder letter through that lens for a week. You won't read them the same way again.</p>
+
+  <h2>The Core Idea</h2>
+
+  <p>Grieve's framing — borrowed from Shane Parrish's <em>The Great Mental Models Vol. 4</em> — is that economics and art look like opposites and aren't. Economics gets treated like physics, but it isn't. There are no laws of nature inside a market. The "laws" are habits of human behavior, and those habits get rewritten by narrative and culture all the time. That's why purely quantitative models keep getting blindsided by things they can't price.</p>
+
+  <p>The numbers tell you what a business <em>did</em>. The art — who the audience is, how the story is framed, which contrasts management chooses to highlight — tells you what the business is <em>becoming</em>. The two have to be read together, or you're playing the game with one eye closed.</p>
+
+  <hr class="scene">
+
+  <h2>Examples From The Episode</h2>
+
+  <p>Grieve walks through the economic toolkit with concrete business mechanics. The four that stuck:</p>
+
+  <ul>
+    <li><strong>Scarcity, manufactured.</strong> Luxury brands are an extended exercise in <em>engineered</em> scarcity. They could sell more, they choose not to. The constraint <em>is</em> the product. Investors who only see "they're leaving revenue on the table" miss the entire point of the moat.</li>
+    <li><strong>Costco, in reverse.</strong> Costco wins by doing the opposite — reducing scarcity, leveraging scale, and turning that scale into a price cudgel competitors can't match. Different mechanic, same destination: a structural advantage you can't buy.</li>
+    <li><strong>COVID as a forced demand experiment.</strong> The pandemic reshuffled demand curves across the entire economy in months. Businesses that looked stable on a five-year chart suddenly weren't, and businesses no one cared about became compounders. The lesson isn't "predict the next pandemic." It's that <span class="highlight">demand is more fragile than your DCF assumes</span>.</li>
+    <li><strong>Bubbles, from the inside.</strong> Bubbles aren't irrational. They're a demand surge meeting a story everyone wants to be true, mediated by the human nervous system. Grieve treats them as the inevitable consequence of mixing supply/demand mechanics with human psychology — not as some exogenous shock that'll never happen again.</li>
+  </ul>
+
+  <p>The through-line on all four: the economics is necessary but not sufficient. You need the art layer to explain <em>why</em> the demand exists in the first place.</p>
+
+  <h2>Where It Breaks Down</h2>
+
+  <p>This is the section every founder and PM should listen to twice. Grieve makes a careful, useful argument that <strong>optimization is a trap</strong> the moment the environment changes faster than your optimization function. Optimize hard for one regime and you've usually built fragility into the next regime by accident. The biology version is a species perfectly adapted to a habitat that's about to disappear. The business version is a company perfectly adapted to a customer that's about to shift behavior.</p>
+
+  <p>Specialization gets the same treatment. The trade-off is real: <strong>specialists win the current game, generalists win the next one.</strong> Grieve notes that many of the investing legends stay deliberately generalist — not because they can't go deep, but because they don't want their pattern-matching dataset narrowed to one industry. That's an uncomfortable point if you've spent five years becoming "the semis person" or "the consumer person." It's also probably true.</p>
+
+  <p>And then there's competition itself. Clean economics says competition drives returns to zero. The actual world says structural moats — scale, network effects, switching costs, regulatory capture, brand — keep some businesses earning returns the textbook says shouldn't exist. Both are right; the textbook just has a half-life. The investor's job is figuring out how long this particular moat's half-life is. <em>That</em> is much more art than science.</p>
+
+  <hr class="scene">
+
+  <h2>How To Use It On Monday</h2>
+
+  <p><strong>1. Read shareholder letters as scripts, not statements.</strong> Who is this letter trying to attract? Who is it trying to repel? The companies you want are the ones writing letters that <em>explicitly</em> try to drive away short-term, narrative-chasing money — because they're recruiting the audience that lets them play long. Bezos's early letters are the famous example, but the pattern shows up in plenty of smaller compounders if you look.</p>
+
+  <p><strong>2. Stress-test every position against the optimization trap.</strong> Ask: "What environment is this business optimized for, and what happens if that environment shifts?" If the honest answer is "the whole thesis falls apart," size accordingly. This is how you avoid the slow-motion disasters where a great business in 2019 quietly became a structurally damaged one by 2022 and you didn't update.</p>
+
+  <p><strong>3. Resist the specialist seduction.</strong> Becoming the world's expert on one industry feels like progress. Sometimes it is. But Grieve's point — that the legends stay generalist — is a useful counterweight to the LinkedIn-bio version of an investing career. Mental models compound when they cross domains. Read the biology book, the art history book, the macro history book. The pattern recognition you build sideways is what lets you see the thing the specialists miss.</p>
+
+  <p>The whole episode is, in the end, an argument against false rigor. Numbers feel like truth because they have decimal points. Narratives feel like noise because they don't. But the market is priced by humans, and humans price things on a mix of both. <span class="highlight">Investors who refuse to use the second tool are bringing a calculator to a knife fight.</span></p>
+
+  <h2>Books &amp; Resources Mentioned</h2>
+
+  <ul>
+    <li><em>The Great Mental Models Vol. 4</em> — Shane Parrish</li>
+    <li>The Investor's Podcast Network — <em>The Intrinsic Value Newsletter</em></li>
+    <li>TIP Mastermind Community</li>
+  </ul>
+
+  <p class="footer-credit">Original podcast: <a href="https://www.theinvestorspodcast.com/">The Investor's Podcast Network</a> — episode 07. Investor Bytes is Batlab's daily Substack — one billionaire-investor podcast, one tight read, every morning.</p>
+
+</article>
+</body>
+</html>
