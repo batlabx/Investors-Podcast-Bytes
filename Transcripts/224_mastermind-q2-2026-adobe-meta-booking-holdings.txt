@@ -1,0 +1,72 @@
+Meta, Adobe, Booking Holdings | The Investor's Podcast Network
+==============================================================
+URL:  https://www.theinvestorspodcast.com/episodes/mastermind-q2-2026-adobe-meta-booking-holdings/
+Date: 20 June 2026
+
+In today’s episode, Stig Brodersen is joined by Tobias Carlisle and Hari Ramachandra for a new round of stock pitches. Hari makes the case for Meta as a leading AI-powered advertising platform. Tobias breaks down Booking Holdings and whether its travel moat can withstand the rise of AI assistants. Stig analyzes Adobe, exploring the durability of its creative software ecosystem amid rapid technological change.
+
+SUBSCRIBE
+
+IN THIS EPISODE, YOU’LL LEARN:
+Why Hari is bullish on Meta (Ticker: META), highlighting its advertising dominance, network effects, and long-term monetization potential.
+The bear case for Meta, including massive AI infrastructure spending, uncertain returns on capital, and execution risk around AI monetization
+Why Tobias is bullish on Booking Holdings (Ticker: BKNG), emphasizing its capital-light business model and robust travel ecosystem.
+The bear case for Booking Holdings, including AI-driven loss of customer mindshare, and potential pressure on its role in the travel booking value chain.
+Why Stig is bullish on Adobe, focusing on its switching costs and subscription-based revenue model (Ticker: NASDAQ: ADBE)
+The bear case for Adobe, including AI-generated content and the increasing competition from tools like Canva and LLMs.
+
+Disclosure: This episode and the resources on this page are for informational and educational purposes only and do not constitute financial, investment, tax, or legal advice. For full disclosures, see link.
+
+TRANSCRIPT
+Disclaimer: The transcript that follows has been generated using artificial intelligence. We strive to be as accurate as possible, but minor errors and slightly off timestamps may be present due to platform differences.
+[00:00:01] Stig Brodersen: In today’s episode, I’m joined by my friends and fellow value investors, Tobias Carlisle, and Hari Ramachandra, for another round of, dare I say, unloved stock pitches. We kick things off with Hari’s pitch of Meta. The business is firing on all cylinders, yet the market has been selling off the stock, and we discuss whether investors should be worried about rising capital expenditures and whether Meta’s competitive advantage lies in its AI models or in its unmatched distribution and data.
+[00:00:30] Stig Brodersen: Now, Tobias walks us through Booking Holdings, one of the world’s leading travel platforms. We debate whether AI systems could eventually replace travel aggregators altogether, or if Booking’s relationships, network effects, and position in the travel ecosystem make its moat more durable than investors currently believe.
+[00:00:49] Stig Brodersen: And finally, I pitch the most unloved stock of them all, Adobe. The stock is trading near multi-year lows as the market worries about, yes, you guessed it, the threat of AI. And the recent departure of the CEO and CFO has not made the narrative more compelling. So we discuss switching costs and whether Adobe’s biggest challenge is technological disruption or something completely different in a rapidly changing environment.
+[00:01:14] Stig Brodersen: As always, there’s plenty to disagree with, plenty to think about, and a few investing lessons along the way. So without further ado, let’s jump right in.
+[00:01:26] Intro: Since 2014, with more than 200 million downloads, we have interviewed the world’s best investors, studied deeply the principles of value investing, and uncovered many compelling investment opportunities. We focus on understanding businesses and intrinsic value, investing accordingly, and sharing everything we learn with you.
+[00:01:47] Intro: This show is not investment advice. It’s intended for informational and entertainment purposes only. All opinions expressed by hosts and guests are solely their own, and they may have investments in the securities discussed. Now for your host, Stig Brodersen.
+[00:02:11] Stig Brodersen: Welcome to The Investor’s Podcast. I’m your host, Stig Brodersen, and today, as always throughout these mastermind discussions, I’m here with Hari and Toby. Gents, how are you today?
+[00:02:22] Tobias Carlisle: I’m well, Stig. Good to see you. Good to see you, Hari.
+[00:02:25] Hari Ramachandra: Hey, Stig and Toby. Hello from India. Good to see you both.
+[00:02:29] Stig Brodersen: Take it away.
+[00:02:31] Hari Ramachandra: Awesome. My pick for this time is Meta. When I was looking at the recent shuffle in the market, I see many names falling down, and Meta was one of them. Its share price from its peak has fallen down by 20%. And when I looked at the company, the business is pretty strong. They’re one of the two best advertising machines ever built.
+
+
+HELP US OUT!
+Help us reach new listeners by leaving us a rating and review on Apple Podcasts! It takes less than 30 seconds, and really helps our show grow, which allows us to bring on even better guests for you all! Thank you – we really appreciate it!
+BOOKS AND RESOURCES
+Join the exclusive ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TIP Mastermind Community⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+Stig Brodersen’s ⁠Portfolio and Track Record⁠. 
+Our valuation model of Adobe.
+Our valuation model of Meta.
+Our valuation model of Booking Holding.com.
+Check out the ⁠Mastermind Discussion Q1, 2026⁠ | ⁠Video⁠.
+Check out the ⁠Mastermind Discussion Q4, 2025⁠ | ⁠Video⁠.
+Check out the ⁠Mastermind Discussion Q3, 2025⁠ | ⁠Video⁠.
+Check out the ⁠Mastermind Discussion Q2, 2025⁠ | ⁠Video⁠.
+Check out the ⁠Mastermind Discussion Q1, 2025⁠ | ⁠Video⁠.
+Tobias Carlisle’s podcast, ⁠The Acquirers Podcast⁠.
+Tobias’ ETF, ⁠⁠ZIG⁠⁠.
+Tobias’ ETF, ⁠⁠Deep⁠⁠.
+Hari’s ⁠⁠Blog⁠⁠.
+Related ⁠books⁠ mentioned in the podcast.
+Ad-free episodes on our Premium Feed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+
+Some of the links on this page are affiliate links or relate to partners who support our show. If you choose to sign up or make a purchase through them, we may receive compensation at no additional cost to you.
+NEW TO THE SHOW?
+Get smarter about valuing businesses in just a few minutes each week through our newsletter, ⁠⁠⁠The Intrinsic Value Newsletter⁠⁠⁠.
+Check out ⁠⁠⁠The Investor’s Podcast Starter Packs⁠⁠⁠.
+Follow our official social media accounts: ⁠⁠⁠X (Twitter)⁠⁠⁠ | ⁠⁠⁠LinkedIn⁠⁠⁠ | ⁠⁠⁠Facebook⁠⁠⁠⁠⁠⁠.
+Browse through all our episodes (complete with transcripts) ⁠⁠⁠here⁠⁠⁠.
+Try our tool for picking stock winners and managing our portfolios: ⁠⁠⁠TIP Finance Tool⁠⁠⁠.
+Enjoy exclusive perks from our ⁠⁠⁠favorite Apps and Services⁠⁠⁠.
+Learn how to better start, manage, and grow your business with the ⁠⁠⁠best business podcasts⁠⁠⁠.
+
+SPONSORS
+Support our free podcast by supporting our sponsors:
+Plus500⁠
+⁠Netsuite⁠
+⁠Vanta⁠
+⁠Shopify⁠
+
+References to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.

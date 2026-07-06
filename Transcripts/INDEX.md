@@ -1,6 +1,6 @@
 # Episode Index
 
-Auto-generated index of every episode summary in this folder. **222 episodes** archived, most recent first.
+Auto-generated index of every episode summary in this folder. **226 episodes** archived, most recent first.
 
 Want the daily 5-minute read instead of digging through these `.txt` files? **[Subscribe on Substack →](https://batlab.substack.com)**
 
@@ -228,6 +228,10 @@ Want the daily 5-minute read instead of digging through these `.txt` files? **[S
 | 220 | [Grab Holdings (GRAB): Why Uber Surrendered Southeast Asia](220_grab-holdings-grab-why-uber-surrendered-southeast-asia-tip.txt) | 06 June 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/grab-holdings-grab-why-uber-surrendered-southeast-asia-tip/) |
 | 221 | [Same as Ever w/ Morgan Housel \| The Investor's Podcast](221_same-as-ever-w-morgan-housel.txt) | 25 January 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/same-as-ever-w-morgan-housel/) |
 | 222 | [Junk to Gold by Billionaire Willis Johnson \| The Investor's Podcast](222_junk-to-gold-by-billionaire-willis-johnson.txt) | 18 January 2024 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/junk-to-gold-by-billionaire-willis-johnson/) |
+| 223 | [American Tower (AMT): The Wide Moat Business Your Phone Can't Live Without](223_american-tower-amt-the-wide-moat-business-your-phone-cant-live-without-tip.txt) | 24 June 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/american-tower-amt-the-wide-moat-business-your-phone-cant-live-without-tip/) |
+| 224 | [Meta, Adobe, Booking Holdings \| The Investor's Podcast Network](224_mastermind-q2-2026-adobe-meta-booking-holdings.txt) | 20 June 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/mastermind-q2-2026-adobe-meta-booking-holdings/) |
+| 225 | [Copa Holdings (CPA): Is Buffett Right About Airline Stocks?](225_copa-holdings-cpa-is-buffett-right-about-airline-stocks-tip.txt) | 17 June 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/copa-holdings-cpa-is-buffett-right-about-airline-stocks-tip/) |
+| 226 | [The Timeless Patterns Behind Market Bubbles](226_from-railroads-to-ai-the-timeless-patterns-behind-market-bubbles.txt) | 13 June 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/from-railroads-to-ai-the-timeless-patterns-behind-market-bubbles/) |
 
 ---
 

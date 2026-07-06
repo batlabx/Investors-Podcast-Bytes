@@ -1,0 +1,67 @@
+American Tower (AMT): The Wide Moat Business Your Phone Can't Live Without
+==========================================================================
+URL:  https://www.theinvestorspodcast.com/episodes/american-tower-amt-the-wide-moat-business-your-phone-cant-live-without-tip/
+Date: 24 June 2026
+
+In today’s episode, Kyle Grieve and Shawn O’Malley analyze American Tower, the global cell tower business that powers the wireless networks we rely on every day. They unpack how leasing tower space to carriers creates durable recurring revenue, why its stacked competitive advantages form one of the widest moats in the market, and how a steadily growing debt load complicates the picture.
+
+SUBSCRIBE
+
+IN THIS EPISODE, YOU’LL LEARN:
+How American Tower powers the wireless networks we use
+How AMT creates recurring revenue
+Why adding additional tenants dramatically boosts profits per tower
+The three moats protecting American Tower from competitors
+How carrier consolidation threatens even the widest moats
+Why the REIT structure forces heavy reliance on debt
+What American Tower’s capital allocation reveals about management
+Whether the data center deal was worth it
+Why a wonderful business isn’t always a wonderful investment
+And so much more!
+
+Disclosure: This episode and the resources on this page are for informational and educational purposes only and do not constitute financial, investment, tax, or legal advice. For full disclosures, see link.
+
+TRANSCRIPT
+Disclaimer: The transcript that follows has been generated using artificial intelligence. We strive to be as accurate as possible, but minor errors and slightly off timestamps may be present due to platform differences.
+[00:00:00] Shawn O’Malley: I’m not exactly a huge REIT guy, but when I discovered that Chuck Akre had this massive position in American Tower, I mean, it piqued my interest, right? And when I found out how much of a multi-bagger it had been for him at 280 X, I mean, come on, that’s just ridiculous.
+[00:00:15] Kyle Grieve: Yeah. You know, it’s always been a business that I think I really found fascinating, specifically because of that Chuck Akre angle. Then, you know, the more I dug into the business, the more I saw that the business is still really good, but it’s currently in a nearly forty percent drawdown, which really excited the value investor in me.
+[00:00:30] Shawn O’Malley: Oh my gosh. And that drawdown has been going out since 2021. What is driving that?
+[00:00:34] Kyle Grieve: Yeah, it’s been a while. I think the business is still quite good. They got some really, really good assets. They have some really good switching costs. But you know, over the years, unfortunately, from what I saw, the balance sheet has just gotten a lot uglier.
+[00:00:46] Shawn O’Malley: So I didn’t even know AMT was a REIT until you told me. But, you know, historically, REITs are not known for having the cleanest balance sheets.
+[00:00:54] Kyle Grieve: Right. And I believe this is the first REIT that we’ve even ever covered on the show. So I think it’s going to be a really, really fun business to discuss.
+[00:01:00] Shawn O’Malley: All right. Well, if you’re ready, let’s do it.
+[00:01:05] Intro: Since 2014, with more than 200 million downloads. We have interviewed the world’s best investors, studied deeply the principles of value investing, and uncovered many compelling investment opportunities. We focus on understanding businesses and intrinsic value, investing accordingly and sharing everything we learn with you. This show is not investment advice. It’s intended for informational and entertainment purposes only. All opinions expressed by hosts and guests are solely their own, and they may have investments in the securities discussed. Now, for your hosts, Shawn O’Malley and Kyle Grieve.
+[00:01:51] Shawn O’Malley: Hey folks. We have covered a handful of businesses with wide moats and high barriers to entry. Transdigm comes to mind as a business that owns several proprietary aerospace components, which customers have very, very few, if any, substitutes, and this creates a unique situation where switching becomes nearly impossible. And so today we’re going to discuss American Tower, which is another business with a moat that is really about a mile wide.
+[00:02:18] Shawn O’Malley: To put it honestly. And so this business is fascinating too, because it’s been a massive winner in the past. And I know, Kyle, that, you know, one of your favorite investors, Chuck Akre, has taken part in a lot of the upside that American Tower has seen.
+[00:02:34] Kyle Grieve: Yes, Chuck Akre is one of my investing icons and has held AMT well past hundred bagger status. So he actually still holds it in Akre Capital Management, but he’s been selling large amounts of it over the past few years. And now it’s only a 0.14 percent portfolio holding. But it’s been a major position for his fund throughout its history.
+
+
+HELP US OUT!
+Help us reach new listeners by leaving us a rating and review on Apple Podcasts! It takes less than 30 seconds, and really helps our show grow, which allows us to bring on even better guests for you all! Thank you – we really appreciate it!
+BOOKS AND RESOURCES
+Join the exclusive ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Mastermind Community⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+Track ⁠The Intrinsic Value Portfolio⁠.
+Read Brad Jacob’s first book, ⁠How to Make A Few Billion Dollars⁠.
+Read Brad Jacob’s follow-up book, ⁠How to Make A Few More Billion Dollars⁠.
+Listen to Brad Jacob’s ⁠interview with David Senra⁠.
+Related ⁠books⁠ mentioned in the podcast.
+Ad-free episodes on our Premium Feed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+
+Some of the links on this page are affiliate links or relate to partners who support our show. If you choose to sign up or make a purchase through them, we may receive compensation at no additional cost to you.
+NEW TO THE SHOW?
+Get smarter about valuing businesses in just a few minutes each week through our newsletter, ⁠⁠⁠The Intrinsic Value Newsletter⁠⁠⁠.
+Check out ⁠⁠⁠The Investor’s Podcast Starter Packs⁠⁠⁠.
+Follow our official social media accounts: ⁠⁠⁠X (Twitter)⁠⁠⁠ | ⁠⁠⁠LinkedIn⁠⁠⁠ | ⁠⁠⁠Facebook⁠⁠⁠⁠⁠⁠.
+Browse through all our episodes (complete with transcripts) ⁠⁠⁠here⁠⁠⁠.
+Try our tool for picking stock winners and managing our portfolios: ⁠⁠⁠TIP Finance Tool⁠⁠⁠.
+Enjoy exclusive perks from our ⁠⁠⁠favorite Apps and Services⁠⁠⁠.
+Learn how to better start, manage, and grow your business with the ⁠⁠⁠best business podcasts⁠⁠⁠.
+
+SPONSORS
+Support our free podcast by supporting our sponsors:
+Plus500
+Netsuite
+Vanta
+Shopify
+
+References to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.
