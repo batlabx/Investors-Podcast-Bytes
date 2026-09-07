@@ -1,0 +1,72 @@
+Kaspi Stock: The Cheapest E-Commerce Monopoly in the World
+==========================================================
+URL:  https://www.theinvestorspodcast.com/episodes/kaspi-stock-kspi-the-cheapest-e-commerce-monopoly-in-the-world-tip/
+Date: 08 July 2026
+
+Daniel Mahncke and Shawn O’Malley take a deep dive into Kaspi.kz (NASDAQ: KSPI), the Kazakhstani super-app that combines payments, e-commerce, and fintech into a single platform that most of the country uses every day. They unpack how the business actually makes its money across its three segments, why its dominance at home has been so hard for competitors to challenge, and how a company this profitable ends up trading at only around seven times earnings.
+Daniel and Shawn discuss the company’s founders and incentive structure, its expansion into Turkey through Hepsiburada, the role of its high dividend in the investment case, and the risks that come with it – from the oil-linked currency to the governance questions raised in the Culper short report. They also walk through how Daniel values the business and whether Kaspi.kz deserves a spot in The Intrinsic Value Portfolio.
+
+SUBSCRIBE
+
+IN THIS EPISODE, YOU’LL LEARN:
+How Kaspi became Kazakhstan’s No.1 superapp
+What business units Kaspi operates
+What role the fintech business plays
+How the marketplace differs from Mercado Libre and Shopee
+What the competitive environment in Kazakhstan looks like
+What the Turkey expansion means for the business
+Whether Kaspi is valued attractively
+Whether Shawn and Daniel add KSPI to the Intrinsic Value Portfolio
+And much, much more!
+
+Disclosure: This episode and the resources on this page are for informational and educational purposes only and do not constitute financial, investment, tax, or legal advice. For full disclosures, see link.
+
+TRANSCRIPT
+Disclaimer: The transcript that follows has been generated using artificial intelligence. We strive to be as accurate as possible, but minor errors and slightly off timestamps may be present due to platform differences.
+[00:00:00] Shawn O’Malley: So I think you saw. But I was just so excited about this one. I pulled a Daniel last night right. You saw me in the Google Docs till like 3 AM prepping for this episode.
+[00:00:10] Daniel Mahncke: Usually that’s my job. So I was a bit surprised seeing you in the document that early.
+[00:00:14] Shawn O’Malley: Well, I never thought we would speak about a company based in Kazakhstan on this show. So that’s part of the excitement.
+[00:00:22] Daniel Mahncke: Well, I did have a hunch we might get there eventually. At least once I realized what covering one company week actually means in terms of looking at, you know, dozens and dozens of companies per year.
+[00:00:34] Shawn O’Malley: It’s a lot of companies. It’s also a lot of fun. And yeah, I also remember, you know, back when we were in Montana last September, you mentioned something about Kaspi. So it’s a company that’s been loosely on my radar for a while.
+[00:00:46] Daniel Mahncke: Yeah. Chemicals investors in Kaspi quite a lot actually over the last couple of years. But I never looked into the company myself. So I thought at some point it’s time and that time has come today.
+[00:00:58] Shawn O’Malley: Time has come. Let’s do it.
+[00:01:03] Intro: Since 2014, with more than 200 million downloads. We have interviewed the world’s best investors, studied deeply the principles of value investing, and uncovered many compelling investment opportunities. We focus on understanding businesses and intrinsic value, investing accordingly and sharing everything we learn with you. This show is not investment advice. It’s intended for informational and entertainment purposes only. All opinions expressed by hosts and guests are solely their own, and they may have investments in the securities discussed. Now for your host, Shawn O’Malley and Daniel Mahncke.
+[00:01:49] Shawn O’Malley: All right. Where do you want to start?
+[00:01:51] Daniel Mahncke: I think we should start with the history today because it’s actually quite interesting where this company came from. Today, we kind of know it as this super app and, you know, a major e-commerce company, but it actually used to be a normal tier two retail bank. So that was in the early 2000 and the banking market was back then in Kazakhstan, dominated by the so-called Halyk Bank, which is the old Soviet savings bank. And it’s actually still the biggest bank in Kazakhstan today.
+[00:02:18] Daniel Mahncke: And the one little thing that Kaspi had going for it was that it had a banking license. And as we also learned in the new bank episode, which is a company you covered a long time ago, by now, it’s also in our portfolio, a banking license in a developing financial market. And probably you could also say in a developed financial market, those licenses are not easy to get, and they can be quite valuable for pretty much every business because you don’t necessarily need to be a bank, especially in today’s tech world. There are so many things you can do and kind of restructure your business. And that’s also what Kaspi did.
+
+
+HELP US OUT!
+Help us reach new listeners by leaving us a rating and review on Apple Podcasts! It takes less than 30 seconds, and really helps our show grow, which allows us to bring on even better guests for you all! Thank you – we really appreciate it!
+BOOKS AND RESOURCES
+Join the exclusive ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Mastermind Community⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+Track ⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Portfolio⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+Learn more about how to join us in NYC for our ⁠⁠Intrinsic Value Conference⁠⁠.
+Portfolio Review ⁠Submit Tool⁠.
+Kaspi CEO ⁠Presentation⁠.
+Interview with the CEO, ⁠Mikhail Mikheil⁠.
+Chris Paryse ⁠Pitch on Kaspi⁠.
+Business Breakdowns ⁠Episode on Kaspi⁠.
+Response to Culper’s ⁠Short Report⁠.
+Check out our previous Intrinsic Value breakdowns:⁠⁠⁠ ⁠Amazon⁠⁠⁠, ⁠Sea Limited⁠, ⁠Mercado Libre⁠, ⁠Shopify⁠.
+Related ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠books⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ mentioned in the podcast.
+Ad-free episodes on our ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Premium Feed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+
+Some of the links on this page are affiliate links or relate to partners who support our show. If you choose to sign up or make a purchase through them, we may receive compensation at no additional cost to you.
+NEW TO THE SHOW?
+Get smarter about valuing businesses in just a few minutes each week through our newsletter, ⁠⁠⁠The Intrinsic Value Newsletter⁠⁠⁠.
+Check out ⁠⁠⁠The Investor’s Podcast Starter Packs⁠⁠⁠.
+Follow our official social media accounts: ⁠⁠⁠X (Twitter)⁠⁠⁠ | ⁠⁠⁠LinkedIn⁠⁠⁠ | ⁠⁠⁠Facebook⁠⁠⁠⁠⁠⁠.
+Browse through all our episodes (complete with transcripts) ⁠⁠⁠here⁠⁠⁠.
+Try our tool for picking stock winners and managing our portfolios: ⁠⁠⁠TIP Finance Tool⁠⁠⁠.
+Enjoy exclusive perks from our ⁠⁠⁠favorite Apps and Services⁠⁠⁠.
+Learn how to better start, manage, and grow your business with the ⁠⁠⁠best business podcasts⁠⁠⁠.
+
+SPONSORS
+Support our free podcast by supporting our ⁠sponsors⁠:
+⁠Plus500⁠
+⁠Netsuite⁠
+⁠Shopify⁠
+⁠Vanta
+
+References to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.

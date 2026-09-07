@@ -1,0 +1,63 @@
+Domino's Pizza (DPZ): Is the Royalty Engine Still Running?
+==========================================================
+URL:  https://www.theinvestorspodcast.com/episodes/dominos-pizza-dpz-is-the-royalty-engine-still-running-tip/
+Date: 19 August 2026
+
+In today’s episode, Kyle Grieve and Shawn O’Malley analyze Domino’s Pizza, the world’s biggest pizza franchisor built on a royalty-driven, asset-light business model. They walk through Domino’s shift toward franchising and away from Company-owned stores, and what that means for the company’s future revenue mix and cash generation. Along the way, they dig into whether Domino’s royalty engine can keep running at the pace investors have come to expect.
+
+SUBSCRIBE
+
+IN THIS EPISODE, YOU’LL LEARN:
+Reviewing the Domino’s royalty engine thesis
+Why Domino’s has moved away from Company-owned stores
+The role of royalties versus supply chain revenue in Domino’s earnings
+How the franchise model keeps Domino’s asset-light and cash-generative
+How Domino’s utilizes a fortressing strategy and its effect on store growth
+The competitive landscape in delivery, carryout, and aggregator platforms
+Domino’s capital allocation and approach to share buybacks
+International franchising and Domino’s global store growth
+Risks facing Domino’s from labor costs, competition, and changing consumer habits
+And so much more!
+
+Disclosure: This episode and the resources on this page are for informational and educational purposes only and do not constitute financial, investment, tax, or legal advice. For full disclosures, see link.
+
+TRANSCRIPT
+Disclaimer: The transcript that follows has been generated using artificial intelligence. We strive to be as accurate as possible, but minor errors and slightly off timestamps may be present due to platform differences.
+[00:00:03] Shawn O’Malley: All right, folks, welcome to The Investor’s Podcast. Today on episode 839, we are digging into a business nearly everybody listening has probably ordered from at least at some point in their life, or maybe their college days in particular. That’s Domino’s Pizza. It’s the largest pizza company on earth with more than 22,000 stores in over 90 markets, and it runs one of the most capital light business models you’ll find. 99 percent of its stores are owned by independent franchisees, with Domino’s collecting a pretty healthy royalty on top of that. And so that structure has helped the company compound its intrinsic value consistently for multiple decades now.
+[00:00:40] Kyle Grieve: And all this sounds pretty great until you look at some of the recent events, revenue growth has kind of slowed to a bit of a crawl over the last four years. Same store sales are hovering near zero, and the stock has actually fallen 40 percent from its all time highs. One of its biggest shareholders, and Berkshire Hathaway, which once held roughly a 10 percent stake in the business, ended up selling out of the entire position at the beginning of 2026. And on top of that, Domino’s is carrying close to five billion dollars in debt on a business that’s now facing some pretty real questions about changing consumer health habits.
+[00:01:09] Shawn O’Malley: But even with all that, the returns on capital have been fantastic and franchisees are still very much lining up to open new locations both in the US and internationally. So the real question is whether this is a temporary rut for a great compounder or the new normal for a maturing pizza chain. Let’s get into it.
+[00:01:31] Intro: Since 2014, with more than 200 million downloads, we have interviewed the world’s best investors, studied deeply the principles of value investing, and uncovered many compelling investment opportunities. We focus on understanding businesses and intrinsic value, investing accordingly, and sharing everything we learn with you. This show is not investment advice. It’s intended for informational and entertainment purposes only. All opinions expressed by hosts and guests are solely their own, and they may have investments in the securities discussed. Now, for your hosts, Shawn O’Malley and Kyle Grieve.
+[00:02:17] Kyle Grieve: Now, before we start today’s episode, I want to discuss something that I personally am really, really excited about. So in September, we’re going to be hosting our Intrinsic Value Conference in Manhattan. And we have just a lineup of really excellent presenters, all from our community.
+[00:02:30] Shawn O’Malley: Yeah, people are saying it’s going to be the value investing event of the year. So no, it is going to be a lot of fun and it’s going to be a great place to meet up with other value investors, all looking to find great investing opportunities and also hoping to build genuine relationships. So if you want to go ahead and secure your ticket before they sell out, head on over to intrinsicvalueconference.com. And going back to Domino’s.
+
+
+HELP US OUT!
+Help us reach new listeners by leaving us a rating and review on Apple Podcasts! It takes less than 30 seconds, and really helps our show grow, which allows us to bring on even better guests for you all! Thank you – we really appreciate it!
+BOOKS AND RESOURCES
+Join the exclusive ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Mastermind Community⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+Track ⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Portfolio⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+Learn more about how to join us in NYC for our ⁠⁠Intrinsic Value Conference⁠⁠.
+Portfolio Review ⁠⁠⁠⁠⁠Submit Tool⁠⁠⁠⁠⁠.
+Check out our previous Intrinsic Value breakdowns: ⁠Uber⁠, ⁠Grab⁠, ⁠Coupang⁠.
+Buy yourself a copy of ⁠⁠The Domino’s Story⁠⁠.
+Related ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠books⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ mentioned in the podcast.
+Ad-free episodes on our ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Premium Feed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+
+Some of the links on this page are affiliate links or relate to partners who support our show. If you choose to sign up or make a purchase through them, we may receive compensation at no additional cost to you.
+NEW TO THE SHOW?
+Get smarter about valuing businesses in just a few minutes each week through our newsletter, ⁠⁠⁠The Intrinsic Value Newsletter⁠⁠⁠.
+Check out ⁠⁠⁠The Investor’s Podcast Starter Packs⁠⁠⁠.
+Follow our official social media accounts: ⁠⁠⁠X (Twitter)⁠⁠⁠ | ⁠⁠⁠LinkedIn⁠⁠⁠ | ⁠⁠⁠Facebook⁠⁠⁠⁠⁠⁠.
+Browse through all our episodes (complete with transcripts) ⁠⁠⁠here⁠⁠⁠.
+Try our tool for picking stock winners and managing our portfolios: ⁠⁠⁠TIP Finance Tool⁠⁠⁠.
+Enjoy exclusive perks from our ⁠⁠⁠favorite Apps and Services⁠⁠⁠.
+Learn how to better start, manage, and grow your business with the ⁠⁠⁠best business podcasts⁠⁠⁠.
+
+SPONSORS
+Support our free podcast by supporting our sponsors:
+Plaud
+Plus500
+Netsuite
+Scribe
+
+References to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.

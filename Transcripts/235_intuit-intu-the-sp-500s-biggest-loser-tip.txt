@@ -1,0 +1,67 @@
+Intuit (INTU): The S&P 500's Biggest Loser w/ Shawn & Kyle
+==========================================================
+URL:  https://www.theinvestorspodcast.com/episodes/intuit-intu-the-sp-500s-biggest-loser-tip/
+Date: 01 August 2026
+
+Shawn O’Malley and Kyle Grieve explore Intuit (ticker: INTU).
+In this episode, you’ll learn what narratives have underpinned the company’s more than 60% selloff, as Intuit claims the undesirable title of “worst performer in the S&P 500” this year. But is this a bargain price for a high-quality SaaS business, or a value trap? That’s the key question that Shawn & Kyle discuss, plus so much more!
+
+SUBSCRIBE
+
+IN THIS EPISODE, YOU’LL LEARN:
+How Intuit’s accounting software became so popular
+What makes QuickBooks such a great business
+Why Intuit is the worst performing stock in the S&P 500 this year
+How to think about Intuit as either a value trap or bargain
+Whether Intuit’s TurboTax business is resistant to AI disruptions
+Valuation discussion of Intuit
+How to model Intuit’s intrinsic value
+Whether Shawn & Kyle add Intuit to The Intrinsic Value Portfolio
+And so much more!
+
+Disclosure: This episode and the resources on this page are for informational and educational purposes only and do not constitute financial, investment, tax, or legal advice. For full disclosures, see link.
+
+TRANSCRIPT
+Disclaimer: The transcript that follows has been generated using artificial intelligence. We strive to be as accurate as possible, but minor errors and slightly off timestamps may be present due to platform differences.
+[00:00:03] Kyle Grieve: Hey folks, welcome back to The Investor’s Podcast. We’re on episode 835 here and well, we have a lot to talk about here. Shawn, let me just start by asking, is this the most compelling opportunity in large caps that we’ve come across all year?
+[00:00:15] Shawn O’Malley: You know, I’ve been thinking about that a lot. And it might just be Adobe has looked pretty interesting at times to be fair. But we originally pitched that idea last year and we were pretty early on it, but I’m not sure I can think of any setups more compelling than looking at the company that is the worst performer in the S&P 500 for 2026, when that same company was the textbook example of a quality compounder what, just 18 months ago.
+[00:00:42] Kyle Grieve: AI eats software. It seems like AI just eats everything, I guess. But you know, if that AI eats software, narrative just collapses. I think there’s going to be a lot of money to be made investing specifically in companies like Intuit at current prices. So I’m really excited for today’s episode. Should we do it?
+[00:01:00] Intro: Since 2014, with more than 200 million downloads, we have interviewed the world’s best investors, studied deeply the principles of value investing, and uncovered many compelling investment opportunities. We focus on understanding businesses and intrinsic value, investing accordingly, and sharing everything we learn with you. This show is not investment advice. It’s intended for informational and entertainment purposes only. All opinions expressed by hosts and guests are solely their own, and they may have investments in the securities discussed. Now, for your hosts, Shawn O’Malley and Kyle Grieve.
+[00:01:46] Kyle Grieve: Today, we’re covering a company that I suspect most North American listeners have probably interacted with, whether they realize it or not. And that company is Intuit ticker INTU. This is the company behind businesses like TurboTax, QuickBooks, Credit Karma, and MailChimp. So if you filed your own taxes, run a small business, checked your credit scores for free, signed up for a credit card, or even sent a marketing email at scale, there’s a pretty good chance that you’ve touched some sort of Intuit product.
+[00:02:11] Kyle Grieve: And the reason that I think this episode is going to be a fun one is that it sits right at the intersection of two themes that we just seem to keep circling back to this year. The first is high quality SaaS compounders dominant mission critical software and data businesses like Adobe or a costar. And then the second theme is just the great AI disruption debate, which is the single biggest question that seems to be hanging over technology investing right now, which is which incumbents are going to be supercharged by AI and which ones will have their business models completely hollowed out by it.
+
+
+HELP US OUT!
+Help us reach new listeners by leaving us a rating and review on Apple Podcasts! It takes less than 30 seconds, and really helps our show grow, which allows us to bring on even better guests for you all! Thank you – we really appreciate it!
+BOOKS AND RESOURCES
+Join the exclusive ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Mastermind Community⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+Track ⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Portfolio⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+Learn more about how to join us in NYC for our ⁠⁠Intrinsic Value Conference⁠⁠.
+Portfolio Review ⁠⁠⁠⁠⁠Submit Tool⁠⁠⁠⁠⁠.
+See Shawn’s ⁠⁠financial model for Intuit⁠⁠.
+The Finance Corner: “⁠⁠Deep Dive Into Intuit⁠⁠“.
+Business Breakdowns Podcast — ⁠⁠Intuit⁠⁠ (2022).
+Intuit’s 2025 Investor Day ⁠⁠Presentation⁠⁠.
+Intuit’s 2026 latest Investor Day ⁠⁠Presentation⁠⁠.
+Check out our previous Intrinsic Value breakdowns: ⁠⁠⁠⁠⁠Wix⁠⁠, ⁠⁠Microsoft⁠⁠, ⁠⁠Kelly Partners Group⁠⁠.
+Related ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠books⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ mentioned in the podcast.
+Ad-free episodes on our ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Premium Feed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+
+Some of the links on this page are affiliate links or relate to partners who support our show. If you choose to sign up or make a purchase through them, we may receive compensation at no additional cost to you.
+NEW TO THE SHOW?
+Get smarter about valuing businesses in just a few minutes each week through our newsletter, ⁠⁠⁠The Intrinsic Value Newsletter⁠⁠⁠.
+Check out ⁠⁠⁠The Investor’s Podcast Starter Packs⁠⁠⁠.
+Follow our official social media accounts: ⁠⁠⁠X (Twitter)⁠⁠⁠ | ⁠⁠⁠LinkedIn⁠⁠⁠ | ⁠⁠⁠Facebook⁠⁠⁠⁠⁠⁠.
+Browse through all our episodes (complete with transcripts) ⁠⁠⁠here⁠⁠⁠.
+Try our tool for picking stock winners and managing our portfolios: ⁠⁠⁠TIP Finance Tool⁠⁠⁠.
+Enjoy exclusive perks from our ⁠⁠⁠favorite Apps and Services⁠⁠⁠.
+Learn how to better start, manage, and grow your business with the ⁠⁠⁠best business podcasts⁠⁠⁠.
+
+SPONSORS
+Support our free podcast by supporting our sponsors:
+⁠⁠Plus500⁠⁠⁠
+⁠⁠⁠Netsuite⁠⁠⁠
+⁠⁠⁠Shopify⁠⁠⁠
+⁠⁠⁠Plaud⁠
+
+References to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.

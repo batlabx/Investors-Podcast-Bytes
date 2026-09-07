@@ -1,0 +1,73 @@
+Auto1 Stock (AG1): Is This the Amazon for Cars?
+===============================================
+URL:  https://www.theinvestorspodcast.com/episodes/auto1-stock-ag1-is-this-the-amazon-for-cars-tip/
+Date: 01 July 2026
+
+Daniel Mahncke and Shawn O’Malley take a deep dive into Auto1 Group (ETR: AG1), the Berlin-based used-car platform. What trips most investors up about Auto1 is that it’s two different businesses in one – a capital-light merchant marketplace on one side, a capital-heavy consumer retail bet on the other – and the asset-heavy model that everyone points to as the risk is arguably the same thing that kept Auto1 alive while better-funded competitors went bankrupt.
+The market tends to fixate on the inventory sitting on Auto1’s books and misses that the two halves of the business earn their returns in entirely different ways. Daniel and Shawn walk through how the thin margins on each car turn into something far more attractive once you account for how fast Auto1 cycles its inventory, and why none of it works without the funding structure underneath: a non-recourse ABS architecture that lets Auto1 carry enormous inventory without raising equity to match. That’s the piece capital-light rivals skipped, and a large part of why they didn’t survive.
+Daniel and Shawn examine whether Auto1’s instant-guaranteed-pricing model is a genuine consumer moat or a balance-sheet liability in disguise, what the economics actually look like in 2026 once you separate the merchant flywheel from the retail build-out, and the more uncomfortable side of the bull case – that net income can read positive while cumulative free cash flow stays deeply negative when new debt is funding operations. They also assess whether Auto1 Group deserves a spot in The Intrinsic Value Portfolio.
+
+SUBSCRIBE
+
+IN THIS EPISODE, YOU’LL LEARN:
+Why the traditional used-car market doesn’t work well
+About the size of the used-car market
+How Auto1’s business model works
+Who Auto1’s founders are
+How Auto1 buys and sells cars
+How the unit economics work
+Whether Auto1 is valued attractively
+Whether Shawn and Daniel add AG1 to the Intrinsic Value Portfolio
+And much, much more!
+
+Disclosure: This episode and the resources on this page are for informational and educational purposes only and do not constitute financial, investment, tax, or legal advice. For full disclosures, see link.
+
+TRANSCRIPT
+Disclaimer: The transcript that follows has been generated using artificial intelligence. We strive to be as accurate as possible, but minor errors and slightly off timestamps may be present due to platform differences.
+[00:00:00] Daniel Mahncke: Today you will get your cold open, Shawn.
+[00:00:03] Shawn O’Malley: I hope so.
+[00:00:04] Daniel Mahncke: I mean, I can just no longer stand you. Oh, this could have been a cold open. And this could have been a cold open line. Every single time I say something before we press record.
+[00:00:13] Shawn O’Malley: I finally got to you, huh? All right, well, tell us about Auto1, then.
+[00:00:17] Daniel Mahncke: Well, I will start this one. A little morbid, I got to say, because I think the best way into this company is going through basically a graveyard of companies that has tried to do the same. So I want you to cast your mind back to like 2020, 2021, when there was this whole wave of online used car companies. And the pitch back then has been we are going to do for used cars what Amazon did for everything else.
+[00:00:43] Daniel Mahncke: So, you know, you buy your car online, somebody drops it off at your house, you have seven-day returns, no haggling and also no, you know, sleazy law that basically gives you this immediate feeling of, I don’t want to be here. I just want to get home with my car without it. And in the US those companies were Carvana, Shift and Carlotz. And in Europe the big one was Cazoo, which was a UK company and every single one of them raised a ton of money, showed pretty fast growth rates, and the stocks actually became multi-baggers pretty quickly.
+[00:01:10] Daniel Mahncke: And then 2022 and 2023 happened and used car prices got crushed, interest rates went up. And as we I think also remember, the capital markets were generally not in a good situation. And almost all of the companies that we mentioned got wiped out. So Cazoo went bust after raising, I think, over two billion euros. Shift merged with carloads only for both to go bankrupt. And then Carvana almost went bankrupt and had to restructure five billion dollars of debt.
+[00:01:38] Shawn O’Malley: Oh, I remember this. But, you know, Carvana went from being the worst performing stock to the best performing stock in back-to-back years, which is just absurd, right? It was basically a penny stock at the start of 2023. And then over the course of that year, it 10 X.
+[00:01:53] Daniel Mahncke: You know, as I always say, markets being markets. But there was one company in Europe, actually in Germany that had the same model, also went through the same exact cycle and is still standing and actually growing at over 20 percent per year. And it just started having its first profitable years. And that’s Auto1 Group.
+[00:02:12] Daniel Mahncke: And this business checks, I would say quite a lot of the boxes that we usually look for. So it’s a two-sided marketplace with lots of physical infrastructure to defend its positioning. Basically, the moat that we always talk about, it’s TAM total addressable market is also huge. It’s still founder and the founder has lots of skin in the game and is benefiting from the still fragmented market that the European used car market generally is.
+[00:02:37] Intro: Since 2014, with more than 200 million downloads. We have interviewed the world’s best investors, studied deeply the principles of value investing, and uncovered many compelling investment opportunities. We focus on understanding businesses and intrinsic value, investing accordingly and sharing everything we learn with you. This show is not investment advice. It’s intended for informational and entertainment purposes only. All opinions expressed by hosts and guests are solely their own, and they may have investments in the securities discussed. Now for your host, Shawn O’Malley and Daniel Mahncke.
+[00:03:23] Shawn O’Malley: I know the two of us are not the best people to talk about the process of buying a car, because we’re both way too much of stingy value investors to spend a lot of money on a new vehicle. And I think the only car I’ve ever bought was one from my parents at a sweetheart price. And unless I missed a major life update on your end, I’m pretty sure you don’t own a car either, Daniel.
+[00:03:42] Daniel Mahncke: No, no I don’t. But where I live, you know, which is close to the city center in Hamburg, it also doesn’t really make sense to own one, because usually by just taking the subway or the bus. You’re way faster.
+
+
+HELP US OUT!
+Help us reach new listeners by leaving us a rating and review on Apple Podcasts! It takes less than 30 seconds, and really helps our show grow, which allows us to bring on even better guests for you all! Thank you – we really appreciate it!
+BOOKS AND RESOURCES
+Join the exclusive ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Mastermind Community⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+Track ⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Portfolio⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+Learn more about how to join us in NYC for our ⁠⁠Intrinsic Value Conference⁠⁠.
+Portfolio Review ⁠Submit Tool⁠.
+Value Investors Club ⁠Pitch on Auto1⁠.
+Business Breakdowns ⁠Episode on Auto1⁠.
+Auto1 ⁠Investor Relations⁠.
+Check out our previous Intrinsic Value breakdowns: ⁠Copart⁠, ⁠Ferrari⁠, ⁠⁠⁠⁠Uber⁠⁠, ⁠⁠Grab⁠, ⁠Lyft⁠, ⁠Exor NV⁠, ⁠Mercedes-Benz⁠.
+⁠Related ⁠books⁠ mentioned in the podcast.
+Ad-free episodes on our Premium Feed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+
+Some of the links on this page are affiliate links or relate to partners who support our show. If you choose to sign up or make a purchase through them, we may receive compensation at no additional cost to you.
+NEW TO THE SHOW?
+Get smarter about valuing businesses in just a few minutes each week through our newsletter, ⁠⁠⁠The Intrinsic Value Newsletter⁠⁠⁠.
+Check out ⁠⁠⁠The Investor’s Podcast Starter Packs⁠⁠⁠.
+Follow our official social media accounts: ⁠⁠⁠X (Twitter)⁠⁠⁠ | ⁠⁠⁠LinkedIn⁠⁠⁠ | ⁠⁠⁠Facebook⁠⁠⁠⁠⁠⁠.
+Browse through all our episodes (complete with transcripts) ⁠⁠⁠here⁠⁠⁠.
+Try our tool for picking stock winners and managing our portfolios: ⁠⁠⁠TIP Finance Tool⁠⁠⁠.
+Enjoy exclusive perks from our ⁠⁠⁠favorite Apps and Services⁠⁠⁠.
+Learn how to better start, manage, and grow your business with the ⁠⁠⁠best business podcasts⁠⁠⁠.
+
+SPONSORS
+Support our free podcast by supporting our sponsors:
+Plus500⁠⁠
+⁠⁠Netsuite⁠⁠
+⁠⁠Shopify⁠⁠
+⁠⁠Vanta⁠
+
+References to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.

@@ -1,6 +1,6 @@
 # Episode Index
 
-Auto-generated index of every episode summary in this folder. **226 episodes** archived, most recent first.
+Auto-generated index of every episode summary in this folder. **241 episodes** archived, most recent first.
 
 Want the daily 5-minute read instead of digging through these `.txt` files? **[Subscribe on Substack →](https://batlab.substack.com)**
 
@@ -232,6 +232,21 @@ Want the daily 5-minute read instead of digging through these `.txt` files? **[S
 | 224 | [Meta, Adobe, Booking Holdings \| The Investor's Podcast Network](224_mastermind-q2-2026-adobe-meta-booking-holdings.txt) | 20 June 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/mastermind-q2-2026-adobe-meta-booking-holdings/) |
 | 225 | [Copa Holdings (CPA): Is Buffett Right About Airline Stocks?](225_copa-holdings-cpa-is-buffett-right-about-airline-stocks-tip.txt) | 17 June 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/copa-holdings-cpa-is-buffett-right-about-airline-stocks-tip/) |
 | 226 | [The Timeless Patterns Behind Market Bubbles](226_from-railroads-to-ai-the-timeless-patterns-behind-market-bubbles.txt) | 13 June 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/from-railroads-to-ai-the-timeless-patterns-behind-market-bubbles/) |
+| 227 | [Auto1 Stock (AG1): Is This the Amazon for Cars?](227_auto1-stock-ag1-is-this-the-amazon-for-cars-tip.txt) | 01 July 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/auto1-stock-ag1-is-this-the-amazon-for-cars-tip/) |
+| 228 | [Kaspi Stock: The Cheapest E-Commerce Monopoly in the World](228_kaspi-stock-kspi-the-cheapest-e-commerce-monopoly-in-the-world-tip.txt) | 08 July 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/kaspi-stock-kspi-the-cheapest-e-commerce-monopoly-in-the-world-tip/) |
+| 229 | [Restoration Hardware: Building a Luxury Empire From Scratch](229_restoration-hardware-rh-building-a-luxury-empire-from-scratch-tip.txt) | 04 July 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/restoration-hardware-rh-building-a-luxury-empire-from-scratch-tip/) |
+| 230 | [Perimeter Solutions: A Niche Monopoly, One Acquisition at a Time](230_perimeter-solutions-prm-a-niche-monopoly-one-acquisition-at-a-time-tip.txt) | 23 July 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/perimeter-solutions-prm-a-niche-monopoly-one-acquisition-at-a-time-tip/) |
+| 231 | [Fairfax Financial (FFO.TO): The Berkshire Of The North](231_fairfax-financial-ffo-to-the-berkshire-of-the-north-tip.txt) | 18 July 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/fairfax-financial-ffo-to-the-berkshire-of-the-north-tip/) |
+| 232 | [Pinduoduo (PDD): Is PDD the Best Buy in China?](232_pinduoduo-pdd-is-pdd-the-best-buy-in-china-tip.txt) | 15 July 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/pinduoduo-pdd-is-pdd-the-best-buy-in-china-tip/) |
+| 233 | [DLocal (DLO): Multibagger Potential with Decade-Long Runway](233_dlocal-dlo-multibagger-potential-with-decade-long-runway-tip.txt) | 29 July 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/dlocal-dlo-multibagger-potential-with-decade-long-runway-tip/) |
+| 234 | [SpaceX (SPCX): Is It Really Worth $2 Trillion Dollars?](234_spacex-spcx-is-it-really-worth-2-trillion-dollars-tip.txt) | 11 July 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/spacex-spcx-is-it-really-worth-2-trillion-dollars-tip/) |
+| 235 | [Intuit (INTU): The S&P 500's Biggest Loser w/ Shawn & Kyle](235_intuit-intu-the-sp-500s-biggest-loser-tip.txt) | 01 August 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/intuit-intu-the-sp-500s-biggest-loser-tip/) |
+| 236 | [Palantir is Cheaper than I Thought! - TIP Network](236_palantir-is-cheaper-than-i-thought-tip.txt) | 26 August 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/palantir-is-cheaper-than-i-thought-tip/) |
+| 237 | [TIP840: CATL: Powering EVs, Power Grids, and AI w/ Stig Brodersen, Manish Karira & Ralph Summerford - The Investor's Podcast Network](237_inner-circle-q3-2026-catl.txt) | 22 August 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/inner-circle-q3-2026-catl/) |
+| 238 | [Domino's Pizza (DPZ): Is the Royalty Engine Still Running?](238_dominos-pizza-dpz-is-the-royalty-engine-still-running-tip.txt) | 19 August 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/dominos-pizza-dpz-is-the-royalty-engine-still-running-tip/) |
+| 239 | [Google, Reddit, Amazon – Are Our Biggest Winners Still a Buy?](239_google-reddit-amazon-are-our-biggest-winners-still-a-buy-tip.txt) | 15 August 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/google-reddit-amazon-are-our-biggest-winners-still-a-buy-tip/) |
+| 240 | [Adobe, Lululemon, PayPal – Are our Biggest Losers a Buy Now?](240_adobe-lululemon-paypal-are-our-biggest-losers-a-buy-now-tip.txt) | 12 August 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/adobe-lululemon-paypal-are-our-biggest-losers-a-buy-now-tip/) |
+| 241 | [Exor NV (EXO): The Massive Discount Continues To Widen](241_exor-nv-exo-the-massive-discount-continues-to-widen-tip.txt) | 05 August 2026 | [theinvestorspodcast.com](https://www.theinvestorspodcast.com/episodes/exor-nv-exo-the-massive-discount-continues-to-widen-tip/) |
 
 ---
 

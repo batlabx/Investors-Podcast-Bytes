@@ -1,0 +1,68 @@
+Pinduoduo (PDD): Is PDD the Best Buy in China?
+==============================================
+URL:  https://www.theinvestorspodcast.com/episodes/pinduoduo-pdd-is-pdd-the-best-buy-in-china-tip/
+Date: 15 July 2026
+
+Daniel Mahncke and Shawn O’Malley take a deep dive into Pinduoduo (NASDAQ: PDD), the Chinese retail giant that has overtaken local competitors like Alibaba and JD.com and expanded internationally with Temu, which has become the most-downloaded e-commerce app in the world. They discuss how to think about the lack of disclosures and what the margin decline and growth deceleration mean for the business going forward. But also whether this presents an exceptional buying opportunity at a single-digit earnings multiple and about 60% of the company’s market capitalization in cash.
+Daniel and Shawn also discuss how the Chinese e-commerce market compares to international equivalents and what those differences mean for the profitability of the e-commerce model in general. In the end, Daniel values the business and decides whether PDD deserves a spot in The Intrinsic Value Portfolio.
+
+SUBSCRIBE
+
+IN THIS EPISODE, YOU’LL LEARN:
+How PDD became one of China’s leading marketplaces
+What makes PDD’s business model stand out
+How PDD compares to Chinese competition
+What makes China’s e-commerce market different
+How Temu revolutionized international e-commerce
+What happened to margins and growth
+Whether PDD is valued attractively
+Whether Shawn and Daniel add PDD to the Intrinsic Value Portfolio
+And much, much more!
+
+Disclosure: This episode and the resources on this page are for informational and educational purposes only and do not constitute financial, investment, tax, or legal advice. For full disclosures, see link.
+
+TRANSCRIPT
+Disclaimer: The transcript that follows has been generated using artificial intelligence. We strive to be as accurate as possible, but minor errors and slightly off timestamps may be present due to platform differences.
+ 
+[00:00:00] Daniel Mahncke: So imagine two companies, one is Chinese and the other one is American. And the connection between them is pretty surprising. And I’m actually pretty sure you will get a kick out of it.
+[00:00:11] Shawn O’Malley: All right. I’m intrigued. Go on.
+[00:00:13] Daniel Mahncke: So for context, one is worth approximately a trillion dollars and the other is worth approximately a trillion yuan. And both of those companies have about half a billion of cash in their respective currencies on their balance sheet. Both offer no guidance and both offer limited insight into the business generally. So do you have any idea which companies I could be talking about here?
+[00:00:35] Shawn O’Malley: I know you’re pitching Pinduoduo today, so I’ll take the wild guess that that’s one of them. But I don’t know what’s the American one, is it? You’re talking about one of the tech giants?
+[00:00:44] Daniel Mahncke: Not quite. I would say quite the opposite, actually. I’m talking about Berkshire Hathaway.
+[00:00:52] Intro: Since 2014, with more than 200 million downloads. We have interviewed the world’s best investors, studied deeply the principles of value investing, and uncovered many compelling investment opportunities. We focus on understanding businesses and intrinsic value, investing accordingly and sharing everything we learn with you. This show is not investment advice. It’s intended for informational and entertainment purposes only. All opinions expressed by hosts and guests are solely their own, and they may have investments in the securities discussed. Now for your host, Shawn O’Malley and Daniel Mahncke.
+[00:01:38] Shawn O’Malley: I got to say, I don’t know much about the company Pinduoduo, except for that it seems to be ridiculously cheaply valued and is also one of the biggest retailers in the world. And now you’re telling me that there’s some connection to Berkshire, or at least some parallels?
+[00:01:53] Daniel Mahncke: There certainly are, but we will get to those Berkshire connections later on. I can already say, though, it involves Buffett, which is always a story that we are quite interesting in. And when I first started my research, I expected this to be a similar story to Shopee or, you know, the marketplace of Sea Limited, a company that we looked at a couple of weeks ago, at least closer to Shopee than, for example, Meli or Amazon, which are also companies that we looked at and both own and our intrinsic value portfolio. So, you know, the connection to Shopee is that they beat Lazada, which is also owned by Alibaba, by actually being mobile first gamified and sort of a social platform to some extent built around discovery instead of search.
+[00:02:33] Daniel Mahncke: And PDD did basically the same thing to Alibaba and also JD in China in the home market. So you open PDD because you’re bought, then, you know, you scroll a bit through everything they offer. And there are these flash deals and these little games and something that is called team buying. And team buying allows users to basically unlock deep discounts on products by forming temporary shopping teams to purchase items in bulk.
+
+
+HELP US OUT!
+Help us reach new listeners by leaving us a rating and review on Apple Podcasts! It takes less than 30 seconds, and really helps our show grow, which allows us to bring on even better guests for you all! Thank you – we really appreciate it!
+BOOKS AND RESOURCES
+Join the exclusive ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Mastermind Community⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+Track ⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Portfolio⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+Learn more about how to join us in NYC for our ⁠⁠Intrinsic Value Conference⁠⁠.
+Portfolio Review ⁠Submit Tool⁠.
+Value Investors Club ⁠Pitch on PDD⁠.
+Hayden Capital Investment ⁠Memo on PDD⁠.
+Check out our previous Intrinsic Value breakdowns:⁠⁠⁠ ⁠Amazon⁠⁠⁠, ⁠Sea Limited⁠, ⁠Mercado Libre⁠, ⁠Shopify⁠.
+Related ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠books⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ mentioned in the podcast.
+Ad-free episodes on our ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Premium Feed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+
+Some of the links on this page are affiliate links or relate to partners who support our show. If you choose to sign up or make a purchase through them, we may receive compensation at no additional cost to you.
+NEW TO THE SHOW?
+Get smarter about valuing businesses in just a few minutes each week through our newsletter, ⁠⁠⁠The Intrinsic Value Newsletter⁠⁠⁠.
+Check out ⁠⁠⁠The Investor’s Podcast Starter Packs⁠⁠⁠.
+Follow our official social media accounts: ⁠⁠⁠X (Twitter)⁠⁠⁠ | ⁠⁠⁠LinkedIn⁠⁠⁠ | ⁠⁠⁠Facebook⁠⁠⁠⁠⁠⁠.
+Browse through all our episodes (complete with transcripts) ⁠⁠⁠here⁠⁠⁠.
+Try our tool for picking stock winners and managing our portfolios: ⁠⁠⁠TIP Finance Tool⁠⁠⁠.
+Enjoy exclusive perks from our ⁠⁠⁠favorite Apps and Services⁠⁠⁠.
+Learn how to better start, manage, and grow your business with the ⁠⁠⁠best business podcasts⁠⁠⁠.
+
+SPONSORS
+Support our free podcast by supporting our ⁠sponsors⁠:
+⁠Plus500⁠
+⁠Netsuite⁠
+⁠Shopify⁠
+⁠Vanta
+
+References to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.
