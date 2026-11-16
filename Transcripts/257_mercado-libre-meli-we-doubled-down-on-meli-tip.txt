@@ -1,0 +1,34 @@
+Mercado Libre ($MELI): We Doubled Down on Meli - TIP
+====================================================
+URL:  https://www.theinvestorspodcast.com/episodes/mercado-libre-meli-we-doubled-down-on-meli-tip/
+Date: 07 November 2026
+
+Daniel Mahncke and Shawn O’Malley return to Mercado Libre (NASDAQ: MELI), a holding in The Intrinsic Value Portfolio. The “Amazon of Latin America” just reported its 31st consecutive quarter of revenue growth above 30%, a streak no company of its size has ever matched, with revenue up 45% to $10.75 billion. In the same quarter, its operating margin fell to 6.3%, the lowest in years, and the stock trades below where it was originally pitched.
+Daniel and Shawn cover the evolution of Mercado Pago, which processed $109 billion in payments last quarter, more than four times what the marketplace sold, and runs a $17.9 billion credit book growing 62% a year that has made it the sixth-largest card issuer in Brazil. They explain why booking losses on new credit cards upfront is the biggest reason margins fell, and why Pago is so important for the ecosystem. They then take a close look at Shopee, the biggest competitor for Meli in Brazil. They also cover Amazon, and the question that decides the whole thesis: will Brazil end up looking like the U.S., with one or two dominant platforms, or like China, where four players compete margins down to 2%? In the end, they walk through the updated valuation model and explain why they added to the position.
+
+SUBSCRIBE
+
+IN THIS EPISODE, YOU’LL LEARN:
+What changed since our last pitch
+How Mercado Pago keeps taking share
+Why Pago strengthens the flywheel
+Whether competition forces Meli’s hands
+How margins impact the Meli thesis
+What MELI’s stock is worth
+Whether MELI will stay part of The Intrinsic Value Portfolio
+And much, much more!
+
+Disclosure: This episode and the resources on this page are for informational and educational purposes only and do not constitute financial, investment, tax, or legal advice. For full disclosures, see link.
+
+TRANSCRIPT
+Disclaimer: The transcript that follows has been generated using artificial intelligence. We strive to be as accurate as possible, but minor errors and slightly off timestamps may be present due to platform differences.
+[00:00:02] Daniel Mahncke: Welcome back to The Investor’s Podcast episode 859. And in our last episode, John, I pitched McDonald’s to you, which is one of the best known brands in the world, but it is also currently in a historic drawdown. Despite the business still doing quite well, today’s company is far less known globally, although I would say that investors all over the world know it quite well.
+[00:00:23] Shawn O’Malley: And most people probably know it as the South American Amazon. And we already know from your original episode that there is some truth to that, but they also differ in some pretty important aspects.
+[00:00:34] Daniel Mahncke: They do, but I like it as much, maybe even a bit more than Amazon. It’s not as safe over there, but the payout might be even better. And speaking of which, today we want to take another look at what happened to Mercado Libre. That’s the company we discussed since we last pitched it, and since we also added it to the portfolio.
+[00:00:51] Daniel Mahncke: And we just want to see how the thesis has been playing out.
+[00:00:54] Shawn O’Malley: And we just increased the weighting of Mercado Libre in our Intrinsic Value Portfolio from 5 to 7%. And we did that in one of our recent live stream portfolio reviews, which you can find the link to in the show notes below. But that now makes Mercado Libre our fifth largest position, so it’s a perfect time to revisit the thesis.
+[00:01:17] Intro: Since 2014, with more than 200 million downloads, we have interviewed the world’s best investors, studied deeply the principles of value investing, and uncovered many compelling investment opportunities. We focus on understanding businesses and intrinsic value, investing accordingly and sharing everything we learn with you. This show is not investment advice. It’s intended for informational and entertainment purposes only. All opinions expressed by hosts and guests are solely their own, and they may have investment in the securities discussed.
+[00:01:50] Intro: Now for your hosts, Shawn O’Malley and Daniel Mahncke.
+[00:02:04] Shawn O’Malley: What’s interesting is that Mercado Libre has been your starting point to cover, really a whole number of e-commerce companies. And of course, you pitched Amazon as your first. But I think Meli gave you a different appreciation for really, the flywheel effect of marketplaces, especially when combined with payments, credit and logistics and advertising and all these other things. And after Meli, you covered Sea Limited, which I believe also made it into your personal portfolio.
+[00:02:30] Shawn O’Malley: And then there’s another company, Kaspi, which I think might have also made it in your personal portfolio. Yeah.
+[00:02:36] Daniel Mahncke: I think it’s safe to say a very much like how these businesses work together and also reinforce each other. And yes, I do own see that in my personal portfolio. I looked very smart when I first bought it at about $70 and then went up to $130. So I thought, this is a fantastic investment. Now, I got to say, it’s back in the 70s, so I don’t look as smart anymore.

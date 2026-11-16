@@ -1,0 +1,69 @@
+SpaceX (SPCX): Is It Really Worth $2 Trillion Dollars?
+======================================================
+URL:  https://www.theinvestorspodcast.com/episodes/spacex-spcx-is-it-really-worth-2-trillion-dollars-tip/
+Date: 11 July 2026
+
+In today’s episode, Kyle Grieve and Shawn O’Malley analyze SpaceX’s blockbuster 2026 IPO, dissecting the company’s three segments: Space, Connectivity, and AI. They’ll also look at its history, moats, capital allocation, debt, and incentive structure. They’ll stress-test SpaceX’s aggressive $28.5 trillion total addressable market claim and walk through the key risks facing the business, from key-man dependence to regulatory exposure.
+
+SUBSCRIBE
+
+IN THIS EPISODE, YOU’LL LEARN:
+Why its claimed market opportunity may be overstated
+How Elon Musk’s early rocket failures almost sank SpaceX
+How Space, Connectivity, and AI segments actually work
+Why reusable rockets are reshaping launch economics
+Whether the AI segment is worrisome
+What’s really driving Connectivity’s improving margins
+How to think about SpaceX’s R&D and capital spending
+Why SpaceX’s debt picture is more nuanced than it looks
+How Musk’s pay package ties to Mars and market cap benchmarks
+What risks could derail the SpaceX growth story
+Whether SpaceX’s valuation can be justified by the numbers
+And so much more!
+
+Disclosure: This episode and the resources on this page are for informational and educational purposes only and do not constitute financial, investment, tax, or legal advice. For full disclosures, see link.
+
+TRANSCRIPT
+Disclaimer: The transcript that follows has been generated using artificial intelligence. We strive to be as accurate as possible, but minor errors and slightly off timestamps may be present due to platform differences.
+[00:00:03] Shawn O’Malley: All right, so I genuinely never thought we’d be discussing Twitter, X, or whatever you want to call it on the show these days. And then at the same time, you’re telling me that we’re going to get to talk about Mars colonies in today’s episode? This is going to be a fun one.
+[00:00:17] Kyle Grieve: Yeah, me neither, but believe it or not, you know, Twitter is now part of SpaceX’s AI segment.
+[00:00:22] Shawn O’Malley: But like, come on, Mars colonies? Like, objectively super, super cool that this is something we’re talking about as investors in 2026.
+[00:00:30] Kyle Grieve: Right, and with that Mars colonization, Elon has to populate it with a million inhabitants just to unlock his incentives.
+[00:00:40] Intro: Since 2014, with more than 200 million downloads, we have interviewed the world’s best investors, studied deeply the principles of value investing, and uncovered many compelling investment opportunities. We focus on understanding businesses and intrinsic value, investing accordingly, and sharing everything we learn with you.
+[00:01:00] Intro: This show is not investment advice. It’s intended for informational and entertainment purposes only. All opinions expressed by hosts and guests are solely their own, and they may have investments in the securities discussed. Now for your hosts, Shawn O’Malley and Kyle Grieve.
+[00:01:26] Shawn O’Malley: Hey, folks. I’d say that we own a few splashy names that are well known and attract a lot of attention in markets. You know, from Amazon to Alphabet to Uber, you know, there’s definitely some blue-chip businesses that we hold in our portfolio. But today, we’re going to discuss one of the most popular and also polarizing companies to go public in recent memory, and that’s none other than Space Exploration Technologies or SpaceX.
+[00:01:51] Shawn O’Malley: And part of what makes SpaceX so popular is simply all the investors who have, you know, made an absolute fortune by following Elon Musk into past investments. And we know that Elon is a pretty polarizing figure in himself. He tends to be somebody that you either love or hate with very few people in between, I’ve found.
+[00:02:11] Kyle Grieve: Exactly. And part of the reason that I chose SpaceX was that it’s simply just a fascinating business. You know, I’m no Elon Musk fanboy, but I think the business case of what SpaceX is trying to do really speaks to that, you know, eight-year-old kid inside me who loved rockets, Star Trek, and just the unknown. So, you know, SpaceX is really just dealing directly in all of those areas.
+[00:02:30] Kyle Grieve: But instead of it being a daydream or a fantasy, it’s now reality. And when you look at it just as an investment, I also see the appeal there, you know, at least at a shallow layer. Tesla has been a 260-bagger since it IPO-ed back in 2010, and I’ve spoken to more than one person who’s literally bought their entire home with proceeds from their Tesla investment windfalls, and I’m sure you have similar stories, Shawn.
+
+
+HELP US OUT!
+Help us reach new listeners by leaving us a rating and review on Apple Podcasts! It takes less than 30 seconds, and really helps our show grow, which allows us to bring on even better guests for you all! Thank you – we really appreciate it!
+BOOKS AND RESOURCES
+Join the exclusive ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Mastermind Community⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+Track ⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Portfolio⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+Learn more about how to join us in NYC for our ⁠⁠Intrinsic Value Conference⁠⁠.
+Read Elon Musk by Walter Isaacson ⁠⁠here⁠⁠.
+Read Elon Musk by Ashlee Vance ⁠⁠here⁠.
+Check out the SpaceX prospectus here.
+Related ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠books⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ mentioned in the podcast.
+Ad-free episodes on our ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Premium Feed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+
+Some of the links on this page are affiliate links or relate to partners who support our show. If you choose to sign up or make a purchase through them, we may receive compensation at no additional cost to you.
+NEW TO THE SHOW?
+Get smarter about valuing businesses in just a few minutes each week through our newsletter, ⁠⁠⁠The Intrinsic Value Newsletter⁠⁠⁠.
+Check out ⁠⁠⁠The Investor’s Podcast Starter Packs⁠⁠⁠.
+Follow our official social media accounts: ⁠⁠⁠X (Twitter)⁠⁠⁠ | ⁠⁠⁠LinkedIn⁠⁠⁠ | ⁠⁠⁠Facebook⁠⁠⁠⁠⁠⁠.
+Browse through all our episodes (complete with transcripts) ⁠⁠⁠here⁠⁠⁠.
+Try our tool for picking stock winners and managing our portfolios: ⁠⁠⁠TIP Finance Tool⁠⁠⁠.
+Enjoy exclusive perks from our ⁠⁠⁠favorite Apps and Services⁠⁠⁠.
+Learn how to better start, manage, and grow your business with the ⁠⁠⁠best business podcasts⁠⁠⁠.
+
+SPONSORS
+Support our free podcast by supporting our ⁠sponsors⁠:
+⁠Plus500⁠
+⁠Netsuite⁠
+⁠Shopify⁠
+⁠Vanta
+
+References to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.

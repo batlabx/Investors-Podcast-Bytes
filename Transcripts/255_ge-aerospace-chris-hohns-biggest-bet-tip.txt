@@ -1,0 +1,66 @@
+TIP854: GE Aerospace: Chris Hohn’s Biggest Bet w/ Daniel Mahncke & Shawn O'Malley - The Investor's Podcast Network
+==================================================================================================================
+URL:  https://www.theinvestorspodcast.com/episodes/ge-aerospace-chris-hohns-biggest-bet-tip/
+Date: 21 October 2026
+
+Daniel Mahncke and Shawn O’Malley follow up last year’s TransDigm pitch with the biggest monopoly in aviation: GE Aerospace (NYSE: GE), the engine maker behind nearly three out of every four commercial flights in the world. With roughly 50,000 commercial and 30,000 military engines in service, GE has the largest installed engine base worldwide. That’s the reason Chris Hohn bets about 30% of his $50+ billion portfolio on it.
+Daniel and Shawn dig into the mechanism behind how GE sells its engines at roughly zero margin because every engine comes back as three and a half times its sale price in spare parts and shop visits over 25 to 30 years. They also cover the Cold War deal that put a GE engine core in a locked room in France, how Larry Culp turned a company Nelson Peltz was sure would file for Chapter 11 into three companies worth more than $600 billion, and whether Heico’s copycat parts and the regulators now circling the engine aftermarket can dent the pricing. In the end, they walk through the valuation model and decide whether the best business in aviation is worth its price — and whether GE earns a spot in The Intrinsic Value Portfolio.
+
+SUBSCRIBE
+
+IN THIS EPISODE, YOU’LL LEARN:
+About the history of aviation and GE
+Why engines became a political product
+Why GE is the pinnacle of aerospace
+What makes GE such a great compounder
+Why the aftermarket is so attractive
+How CEOs destroyed and turned around the business
+What GE’s stock is worth
+Whether GE will be added to The Intrinsic Value Portfolio
+And much, much more!
+
+Disclosure: This episode and the resources on this page are for informational and educational purposes only and do not constitute financial, investment, tax, or legal advice. For full disclosures, see link.
+
+TRANSCRIPT
+Disclaimer: The transcript that follows has been generated using artificial intelligence. We strive to be as accurate as possible, but minor errors and slightly off timestamps may be present due to platform differences.
+[00:00:00] Daniel Mahncke: Welcome back to The Investor’s Podcast episode 854. And in our last episode, Shawn, I pitched LVMH and a mass to you to incredible businesses that are currently struggling mainly because of the macro environment globally and then especially in China. And I would argue personally that today’s business is even higher quality than those two, which is definitely not easy.
+[00:00:22] Shawn O’Malley: No, it’s not easy to do. And we’ll be talking about GE Aerospace, which is actually the biggest position in Sir Christopher Hohn’s portfolio. And Chris Hohn is probably one of the top ten investors of all time, truly delivered roughly 20 percent annual returns for over two decades now.
+[00:00:41] Daniel Mahncke: We actually got a lot of heat for skipping him in one of our latest YouTube live streams, where he basically ranked the best investors in the world. But you don’t have to worry. Eventually there will be a part two, and we’ll definitely not disrespect him like that again.
+[00:00:58] Intro: Since 2014, with more than 200 million downloads. We have interviewed the world’s best investors, studied deeply the principles of value investing, and uncovered many compelling investment opportunities. We focus on understanding businesses and intrinsic value, investing accordingly and sharing everything we learn with you. This show is not investment advice. It’s intended for informational and entertainment purposes only. All opinions expressed by hosts and guests are solely their own, and they may have investments in the securities discussed. Now for your host, Shawn O’Malley and Daniel Mahncke.
+[00:01:44] Shawn O’Malley: There’s just so many great investors to include. You can’t give them all the proper shout out that they deserve. But I will say the interesting thing about home is that he is a really very highly concentrated investors. So when you cover his ideas, you know that it’s not just some position that he sort of made a casual bet on and then allowed to run up in size in the portfolio and said he has maybe the highest bar for investing in a company of any investor I’ve ever studied.
+[00:02:12] Shawn O’Malley: And that’s saying a lot. And with GE being more than 30 percent of his 50 billion dollars portfolio, that is just it’s insane. And so we covered Heico in TransDigm recently on the podcast. And those are fantastic businesses in the aviation space too. But I feel like GE Aerospace really is the pinnacle of quality in that industry. And it’s definitely valued that way too, though it’s no secret to the market how good of a business this is.
+[00:02:41] Daniel Mahncke: It’s not cheap, that’s for sure. And actually, one of the things that I like so much about Hohn is he tends to find these businesses where not the entire market is actually thinking it’s one of the best businesses in the world, which is why he’s mostly paying pretty good prices for them. And then over time they go up. But I should also say that as Edwin, one of our Inner Circle Mastermind members, pointed out at our New York City conference just a week or two ago, he basically spent decades managing money at Fidelity and then many other places in the financial world.
+
+
+HELP US OUT!
+Help us reach new listeners by leaving us a rating and review on Apple Podcasts! It takes less than 30 seconds, and really helps our show grow, which allows us to bring on even better guests for you all! Thank you – we really appreciate it!
+BOOKS AND RESOURCES
+Apply for The Intrinsic Value Mastermind Community where investors learn, share ideas, network, and join calls with experts.
+Apply for The Mastermind Inner Circle to connect with the most successful investors, executives, and business leaders from our audience. 
+Track ⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Portfolio⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+Portfolio Review ⁠Submit Tool⁠.
+Rijinkberg investing GE Aerospace Deep Dive.
+Culp Capital Group Interview.
+Investing Breakdown’s Episode on GE Aerospace.
+Check out our previous Intrinsic Value breakdowns: TransDigm, Heico Vs. TransDigm, Copa Holdings.
+Related ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠books⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ mentioned in the podcast.
+Ad-free episodes on our ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Premium Feed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+
+Some of the links on this page are affiliate links or relate to partners who support our show. If you choose to sign up or make a purchase through them, we may receive compensation at no additional cost to you.
+NEW TO THE SHOW?
+Get smarter about valuing businesses in just a few minutes each week through our newsletter, ⁠⁠⁠The Intrinsic Value Newsletter⁠⁠⁠.
+Check out ⁠⁠⁠The Investor’s Podcast Starter Packs⁠⁠⁠.
+Follow our official social media accounts: ⁠⁠⁠X (Twitter)⁠⁠⁠ | ⁠⁠⁠LinkedIn⁠⁠⁠ | ⁠⁠⁠Facebook⁠⁠⁠⁠⁠⁠.
+Browse through all our episodes (complete with transcripts) ⁠⁠⁠here⁠⁠⁠.
+Try our tool for picking stock winners and managing our portfolios: ⁠⁠⁠TIP Finance Tool⁠⁠⁠.
+Enjoy exclusive perks from our ⁠⁠⁠favorite Apps and Services⁠⁠⁠.
+Learn how to better start, manage, and grow your business with the ⁠⁠⁠best business podcasts⁠⁠⁠.
+
+SPONSORS
+Support our free podcast by supporting our ⁠sponsors⁠:
+Monarch
+Plus500
+Netsuite
+Bilt
+
+References to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.

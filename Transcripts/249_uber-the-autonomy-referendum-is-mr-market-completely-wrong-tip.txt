@@ -1,0 +1,75 @@
+Uber, The Autonomy Referendum: Is Market Completely Wrong?
+==========================================================
+URL:  https://www.theinvestorspodcast.com/episodes/uber-the-autonomy-referendum-is-mr-market-completely-wrong-tip/
+Date: 05 September 2026
+
+Shawn O’Malley and Daniel Mahncke revisit Uber (NYSE: UBER), one of the largest holdings in The Intrinsic Value Portfolio, fifteen months after they first pitched it. In that time, Uber’s operating profits have roughly doubled, free cash flow has climbed to about $10 billion a year, gross bookings are compounding around 20% annually, and the board authorized a new $20 billion buyback. And yet the stock is flat, with its multiple of operating profits cut from 55 times down to roughly 22 times.
+Shawn and Daniel discuss why the market is pricing Uber as though autonomy ends the story — Waymo raising $16 billion at a $126 billion valuation, roughly the same market cap as all of Uber, and formally ending its exclusive partnerships in Austin and Atlanta. They dig into the more than 20 AV partners Uber has lined up in response, from Nuro and Lucid to Rivian, NVIDIA, Zoox, WeRide, Baidu, and Pony.ai, plus Uber’s $14.8 billion offer for Delivery Hero, the margin inflection driven by advertising, insurance normalization, and Uber One — and whether the market is writing down the entire company for a risk that touches maybe a tenth of its profits.
+
+SUBSCRIBE
+
+IN THIS EPISODE, YOU’LL LEARN:
+Why Uber’s stock is flat while its operating profits have doubled
+How Uber’s operating margins swung 55 percentage points in under six years
+What Waymo ending its exclusive deals in Austin and Atlanta really means
+Why Uber is racing to sign more than 20 autonomous vehicle partners
+How much of Uber’s profits are genuinely exposed to robotaxis
+Why advertising, Uber One, and insurance reform keep pushing margins higher
+What Uber’s $14.8 billion offer for Delivery Hero actually buys it
+Why Shawn and Daniel are happy to keep owning Uber
+And much, much more!
+
+Disclosure: This episode and the resources on this page are for informational and educational purposes only and do not constitute financial, investment, tax, or legal advice. For full disclosures, see link.
+
+TRANSCRIPT
+Disclaimer: The transcript that follows has been generated using artificial intelligence. We strive to be as accurate as possible, but minor errors and slightly off timestamps may be present due to platform differences.
+[00:00:03] Daniel Mahncke: Welcome back, folks to The Investor’s Podcast episode 844. And today is a special one because we’re not pitching a new company. We’re here to discuss a company that I feel gets referenced in nearly every episode that we do. So it definitely deserves to be actually be revisited with a full update, especially since it’s one of the largest holdings in our intrinsic value portfolio of stocks.
+[00:00:24] Daniel Mahncke: So for context, last year, Shawn, you pitched Uber to me and we added it to the intrinsic value portfolio with some pretty good timing. It was around the time when the market sold off over terror fears last April, which by now feels like a decade ago. And I would say both of us, including our colleague Stig, have become increasingly excited about Uber’s long term prospects. While their stock on the other side has been basically flat since we first looked at it.
+[00:00:49] Daniel Mahncke: So bookings are compounding at around 20 percent a year. The user base is growing at 16 percent a year, and free cash flow is running at ten billion dollars annually, and the company is buying back billions in stock, just three billion dollars last quarter alone, shrinking the share count, which is something that we always like to see with our portfolio holdings. And the stock has gone again, basically nowhere recently. We just did an episode talking about our biggest losers and our biggest winners.
+[00:01:14] Daniel Mahncke: And Uber didn’t make the cut because again, it didn’t fit into the conversation because it has just been flat. And so maybe the stock was just a bit too richly valued a year ago. But now, as the fundamentals have actually continued to catch up and we’ve gotten more clarity on how Uber will partner with all of the AV companies out there to strengthen the platform. I think the question we’re asking ourselves today is whether this opportunity has only gotten more attractive, or if there’s actually something that we’re missing, where we might have been blinded by our own confirmation bias. So I would say we just listen to your thoughts on the risks facing Uber the first time we cover the company.
+[00:01:51] Shawn O’Malley: So don’t make the same mistake I made writing off this company because of distant fears around automation. That is sort of my message up front to the audience, and at least listen to the rest of this episode before you make up your mind on whether Uber is a good company to own.
+[00:02:05] Daniel Mahncke: Fifteen months later, the entire market seems to be making exactly the mistake you want us about. Or maybe that could also be the case. We’ve just underestimated the threat of automation to Uber’s specific business model. And I got to say, I find myself jumping a bit from being very bullish on the company to being slightly in doubt.
+[00:02:22] Daniel Mahncke: And I got to say, that’s never a good sign for you as an investor, which is also why I look forward to this episode so much, because it does give us the opportunity to dig really deep into Uber again. And I’m also quite sure that you’ve got some very important updates for us today, right?
+[00:02:36] Shawn O’Malley: Yeah. That’s right. When we pitched Uber in April of last year, the company traded at around 55 times its operating profits, which was a rich price, admittedly, unless you were as bullish on the company’s growth as at least I was. And today, now that valuation multiple is at 22 times operating profits, which is much, much more reasonable.
+[00:02:58] Shawn O’Malley: So over that same period of time, profits have roughly doubled. So the business doubled, but the multiple got cut by more than half and then the stock went sideways. So that alone has me feeling very bullish. But all that is for naught. If the terminal value of Uber is in peril.
+[00:03:20] Intro: Since 2014, with more than 200 million downloads. We have interviewed the world’s best investors, studied deeply the principles of value investing, and uncovered many compelling investment opportunities. We focus on understanding businesses and intrinsic value, investing accordingly and sharing everything we learn with you. This show is not investment advice. It’s intended for informational and entertainment purposes only. All opinions expressed by hosts and guests are solely their own, and they may have investments in the securities discussed. Now for your host, Shawn O’Malley and Daniel Mahncke.
+[00:04:06] Shawn O’Malley: So for anybody new to Uber, how about we start with a 60 second refresher on the company? Uber is the world’s largest ride hailing platform, but it is really three different businesses. Mobility is the rides business. We all know there’s delivery and that refers to Uber Eats and actually now includes a growing list of grocery shops and retailers beyond just restaurant delivery.
+
+
+HELP US OUT!
+Help us reach new listeners by leaving us a rating and review on Apple Podcasts! It takes less than 30 seconds, and really helps our show grow, which allows us to bring on even better guests for you all! Thank you – we really appreciate it!
+BOOKS AND RESOURCES
+Join the exclusive ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Mastermind Community⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+Track ⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Portfolio⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+Learn more about how to join us in NYC for our ⁠⁠Intrinsic Value Conference⁠⁠.
+Portfolio Review ⁠Submit Tool⁠.
+Our original podcast deep-dive on Uber.
+Lewistown Capital’s Ride or Die: The Self-Driving S-Curve.
+Uber’s acquisition offer for Delivery Hero.
+Uber & Rivian’s robotaxi partnership for up to 50,000 vehicles.
+NVIDIA’s plan to launch robotaxis on Uber across 28 cities.
+Uber’s investor relations site.
+Waymo’s $16 billion funding round.
+Check out our previous Intrinsic Value breakdowns: Grab Holdings, Lyft, DoorDash.
+Related ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠books⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ mentioned in the podcast.
+Ad-free episodes on our ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Premium Feed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+
+Some of the links on this page are affiliate links or relate to partners who support our show. If you choose to sign up or make a purchase through them, we may receive compensation at no additional cost to you.
+NEW TO THE SHOW?
+Get smarter about valuing businesses in just a few minutes each week through our newsletter, ⁠⁠⁠The Intrinsic Value Newsletter⁠⁠⁠.
+Check out ⁠⁠⁠The Investor’s Podcast Starter Packs⁠⁠⁠.
+Follow our official social media accounts: ⁠⁠⁠X (Twitter)⁠⁠⁠ | ⁠⁠⁠LinkedIn⁠⁠⁠ | ⁠⁠⁠Facebook⁠⁠⁠⁠⁠⁠.
+Browse through all our episodes (complete with transcripts) ⁠⁠⁠here⁠⁠⁠.
+Try our tool for picking stock winners and managing our portfolios: ⁠⁠⁠TIP Finance Tool⁠⁠⁠.
+Enjoy exclusive perks from our ⁠⁠⁠favorite Apps and Services⁠⁠⁠.
+Learn how to better start, manage, and grow your business with the ⁠⁠⁠best business podcasts⁠⁠⁠.
+
+SPONSORS
+Support our free podcast by supporting our ⁠sponsors⁠:
+Monarch
+Plus500
+Scribe
+Plaud
+Netsuite
+
+References to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.

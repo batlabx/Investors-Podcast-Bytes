@@ -1,0 +1,64 @@
+Walmart: From Discount Retailer to eCommerce Powerhouse
+=======================================================
+URL:  https://www.theinvestorspodcast.com/episodes/walmart-wmt-from-discount-retailer-to-ecommerce-powerhouse-tip/
+Date: 30 September 2026
+
+In today’s episode, Kyle Grieve and Shawn O’Malley discuss Walmart and how it grew from Sam Walton’s small-town five-and-dime into a retail giant. Today, it also makes money from e-commerce, a marketplace, advertising and memberships. They cover the scale advantages behind Walmart’s everyday low prices, how its suppliers end up financing its inventory, and why its power over those suppliers continues to draw antitrust scrutiny. They also look at Walmart’s capital allocation, management, growth levers and the biggest risks facing the business.
+
+SUBSCRIBE
+
+IN THIS EPISODE, YOU’LL LEARN:
+How Sam Walton’s early franchise lessons shaped Walmart’s strategy
+Why trading margin for volume remains core to Walmart
+How Walmart makes money beyond traditional brick-and-mortar retail
+Why everyday low prices built lasting customer trust
+How negative working capital supports Walmart’s free cash flow
+What the PepsiCo case reveals about Walmart’s supplier power
+How Walmart splits capital between buybacks, dividends and reinvestment
+Why the Jet.com acquisition was a good acquisition despite the write-down
+Where Walmart’s future growth may come from
+How agentic AI shopping could threaten Walmart’s customer relationships
+And so much more!
+
+Disclosure: This episode and the resources on this page are for informational and educational purposes only and do not constitute financial, investment, tax, or legal advice. For full disclosures, see link.
+
+TRANSCRIPT
+Disclaimer: The transcript that follows has been generated using artificial intelligence. We strive to be as accurate as possible, but minor errors and slightly off timestamps may be present due to platform differences.
+[00:00:03] Kyle Grieve: Welcome back to The Investor’s Podcast episode 850. Today we’re going to look at a business in an industry we’ve largely stayed away from, which is the retail wholesale industry. Now, Walmart is arguably the most well-known business in all of North America. If you’ve ever lived here or traveled through, you know exactly what Walmart is. Cheap stuff, lots of selection. You can get pretty much anything you want, from socks to TVs to bananas all under one roof.
+[00:00:26] Shawn O’Malley: But here is where things get interesting. When you sit down and really think about what Walmart is doing today, it’s clear they’ve added services to help improve their ability to get products to their customers as fast and as conveniently as possible.
+[00:00:39] Kyle Grieve: And that’s why I really wanted to dive into this business. The business is doing all sorts of things in e-commerce and memberships that are improving their scale advantages even more, which is super impressive given Walmart’s already very large scale. But I will say I’ve had some nagging tension with Walmart pretty much the whole time I was doing my research on this business. Now it’s clear that Walmart is a very good business, but the stock is priced like a tech business inside of the Magnificent Seven. So I kept asking myself, is this actually a business worth covering on the show, given how expensive it is?
+[00:01:07] Shawn O’Malley: And I think the answer is most definitely a yes, but maybe not for the reasons you’d think. What I found most fascinating about Walmart is that the market and lots of institutions seem to see Walmart in a different light from how we think about it. So we wanted to better understand if there was something we were missing.
+[00:01:26] Intro: Since 2014, with more than 200 million downloads, we have interviewed the world’s best investors, studied deeply the principles of value investing, and uncovered many compelling investment opportunities. We focus on understanding businesses and intrinsic value, investing accordingly, and sharing everything we learn with you. This show is not investment advice. It’s intended for informational and entertainment purposes only. All opinions expressed by hosts and guests are solely their own, and they may have investment in the securities discussed. Now, for your hosts, Shawn O’Malley and Kyle Grieve.
+[00:02:12] Kyle Grieve: I want to start this episode by discussing attention I had while making this episode. Walmart is a business that is pretty ubiquitous. I think anyone listening to this who lives in or has traveled in North America is going to be very, very familiar with Walmart as it’s a very, very well-known American institution. I knew that, and I’ve always wanted to kind of dive into Walmart just to better understand the business itself, because a lot has changed since Sam Walton was, you know, flying planes over potential new Walmart locations.
+[00:02:38] Kyle Grieve: But the tension I had had nothing to do with Walmart’s quality as a business. A quick glance at some of their capital efficiency metrics shows a very durable business, and this business has been in retail since 1962 and has scaled significantly since then, making it clear that it’s a very, very good business. So my attention really came from Walmart stock. So it’s a business with a rising price to earnings ratio that at a glance I just don’t really think is very well deserved.
+[00:03:04] Kyle Grieve: So as of writing this, it’s trading on a trailing PE of about 38 times. Now if we were discussing Walmart in its earlier years when it was doubling its store count every few years or so, sure, I could see that valuation being justified. But as of now, with a store count compounding at less than one percent over the past few years, I just found it really hard to figure out if this was a business worth covering on the show.
+
+
+HELP US OUT!
+Help us reach new listeners by leaving us a rating and review on Apple Podcasts! It takes less than 30 seconds, and really helps our show grow, which allows us to bring on even better guests for you all! Thank you – we really appreciate it!
+BOOKS AND RESOURCES
+Join the exclusive ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Mastermind Community⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+Track ⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Portfolio⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+Buy your copy of Sam Walton’s autobiography Made In America.
+Check out our previous Intrinsic Value breakdowns: Lululemon, Nike, Ulta, Our Biggest Losers.
+Portfolio Review ⁠Submit Tool⁠.
+Related ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠books⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ mentioned in the podcast.
+Ad-free episodes on our ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Premium Feed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+
+Some of the links on this page are affiliate links or relate to partners who support our show. If you choose to sign up or make a purchase through them, we may receive compensation at no additional cost to you.
+NEW TO THE SHOW?
+Get smarter about valuing businesses in just a few minutes each week through our newsletter, ⁠⁠⁠The Intrinsic Value Newsletter⁠⁠⁠.
+Check out ⁠⁠⁠The Investor’s Podcast Starter Packs⁠⁠⁠.
+Follow our official social media accounts: ⁠⁠⁠X (Twitter)⁠⁠⁠ | ⁠⁠⁠LinkedIn⁠⁠⁠ | ⁠⁠⁠Facebook⁠⁠⁠⁠⁠⁠.
+Browse through all our episodes (complete with transcripts) ⁠⁠⁠here⁠⁠⁠.
+Try our tool for picking stock winners and managing our portfolios: ⁠⁠⁠TIP Finance Tool⁠⁠⁠.
+Enjoy exclusive perks from our ⁠⁠⁠favorite Apps and Services⁠⁠⁠.
+Learn how to better start, manage, and grow your business with the ⁠⁠⁠best business podcasts⁠⁠⁠.
+
+SPONSORS
+Support our free podcast by supporting our sponsors:
+Monarch
+Plus500
+Netsuite
+
+References to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.

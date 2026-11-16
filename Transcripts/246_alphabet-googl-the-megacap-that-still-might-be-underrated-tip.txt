@@ -1,0 +1,64 @@
+Alphabet (GOOGL): The Megacap That Still Might Be Underrated
+============================================================
+URL:  https://www.theinvestorspodcast.com/episodes/alphabet-googl-the-megacap-that-still-might-be-underrated-tip/
+Date: 16 September 2026
+
+In today’s episode, Kyle Grieve and Shawn O’Malley revisit Alphabet nearly two years after Shawn’s original pitch, tracing how the company transformed from a cash-rich, buyback-driven business into an aggressive spender on AI infrastructure. They walk through what changed across Search, YouTube, Cloud, and Waymo, and unpack why the market’s fears around AI disrupting Google were largely unfounded. Along the way, they dig into how Alphabet is funding its buildout, what that means for shareholders, and which questions will determine whether this evolved version of the business is actually better.
+
+SUBSCRIBE
+
+IN THIS EPISODE, YOU’LL LEARN:
+Why Shawn’s original Alphabet thesis needed a revisit
+How the AI-kills-search narrative played out in reality
+Why Alphabet paused buybacks and started raising equity
+How Waymo went from afterthought to major asset
+How Alphabet’s AI spending flows through its earnings
+Why Google Cloud’s margins surprised skeptical investors
+What Berkshire Hathaway’s growing stake signals about the company
+Which unresolved questions will define Alphabet’s next few years
+And so much more!
+
+Disclosure: This episode and the resources on this page are for informational and educational purposes only and do not constitute financial, investment, tax, or legal advice. For full disclosures, see link.
+
+TRANSCRIPT
+Disclaimer: The transcript that follows has been generated using artificial intelligence. We strive to be as accurate as possible, but minor errors and slightly off timestamps may be present due to platform differences.
+[00:00:00] Shawn O’Malley: Welcome back to The Investor’s Podcast episode 847. Kyle, the last time we visited a company that I had previously pitched on the show that was with Comfort Systems, where we admired the business, but decided that not buying it despite it going up 5X was the right decision because we really couldn’t underwrite just how much they were benefiting from this kind of AI CapEx supercycle. Turns out they’re benefiting a lot. But I want to be upfront with everybody that having us revisit a stock is not automatically a happy occasion.
+[00:00:33] Kyle Grieve: Well, it won’t be all pain for you today, Shawn. So the good news is that today we actually own this name. So whatever we conclude, nobody can accuse us of just, you know, watching from the sidelines. And the other good news is that not only do we own this, but it’s actually up over 90 percent since we added it to The Intrinsic Value Portfolio.
+[00:00:47] Shawn O’Malley: I think that does make for a much more pleasant conversation. And I did notice while relistening to the original episode, I had an entire section discussing how Alphabet’s biggest problem was having too much cash and not knowing what on earth they were going to do with it. Well, they seem to have solved that problem so thoroughly that they needed to go out and raise another 175 billion dollars just to be safe.
+[00:01:10] Kyle Grieve: And that is exactly why I want to do this episode with you. So let’s get into it.
+[00:01:18] Intro: Since 2014, with more than 200 million downloads, we have interviewed the world’s best investors, studied deeply the principles of value investing, and uncovered many compelling investment opportunities. We focus on understanding businesses and intrinsic value, investing accordingly, and sharing everything we learn with you. This show is not investment advice. It’s intended for informational and entertainment purposes only. All opinions expressed by hosts and guests are solely their own, and they may have investment in the securities discussed. Now, for your hosts, Shawn O’Malley and Kyle Grieve.
+[00:02:03] Kyle Grieve: So I’m really excited about this one, as Alphabet is actually the second largest position inside of The Intrinsic Value Portfolio, with a weighting of around 14 percent. Now, Alphabet has always been a business that interested me simply because I just used so many of its products daily. And as a user, I just don’t really actually see much of a reason to switch to anything else. So on a daily basis, you know, I’m using things like gmail.
+[00:02:23] Kyle Grieve: I’m using their search engine, their browser, their web based office applications, and even Google Home. So, you know, I think it’s pretty safe to say that I’m a pretty die hard user of Google products. And yet I’ve never actually owned any Google shares. So it’s a bit of a strange conundrum.
+[00:02:36] Kyle Grieve: But what really struck me when I was prepping for this episode is that the Alphabet that you added to the portfolio 18 months ago has actually evolved pretty dramatically in that time frame. And I don’t just mean the stock price. The business has made choices that I just didn’t really expect, at least in terms of scale. And I have just the person to chat with me to help me understand just how big of a mistake I’m making, by not at least having a starter position in my personal account.
+
+
+HELP US OUT!
+Help us reach new listeners by leaving us a rating and review on Apple Podcasts! It takes less than 30 seconds, and really helps our show grow, which allows us to bring on even better guests for you all! Thank you – we really appreciate it!
+BOOKS AND RESOURCES
+Join the exclusive ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Mastermind Community⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+Track ⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Portfolio⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+Learn more about how to join us in NYC for our ⁠⁠Intrinsic Value Conference⁠⁠.
+Our original podcast deep-dive on Alphabet.
+Check out our previous Intrinsic Value breakdowns: SpaceX, Microsoft, Meta.
+Portfolio Review ⁠Submit Tool⁠.
+Related ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠books⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ mentioned in the podcast.
+Ad-free episodes on our ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Premium Feed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+
+Some of the links on this page are affiliate links or relate to partners who support our show. If you choose to sign up or make a purchase through them, we may receive compensation at no additional cost to you.
+NEW TO THE SHOW?
+Get smarter about valuing businesses in just a few minutes each week through our newsletter, ⁠⁠⁠The Intrinsic Value Newsletter⁠⁠⁠.
+Check out ⁠⁠⁠The Investor’s Podcast Starter Packs⁠⁠⁠.
+Follow our official social media accounts: ⁠⁠⁠X (Twitter)⁠⁠⁠ | ⁠⁠⁠LinkedIn⁠⁠⁠ | ⁠⁠⁠Facebook⁠⁠⁠⁠⁠⁠.
+Browse through all our episodes (complete with transcripts) ⁠⁠⁠here⁠⁠⁠.
+Try our tool for picking stock winners and managing our portfolios: ⁠⁠⁠TIP Finance Tool⁠⁠⁠.
+Enjoy exclusive perks from our ⁠⁠⁠favorite Apps and Services⁠⁠⁠.
+Learn how to better start, manage, and grow your business with the ⁠⁠⁠best business podcasts⁠⁠⁠.
+
+SPONSORS
+Support our free podcast by supporting our sponsors:
+Monarch
+Plus500
+Netsuite
+Plaud
+
+References to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.

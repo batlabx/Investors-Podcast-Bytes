@@ -1,0 +1,73 @@
+Shopify (SHOP): The Big Winner of Agentic Commerce? - TIP
+=========================================================
+URL:  https://www.theinvestorspodcast.com/episodes/shopify-shop-the-big-winner-of-agentic-commerce-tip/
+Date: 24 October 2026
+
+Shawn O’Malley and Daniel Mahncke revisit Shopify (NASDAQ: SHOP) fifteen months after Shawn pitched it, called it one of the best businesses they’d ever studied, and recommended passing on the stock at around $80 per share. Since then, the stock has nearly doubled, gross merchandise volume has grown more than 30% for five straight quarters, 2025 revenue rose 30% to over $11.5 billion, and Shopify paid off its convertible notes and launched its first-ever buyback program, now totaling $5 billion.
+Shawn and Daniel grade their original analysis: what they got right about the business, what they got wrong about the numbers, and whether the decision-making process itself was flawed. They dig into how Shopify became central to agentic commerce through its Catalog of over a billion products, the Universal Commerce Protocol it co-developed with Google, and agentic storefronts inside ChatGPT, Gemini, and Copilot. They also cover Amazon blocking Meta’s Muse agent while Shopify partnered with it, the bear case that merchants will vibe-code their own stores, Sidekick’s rapid adoption, and whether a great business is worth owning at 112 times operating profits.
+
+SUBSCRIBE
+
+IN THIS EPISODE, YOU’LL LEARN:
+What Shawn and Daniel got right and wrong when they passed on Shopify in 2025
+How to grade an investment decision without falling for hindsight bias
+How Shopify sustained more than 30% GMV growth for five straight quarters
+Why Shopify merchants captured nearly half of all new U.S. e-commerce dollars
+What agentic commerce is and how Shopify’s Catalog and Universal Commerce Protocol power it
+Why AI shopping may favor independent brands over Amazon and Etsy
+Why merchants are unlikely to vibe-code their way off Shopify
+What Ben Graham’s P/E matrix says Shopify is worth today
+And much, much more!
+
+Disclosure: This episode and the resources on this page are for informational and educational purposes only and do not constitute financial, investment, tax, or legal advice. For full disclosures, see link.
+
+TRANSCRIPT
+Disclaimer: The transcript that follows has been generated using artificial intelligence. We strive to be as accurate as possible, but minor errors and slightly off timestamps may be present due to platform differences.
+[00:00:03] Daniel Mahncke: Welcome back to The Investor’s Podcast, where each week Shawn, Kyle, and I explore, analyze, and also value publicly traded companies and debate whether they deserve a spot in our shared portfolio. And today’s episode is 855. And we’re actually revisiting a company that we always had in the back of our minds, and that company is Shopify. So for context, Shawn, you pitch Shopify in May of last year, and I think it’s safe to say that you very much like the company. And in fact, both of us did. So you saw Shopify as basically the rebels fighting Amazon’s empire. That’s how you put it back then. And we very much liked that idea.
+[00:00:38] Daniel Mahncke: But the stock was quite expensive. And in your model, you came up with an intrinsic value share target of about $53 against the market price back then of about $80 per share. And ironically, as the guy pitching it, you recommended that we hold off unless the stock would fell south of $60 per share.
+[00:00:57] Shawn O’Malley: Gosh, don’t remind me, Daniel. It’s a bit painful.
+[00:01:00] Daniel Mahncke: Well, I think it’s safe to say that it never touched $60 per share. And as we record this one, Shopify actually trades north of $160 per share with a massive $200 billion market cap. And I think it’s safe to say that we cover so many companies and mostly good ones. There’s certainly a selection bias in the companies that we choose that this happens from time to time, but we also often get asked, how does it feel? How does it feel to, you know, miss out on one of these fantastic companies? So Shawn, how does it feel?
+[00:01:28] Shawn O’Malley: There’s definitely been some FOMO, but that’s par for the course as a value investor. This won’t be the last time this happens. And we’re going to try to spend some time today just reflecting on whether an analytical mistake was made. And, you know, we misunderstood something about Shopify or if just a really unlikely bull case played out in reality, or maybe Mr. Market is acting just completely irrationally, that would make me feel a little bit better. That’d be more comforting narrative. But, you know, I would say it’s all possible.
+[00:02:01] Intro: Since 2014, with more than 200 million downloads. We have interviewed the world’s best investors, studied deeply the principles of value investing, and uncovered many compelling investment opportunities. We focus on understanding businesses and intrinsic value investing accordingly and sharing everything we learn with you. This show is not investment advice.
+[00:02:24] Intro: It’s intended for informational and entertainment purposes only. All opinions expressed by hosts and guests are solely their own, and they may have investments in the securities discussed. Now for your hosts, Shawn O’Malley and Daniel Mahncke.
+[00:02:48] Daniel Mahncke: One of the hardest things in investing is to, you know, just soberly look back at the information you had available at the time of a decision and then, you know, and then ask whether you actually made a mistake. Like, you know, missing something important or valuing the company too low. Which arguably has been the case. You know, as you said, since stocks are always being priced on new information, it’s also possible that when we factor in a bull case, reality simply landed on an outlier outcome that was not the most likely to occur, but did nevertheless.
+
+
+HELP US OUT!
+Help us reach new listeners by leaving us a rating and review on Apple Podcasts! It takes less than 30 seconds, and really helps our show grow, which allows us to bring on even better guests for you all! Thank you – we really appreciate it!
+BOOKS AND RESOURCES
+Apply for The Intrinsic Value Mastermind Community where investors learn, share ideas, network, and join calls with experts.
+Apply for The Mastermind Inner Circle to connect with the most successful investors, executives, and business leaders from our audience. 
+Track ⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Portfolio⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+Portfolio Review ⁠Submit Tool⁠.
+Our original podcast deep-dive on Shopify.
+Shopify’s Q2 2026 results.
+Shopify’s Spring ’26 Edition: Selling everything, everywhere, all at once.
+Tobi Lütke on Uncapped with Jack Altman (#50).
+Ben Thompson’s Stratechery interview with Michael Morton on e-commerce in the age of AI.
+Shopify’s Tinker announcement and “Commerce at the speed of culture” data study.
+Shopify at the Goldman Sachs Communacopia + Technology Conference (September 2026).
+The Graham-Dodd P/E Matrix.
+Our updated Shopify valuation model.
+Check out our previous Intrinsic Value breakdowns Shopify, Uber, Nike, Reddit, Nintendo, Airbnb, AutoZone, Alphabet, Ulta, John Deere, Madison Square Garden Sports.
+Related ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠books⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ mentioned in the podcast.
+Ad-free episodes on our ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Premium Feed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+
+Some of the links on this page are affiliate links or relate to partners who support our show. If you choose to sign up or make a purchase through them, we may receive compensation at no additional cost to you.
+NEW TO THE SHOW?
+Get smarter about valuing businesses in just a few minutes each week through our newsletter, ⁠⁠⁠The Intrinsic Value Newsletter⁠⁠⁠.
+Check out ⁠⁠⁠The Investor’s Podcast Starter Packs⁠⁠⁠.
+Follow our official social media accounts: ⁠⁠⁠X (Twitter)⁠⁠⁠ | ⁠⁠⁠LinkedIn⁠⁠⁠ | ⁠⁠⁠Facebook⁠⁠⁠⁠⁠⁠.
+Browse through all our episodes (complete with transcripts) ⁠⁠⁠here⁠⁠⁠.
+Try our tool for picking stock winners and managing our portfolios: ⁠⁠⁠TIP Finance Tool⁠⁠⁠.
+Enjoy exclusive perks from our ⁠⁠⁠favorite Apps and Services⁠⁠⁠.
+Learn how to better start, manage, and grow your business with the ⁠⁠⁠best business podcasts⁠⁠⁠.
+
+SPONSORS
+Support our free podcast by supporting our ⁠sponsors⁠:
+Monarch
+Plus500
+Netsuite
+Bilt
+
+References to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.

@@ -1,0 +1,64 @@
+Applovin (APP): The 30-Bagger Down More Than Half
+=================================================
+URL:  https://www.theinvestorspodcast.com/episodes/applovin-app-the-30-bagger-down-more-than-half-tip/
+Date: 02 September 2026
+
+In today’s episode, Kyle Grieve and Shawn O’Malley break down AppLovin, the mobile advertising platform that went from a failed app recommendation tool to one of the most profitable businesses in ad tech. They walk through how the company makes money on both sides of the ad exchange, why its data advantage has been so hard for competitors to copy, and what caused the market to turn on the stock so violently after a relatively strong quarter. Along the way, they dig into the founder’s track record, the buyback program that made early shareholders rich, and whether the growth story still has room to run.
+
+SUBSCRIBE
+
+IN THIS EPISODE, YOU’LL LEARN:
+How a failed app became a global advertising platform
+How AppLovin makes money from advertisers and publishers
+Why real-time auctions beat the old waterfall method
+Why AppLovin bought mobile game studios, then sold them
+What actually protects AppLovin from Google and Meta
+How buybacks created enormous value
+Details on the executive comp structure
+What we think triggered the post-earnings collapse
+Where the next leg of growth could come from
+And so much more!
+
+Disclosure: This episode and the resources on this page are for informational and educational purposes only and do not constitute financial, investment, tax, or legal advice. For full disclosures, see link.
+
+TRANSCRIPT
+Disclaimer: The transcript that follows has been generated using artificial intelligence. We strive to be as accurate as possible, but minor errors and slightly off timestamps may be present due to platform differences.
+[00:00:03] Kyle Grieve: Welcome to The Investor’s Podcast today on episode 843. So on our last episode, we got to dissect a 5X that we actually ended up passing on. And I had a really, really good time digging into your investing thesis together and just kind of helping us both improve our own investing process. It was really self-reflective and it was a lot of fun.
+[00:00:19] Shawn O’Malley: I think it was a great exercise, but today we’re going back to analyzing a brand-new business we haven’t looked at before. And this one is interesting because it is very much growing like an early-stage startup is immensely profitable, yet it is one of the biggest losers year to date in the market, with its shares falling over 50 percent in 2026.
+[00:00:40] Kyle Grieve: So AppLovin is the name of the business that we’re going to be looking at. And I think it’s one of those classic businesses that the market definitely loved in the past, and it’s easy to see why you had lots of growth, you had high and growing margins, and then you had minimal capital requirements to boot.
+[00:00:52] Kyle Grieve: So my honest starting point when I was going through this business filings was, are we wrong in not owning this business at its current price because a business with the numbers at AppLovin is putting out. I just would never think that this would be the type of business that would be lumped as a value play. But the numbers that the market is offering for this business is definitely in value territory. Now, with a mid-teens multiple.
+[00:01:12] Shawn O’Malley: It was definitely a quality growth story for a long time. And so now that there’s a value angle, you definitely have sparked my interest. So let’s get into it.
+[00:01:23] Intro: Since 2014, with more than 200 million downloads, we have interviewed the world’s best investors, studied deeply the principles of value investing, and uncovered many compelling investment opportunities. We focus on understanding businesses and intrinsic value, investing accordingly, and sharing everything we learn with you. This show is not investment advice. It’s intended for informational and entertainment purposes only. All opinions expressed by hosts and guests are solely their own, and they may have investment in the securities discussed. Now, for your hosts, Shawn O’Malley and Kyle Grieve.
+[00:02:08] Kyle Grieve: We’ve done quite a lot of work looking at businesses that specialize in advertising on the show. We own Alphabet and Reddit, which I’d say are direct advertising platforms, even though they have other products associated with those companies. But then we also own some companies that are still doing advertising, but in a more indirect way. Think Uber, Amazon and Netflix.
+
+
+HELP US OUT!
+Help us reach new listeners by leaving us a rating and review on Apple Podcasts! It takes less than 30 seconds, and really helps our show grow, which allows us to bring on even better guests for you all! Thank you – we really appreciate it!
+BOOKS AND RESOURCES
+Join the exclusive ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Mastermind Community⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+Track ⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Portfolio⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+Learn more about how to join us in NYC for our ⁠⁠Intrinsic Value Conference⁠⁠.
+Portfolio Review ⁠Submit Tool⁠.
+Check out our previous Intrinsic Value breakdowns: Alphabet, Meta, Reddit, Trade Desk, Uber.
+Related ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠books⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ mentioned in the podcast.
+Ad-free episodes on our ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Premium Feed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+
+Some of the links on this page are affiliate links or relate to partners who support our show. If you choose to sign up or make a purchase through them, we may receive compensation at no additional cost to you.
+NEW TO THE SHOW?
+Get smarter about valuing businesses in just a few minutes each week through our newsletter, ⁠⁠⁠The Intrinsic Value Newsletter⁠⁠⁠.
+Check out ⁠⁠⁠The Investor’s Podcast Starter Packs⁠⁠⁠.
+Follow our official social media accounts: ⁠⁠⁠X (Twitter)⁠⁠⁠ | ⁠⁠⁠LinkedIn⁠⁠⁠ | ⁠⁠⁠Facebook⁠⁠⁠⁠⁠⁠.
+Browse through all our episodes (complete with transcripts) ⁠⁠⁠here⁠⁠⁠.
+Try our tool for picking stock winners and managing our portfolios: ⁠⁠⁠TIP Finance Tool⁠⁠⁠.
+Enjoy exclusive perks from our ⁠⁠⁠favorite Apps and Services⁠⁠⁠.
+Learn how to better start, manage, and grow your business with the ⁠⁠⁠best business podcasts⁠⁠⁠.
+
+SPONSORS
+Support our free podcast by supporting our sponsors:
+Monarch
+Plus500
+Scribe
+Plaud
+Netsuite
+
+References to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.

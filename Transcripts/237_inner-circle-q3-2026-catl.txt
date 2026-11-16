@@ -1,0 +1,60 @@
+TIP840: CATL: Powering EVs, Power Grids, and AI w/ Stig Brodersen, Manish Karira & Ralph Summerford - The Investor's Podcast Network
+====================================================================================================================================
+URL:  https://www.theinvestorspodcast.com/episodes/inner-circle-q3-2026-catl/
+Date: 22 August 2026
+
+In today’s episode, Stig Brodersen is joined by Manish Karira and Ralph Summerford for a bull and bear debate on CATL, the world’s largest battery maker. Manish presents the bull case, arguing that a company most listeners have never heard of is becoming the backbone of the global energy infrastructure, powering EVs, stabilizing power grids, and feeding AI data centers. Ralph, a forensic accountant, presents the bear case, digging into price deflation, geopolitical risk, and whether CATL’s US licensing model is capital-light growth or a defensive retreat.
+
+SUBSCRIBE
+
+IN THIS EPISODE, YOU’LL LEARN:
+Why Manish is bullish on CATL, the world’s largest battery maker with 40% global market share and a founder-led culture of relentless R&D. 
+Why energy storage for AI data centers and the LRS licensing model in the US are two growth engines the market may not have fully priced in. 
+The bear case for CATL, including price deflation, a temporary margin windfall, the unwinding of its interest-free supplier float, and key-man risk. 
+How battery swapping and leasing could transform CATL from selling a battery once to owning the asset for its entire lifetime. 
+How to think about CATL’s valuation at 18 times operating profit, its 150+ strategic stakes including DeepSeek, and why the Hong Kong shares trade at a premium to the mainland listing.
+
+Disclosure: This episode and the resources on this page are for informational and educational purposes only and do not constitute financial, investment, tax, or legal advice. For full disclosures, see link.
+
+TRANSCRIPT
+Disclaimer: The transcript that follows has been generated using artificial intelligence. We strive to be as accurate as possible, but minor errors and slightly off timestamps may be present due to platform differences.
+[00:00:00] Stig Brodersen: In today’s episode, we’re doing a bull and bear debate on CATL, the world’s largest battery maker. My friend Manish Karira presents the bull case and Ralph Summerford, another dear friend and forensic accountant who spent his time chasing financial shenanigans. Of course, place the bear. Now chances are that you never heard of the company.
+[00:00:21] Stig Brodersen: Well, Ralph and I certainly hadn’t either. We didn’t even know it was pronounced CATL or CATL. But if you’ve ever been in a Tesla or in a BMW, odds are that it ran on one of the batteries. Many walks us through how CATL came to control four percent of the global EV battery market, and why energy storage for AI data centers might be the growth engine the market hasn’t priced in. Ralph digs into price deflation, an industry supplier float, and geopolitical risks that could hit with the stroke of a pen. You know, whenever we’re bullish on a stock, we tend to surround ourselves with people who agree with us. You know, we like to sit in echo chambers. We like to all agree how smart we are because we all invest in the same thing.
+[00:01:02] Stig Brodersen: And if the thesis doesn’t pan out, we can always come up with a reason why Mr. Market is just, you know, manic and, you know, doesn’t see what we see. But of course, it’s only a question before he realizes how wrong he is. Well, sometimes it happens and sometimes it doesn’t happen.
+[00:01:19] Stig Brodersen: The point I’m trying to make is that we invited Ralph here to be the bearer. And not only today, but every quarter, we’re going to have an episode just like this where we’re going to debate from a bull and a bear perspective. And I should also mention that both Ralph and Manish are members of a TIP Mastermind Community. And we meet online and in person.
+[00:01:41] Stig Brodersen: Now, members are automatically invited to our live events, like the Intrinsic Value Conference in New York City here on September nineteenth, and you can read more about how to attend in the show notes. But without further ado, let’s jump right into the episode.
+[00:02:00] Intro: Since 2014, with more than 200 million downloads, we have interviewed the world’s best investors, studied deeply the principles of value investing, and uncovered many compelling investment opportunities. We focus on understanding businesses and intrinsic value, investing accordingly, and sharing everything we learn with you. This show is not investment advice. It’s intended for informational and entertainment purposes only. All opinions expressed by hosts and guests are solely their own, and they may have investments in the securities discussed. Now for your host, Stig Brodersen.
+[00:02:44] Stig Brodersen: Welcome to The Investor’s Podcast. I’m your host, Stig Brodersen, and today I’m here with my friends Ralph and Manish. Gents, how are you today?
+[00:02:52] Ralph Summerford: Doing great.
+[00:02:53] Manish Karira: Doing great. Thank you for having us.
+[00:02:56] Ralph Summerford: Yeah. Glad to be here.
+[00:02:58] Stig Brodersen: Fantastic. And so Manish, you’re presenting the bull case for a huge company. And perhaps this is a company that the audience doesn’t even know about. And so I’m happy to say that in the first part of this episode, you’ll give us an overview of the business, and then we’ll open the floor for perhaps a discussion among the three of us about some related things. But anyways, I’m getting way ahead of myself, so let’s just jump right into it, man. Please tell us about the company.
+
+
+HELP US OUT!
+Help us reach new listeners by leaving us a rating and review on Apple Podcasts! It takes less than 30 seconds, and really helps our show grow, which allows us to bring on even better guests for you all! Thank you – we really appreciate it!
+BOOKS AND RESOURCES
+Join the exclusive ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Mastermind Community⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+Stig Brodersen’s ⁠Portfolio and Track Record⁠. 
+Meet Ralph at our Intrinsic Value Conference in NYC on September 19.
+Related ⁠books⁠ mentioned in the podcast.
+Ad-free episodes on our Premium Feed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+
+Some of the links on this page are affiliate links or relate to partners who support our show. If you choose to sign up or make a purchase through them, we may receive compensation at no additional cost to you.
+NEW TO THE SHOW?
+Get smarter about valuing businesses in just a few minutes each week through our newsletter, ⁠⁠⁠The Intrinsic Value Newsletter⁠⁠⁠.
+Check out ⁠⁠⁠The Investor’s Podcast Starter Packs⁠⁠⁠.
+Follow our official social media accounts: ⁠⁠⁠X (Twitter)⁠⁠⁠ | ⁠⁠⁠LinkedIn⁠⁠⁠ | ⁠⁠⁠Facebook⁠⁠⁠⁠⁠⁠.
+Browse through all our episodes (complete with transcripts) ⁠⁠⁠here⁠⁠⁠.
+Try our tool for picking stock winners and managing our portfolios: ⁠⁠⁠TIP Finance Tool⁠⁠⁠.
+Enjoy exclusive perks from our ⁠⁠⁠favorite Apps and Services⁠⁠⁠.
+Learn how to better start, manage, and grow your business with the ⁠⁠⁠best business podcasts⁠⁠⁠.
+
+SPONSORS
+Support our free podcast by supporting our sponsors:
+Plus500⁠
+⁠Netsuite⁠
+⁠Vanta⁠
+⁠Shopify⁠
+
+References to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.

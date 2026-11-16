@@ -1,0 +1,65 @@
+Airbnb (ABNB) The Business Outgrew Its Peak, The Stock Hasn't
+=============================================================
+URL:  https://www.theinvestorspodcast.com/episodes/airbnb-abnb-the-business-outgrew-its-peak-the-stock-hasnt-tip/
+Date: 28 October 2026
+
+In today’s episode, Kyle Grieve and Shawn O’Malley discuss whether Airbnb’s recent slowdown was a warning sign or just building the groundwork for its next growth phase. They explore how a company that owns no homes built one of travel’s strongest brands, and why AI agents could threaten or strengthen it. You’ll also learn how Brian Chesky’s founder-led approach and new growth levers are shaping the business’s future.
+
+SUBSCRIBE
+
+IN THIS EPISODE, YOU’LL LEARN:
+Why Airbnb barely noticed when it shut off advertising
+What really caused Airbnb’s growth and cash flow slowdown
+The hidden trade-off behind Airbnb’s Reserve Now, Pay Later
+Why AI chatbots could become travel’s new gatekeepers
+The asset no competitor can buy, no matter their budget
+How Airbnb is winning market share from competitors
+Why Brian Chesky’s “founder mode” reshaped how Airbnb operates
+How hotels became Airbnb’s backdoor customer acquisition channel
+The fast-growing countries that could fuel Airbnb for decades
+And so much more!
+
+Disclosure: This episode and the resources on this page are for informational and educational purposes only and do not constitute financial, investment, tax, or legal advice. For full disclosures, see link.
+
+TRANSCRIPT
+Disclaimer: The transcript that follows has been generated using artificial intelligence. We strive to be as accurate as possible, but minor errors and slightly off timestamps may be present due to platform differences.
+[00:00:03] Kyle Grieve: Welcome back to The Investor’s Podcast episode 856. Today we’re revisiting the alternative accommodation giant Airbnb, a business that Shawn pitched on The Intrinsic Value Podcast in early 2025, which has been quite a success growing into our second largest position today.
+[00:00:17] Shawn O’Malley: Well, as much as I’d love to take a victory lap here, I think there’s always more work to be done and hidden risks to account for. But that’s what we’re here to do today. And just revisit the thesis and see if everything is still on track.
+[00:00:29] Kyle Grieve: Well, I think you’re being a little modest here, Shawn, because much of what you actually covered in the original pitch has come true, which I found quite impressive when I first started analyzing the business, though, I will say that I did have a few worries, mostly regarding the decrease in their growth rates. But as I really, really looked under the hood, my worries just kind of faded away because the slowdown looks more like a temporary blip in spending just to support that future growth. And even now, we’re seeing growth rates speeding back up and even past their historical averages.
+[00:00:56] Shawn O’Malley: When they went through that period of decelerating growth, I think that made many investors believe that Airbnb was losing its competitive edge. But as the fundamentals have turned around and improved again, the business is continuing to add market share and has shown that with some of the new services and new geographies that they’ve rolled out, Airbnb may be able to continue growing well for many years to come.
+[00:01:18] Kyle Grieve: Well, let’s find out if Shawn can take his victory lap here or not. Let’s go.
+[00:01:26] Intro: Since 2014, with more than 200 million downloads, we have interviewed the world’s best investors, studied deeply the principles of value investing, and uncovered many compelling investment opportunities. We focus on understanding businesses and intrinsic value, investing accordingly, and sharing everything we learn with you. This show is not investment advice. It’s intended for informational and entertainment purposes only. All opinions expressed by hosts and guests are solely their own, and they may have investment in the securities discussed. Now, for your hosts, Shawn O’Malley and Kyle Grieve.
+[00:02:12] Kyle Grieve: Today we’re going to be revisiting a business, Airbnb. So Airbnb interests me a lot because aside from the odd hotels that I do stay in, mostly for work, it’s probably my most used alternative accommodation service. So I know many people have had kind of a mixture of good and bad experiences, but mine thus far have basically always been quite good. So I’m pretty excited here to finally get my hands onto this business and just better understand its inner workings.
+[00:02:36] Kyle Grieve: So the last time that I stayed at an Airbnb was in May of this year. I ended up going with my wife and son to celebrate my 40th birthday in Otter Rock, Oregon, which means I’ve officially reached the age where a well stocked kitchen and good water pressure are the highlights of my vacation. And even though my best explanation of the Oregon coast is kind of British Columbia mixed with Hawaii, which is an incredible mix. The house that we actually got to stay in was no slouch either.
+
+
+HELP US OUT!
+Help us reach new listeners by leaving us a rating and review on Apple Podcasts! It takes less than 30 seconds, and really helps our show grow, which allows us to bring on even better guests for you all! Thank you – we really appreciate it!
+BOOKS AND RESOURCES
+If you are interested in a Community for investors to learn, share ideas, network, and join calls with experts: Apply for The Intrinsic Value Mastermind.
+If you are interested in more personal meet-ups, meeting superinvestors, and discussing investing and things that go beyond: Apply for The Mastermind: Inner Circle.
+Track ⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Portfolio⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+Our original pitch on Airbnb.
+Check out our previous Intrinsic Value breakdowns: Restoration Hardware, FICO, Copart.
+Portfolio Review ⁠Submit Tool⁠.
+Related ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠books⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ mentioned in the podcast.
+Ad-free episodes on our ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Premium Feed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+
+Some of the links on this page are affiliate links or relate to partners who support our show. If you choose to sign up or make a purchase through them, we may receive compensation at no additional cost to you.
+NEW TO THE SHOW?
+Get smarter about valuing businesses in just a few minutes each week through our newsletter, ⁠⁠⁠The Intrinsic Value Newsletter⁠⁠⁠.
+Check out ⁠⁠⁠The Investor’s Podcast Starter Packs⁠⁠⁠.
+Follow our official social media accounts: ⁠⁠⁠X (Twitter)⁠⁠⁠ | ⁠⁠⁠LinkedIn⁠⁠⁠ | ⁠⁠⁠Facebook⁠⁠⁠⁠⁠⁠.
+Browse through all our episodes (complete with transcripts) ⁠⁠⁠here⁠⁠⁠.
+Try our tool for picking stock winners and managing our portfolios: ⁠⁠⁠TIP Finance Tool⁠⁠⁠.
+Enjoy exclusive perks from our ⁠⁠⁠favorite Apps and Services⁠⁠⁠.
+Learn how to better start, manage, and grow your business with the ⁠⁠⁠best business podcasts⁠⁠⁠.
+
+SPONSORS
+Support our free podcast by supporting our sponsors:
+Monarch
+Plus500
+Netsuite
+Bilt
+
+References to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.

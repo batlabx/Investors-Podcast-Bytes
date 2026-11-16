@@ -1,0 +1,63 @@
+Comfort Systems USA (FIX): The Five-Bagger We Passed On
+=======================================================
+URL:  https://www.theinvestorspodcast.com/episodes/comfort-systems-usa-fix-the-five-bagger-we-passed-on-tip/
+Date: 29 August 2026
+
+In today’s episode, Kyle Grieve and Shawn O’Malley revisit Comfort Systems USA, a business Shawn originally passed on at $320 that has since appreciated fivefold due to explosive data center spending. The company shattered original projections, with accelerating organic growth, expanding margins, and exceptional capital efficiency. Despite acknowledging the business quality, the hosts discussed whether the original decision reflected a flawed investment process or was the natural outcome of applying a strict investment framework.
+
+SUBSCRIBE
+
+IN THIS EPISODE, YOU’LL LEARN:
+How AI data center spending transformed a boring contractor into a multi-bagger
+About the tailwinds behind their organic growth
+How to use the backlog to be directionally correct about the company’s future
+Why surety bonding capacity creates a widening competitive advantage
+About how the return on Incremental invested capital has improved
+About their exceptional incentive plan
+Why are we uncertain about Comfort’s high growth metrics 5-10 years from now
+And so much more!
+
+Disclosure: This episode and the resources on this page are for informational and educational purposes only and do not constitute financial, investment, tax, or legal advice. For full disclosures, see link.
+
+TRANSCRIPT
+Disclaimer: The transcript that follows has been generated using artificial intelligence. We strive to be as accurate as possible, but minor errors and slightly off timestamps may be present due to platform differences.
+[00:00:02] Kyle Grieve: Welcome back to The Investor’s Podcast. Today’s episode is number 842, and we’re doing something a little different today, going back to revisit a stock that Shawn actually pitched a while back in Comfort Systems. So when Shawn covered it, his model assigned a fair value of around $320 per share, and he ultimately passed, preferring to wait for a better entry point.
+[00:00:22] Shawn O’Malley: I remember it vividly, and yeah, this is going to be a painful episode for me because we really, or I really missed out on quite the opportunity. My valuation could not have been more off.
+[00:00:32] Kyle Grieve: Yeah, but the business has kept growing at this just incredible clip, largely riding this data center and AI build-out, and the stock today is now sitting at five times its price when unfortunately, Shawn, you first looked at it, just miles past the top of even the most bullish view that you possibly could have modeled for.
+[00:00:49] Shawn O’Malley: I’m ready for it. Lay into me here, ’cause it was a mistake, and I’ll leave it up to the audience to decide how big of a mistake they think it was that we made in passing on this one or if there were some factors here that were simply well beyond our field of view that changed.
+[00:01:04] Shawn O’Malley: As in, is our investment process flawed, or is this just part of the reality of having an investment process where you end up excluding things that other people will make a lot of money on, and that’s okay, but it also helps save you from making big mistakes, or at least that’s the idea. So let’s see if this incredible stock run is random luck or if we simply missed the forest for the trees on this one.
+[00:01:27] Kyle Grieve: Let’s find out.
+[00:01:32] Intro: Since 2014, with more than 200 million downloads, we have interviewed the world’s best investors, studied deeply the principles of value investing, and uncovered many compelling investment opportunities. We focus on understanding businesses and intrinsic value, investing accordingly, and sharing everything we learn with you. This show is not investment advice. It’s intended for informational and entertainment purposes only. All opinions expressed by hosts and guests are solely their own, and they may have investment in the securities discussed. Now, for your hosts, Shawn O’Malley and Kyle Grieve.
+[00:02:18] Kyle Grieve: Every so often on the show, we think going back and probably just grading our initial pitches is just a really good idea, not only to highlight some of our winners, but also to highlight our losers. And not only to look at businesses where we maybe own them inside the intrinsic value portfolio, but also to look at businesses where we may have made a mistake of omission simply by passing on them that turned out to be just an incredible investment.
+[00:02:39] Kyle Grieve: We are, after all, achieving some pretty good returns, but I think I speak for both Shawn and Daniel when I say the process is something that we weigh very heavily. This is why we think it’s important to look at our previous decision-making to try and pinpoint whether we made a mistake or if our decision-making was sound, even if the outcome wasn’t exactly where we wanted it to be.
+
+
+HELP US OUT!
+Help us reach new listeners by leaving us a rating and review on Apple Podcasts! It takes less than 30 seconds, and really helps our show grow, which allows us to bring on even better guests for you all! Thank you – we really appreciate it!
+BOOKS AND RESOURCES
+Join the exclusive ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Mastermind Community⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+Track ⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Portfolio⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+Learn more about how to join us in NYC for our ⁠⁠Intrinsic Value Conference⁠⁠.
+Check out our free Intrinsic Value Newsletter with weekly company updates here.
+Portfolio Review ⁠Submit Tool⁠.
+Related ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠books⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ mentioned in the podcast.
+Ad-free episodes on our ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Premium Feed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+
+Some of the links on this page are affiliate links or relate to partners who support our show. If you choose to sign up or make a purchase through them, we may receive compensation at no additional cost to you.
+NEW TO THE SHOW?
+Get smarter about valuing businesses in just a few minutes each week through our newsletter, ⁠⁠⁠The Intrinsic Value Newsletter⁠⁠⁠.
+Check out ⁠⁠⁠The Investor’s Podcast Starter Packs⁠⁠⁠.
+Follow our official social media accounts: ⁠⁠⁠X (Twitter)⁠⁠⁠ | ⁠⁠⁠LinkedIn⁠⁠⁠ | ⁠⁠⁠Facebook⁠⁠⁠⁠⁠⁠.
+Browse through all our episodes (complete with transcripts) ⁠⁠⁠here⁠⁠⁠.
+Try our tool for picking stock winners and managing our portfolios: ⁠⁠⁠TIP Finance Tool⁠⁠⁠.
+Enjoy exclusive perks from our ⁠⁠⁠favorite Apps and Services⁠⁠⁠.
+Learn how to better start, manage, and grow your business with the ⁠⁠⁠best business podcasts⁠⁠⁠.
+
+SPONSORS
+Support our free podcast by supporting our sponsors:
+Scribe
+Plus500
+Netsuite
+Plaud
+
+References to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.

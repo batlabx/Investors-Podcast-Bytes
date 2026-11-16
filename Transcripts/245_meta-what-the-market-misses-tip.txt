@@ -1,0 +1,66 @@
+Meta: What the Market Misses - The Investor's Podcast Network
+=============================================================
+URL:  https://www.theinvestorspodcast.com/episodes/meta-what-the-market-misses-tip/
+Date: 23 September 2026
+
+Daniel Mahncke and Shawn O’Malley revisit Meta Platforms (NASDAQ: META), the advertising machine behind Facebook, Instagram, and WhatsApp that reaches 3.6 billion people every day — over 40% of the world’s population — and just grew ad revenue 27% to a nearly $240 billion annual run rate. Yet the stock trades more than 20% below its highs, because the money is going out even faster than it’s coming in: operating margins fell from 43% to 31% in a single year, quarterly free cash flow collapsed from $8.5 billion to $784 million, and capex guidance now sits at $130–145 billion this year — with analysts penciling in $200 billion for next.
+Daniel and Shawn dig into what all that spending actually buys. Is this Mark Zuckerberg’s third failed attempt to turn Meta into a platform — after the FarmVille-era Facebook apps and a $100 billion metaverse — or does AI finally make the vision real, whether through AI glasses, a personal agent, a budding cloud business, or an ad engine where every pixel becomes sellable inventory? They also cover Meta’s $17 billion settlement with 47 states over teen safety, the special purpose vehicles keeping tens of billions of data-center debt off Meta’s balance sheet, why Apple is quietly taking the opposite side of Meta’s bet, and why Wall Street rewards Google for the same capex it punishes Meta for. In the end, Daniel rebuilds his valuation model from scratch and decides whether Meta finally earns a spot in The Intrinsic Value Portfolio.
+
+SUBSCRIBE
+
+IN THIS EPISODE, YOU’LL LEARN:
+About Zuckerberg’s Platform Dream
+Why Meta was sued and how it settled
+What the regulatory risk means for Meta’s future
+What Meta’s AI vision looks like
+Why AI could make Meta glasses a success
+How AI could revolutionize Meta’s Ads Business
+How Meta is planning to build a Cloud Business
+About the optionality of WhatsApp
+Whether META will be added to The Intrinsic Value Portfolio
+And much, much more!
+
+Disclosure: This episode and the resources on this page are for informational and educational purposes only and do not constitute financial, investment, tax, or legal advice. For full disclosures, see link.
+
+TRANSCRIPT
+Disclaimer: The transcript that follows has been generated using artificial intelligence. We strive to be as accurate as possible, but minor errors and slightly off timestamps may be present due to platform differences.
+[00:00:03] Daniel Mahncke: Welcome back to The Investor’s Podcast episode 848. And the last stock I pitched to you, Shawn, was Copart, which is a company that we looked at last year. And today we’ll have yet another company that we covered before and that deserves another look. And that company is Meta and I can already spoil that. I started building a position in it in my personal account not too long ago.
+[00:00:27] Shawn O’Malley: It’s only been nine months since we first covered Meta, but it does somehow feel like an eternity ago with all the news that’s come out from the hyperscalers this year and just a couple of months past, and you already feel like you need to discuss the opportunity again and provide an update. And that’s what we’re doing today.
+[00:00:42] Daniel Mahncke: I’m not sure if you remember, but last time in the episode, you said that you would like to wait for the stock to drop further and perhaps see sort of an advertising downturn before you would actually go out and buy Meta. And we didn’t really see an advertising downturn, but the stock still declined about 25 percent from yearly highs. On some other news that I’m quite sure we will get into today.
+[00:01:04] Shawn O’Malley: Let’s get into it.
+[00:01:08] Intro: Since 2014, with more than 200 million downloads. We have interviewed the world’s best investors, studied deeply the principles of value investing, and uncovered many compelling investment opportunities. We focus on understanding businesses and intrinsic value, investing accordingly and sharing everything we learn with you. This show is not investment advice. It’s intended for informational and entertainment purposes only. All opinions expressed by hosts and guests are solely their own, and they may have investments in the securities discussed. Now for your host, Shawn O’Malley and Daniel Mahncke.
+[00:01:54] Shawn O’Malley: There’s so much going on that it’s difficult to even know where to start today, Daniel. Perhaps we go with what has changed since our first episode in January on Meta, and some of the most notable things have probably been Meta, announcing that it would build a cloud business more or less, and that there is, or better said, was a major lawsuit hanging over Meta’s head?
+[00:02:17] Daniel Mahncke: Yeah, I think it was safe to say there was no shortage of news. Unsurprisingly, whenever it comes to Meta. And just for context, in January of this year, Mark Zuckerberg announced on Threads, which is sort of the equivalent to Twitter or X, that Meta wants to build out AI infrastructure at scale. And he talked about building tens of gigawatts of data center capacity this decade, which means hundreds of gigawatts or more over time.
+
+
+HELP US OUT!
+Help us reach new listeners by leaving us a rating and review on Apple Podcasts! It takes less than 30 seconds, and really helps our show grow, which allows us to bring on even better guests for you all! Thank you – we really appreciate it!
+BOOKS AND RESOURCES
+Join the exclusive ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Mastermind Community⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+Track ⁠⁠⁠⁠⁠⁠⁠⁠⁠The Intrinsic Value Portfolio⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+Portfolio Review ⁠Submit Tool⁠.
+Our original deep-dive on Meta.
+Zuckerberg’s WSJ Article – The AI Future is for Everyone.
+Ben Thompson’s Research at Stratechery.
+Check out our previous Intrinsic Value breakdowns: Alphabet, Microsoft, SpaceX.
+Related ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠books⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ mentioned in the podcast.
+Ad-free episodes on our ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Premium Feed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.
+
+Some of the links on this page are affiliate links or relate to partners who support our show. If you choose to sign up or make a purchase through them, we may receive compensation at no additional cost to you.
+NEW TO THE SHOW?
+Get smarter about valuing businesses in just a few minutes each week through our newsletter, ⁠⁠⁠The Intrinsic Value Newsletter⁠⁠⁠.
+Check out ⁠⁠⁠The Investor’s Podcast Starter Packs⁠⁠⁠.
+Follow our official social media accounts: ⁠⁠⁠X (Twitter)⁠⁠⁠ | ⁠⁠⁠LinkedIn⁠⁠⁠ | ⁠⁠⁠Facebook⁠⁠⁠⁠⁠⁠.
+Browse through all our episodes (complete with transcripts) ⁠⁠⁠here⁠⁠⁠.
+Try our tool for picking stock winners and managing our portfolios: ⁠⁠⁠TIP Finance Tool⁠⁠⁠.
+Enjoy exclusive perks from our ⁠⁠⁠favorite Apps and Services⁠⁠⁠.
+Learn how to better start, manage, and grow your business with the ⁠⁠⁠best business podcasts⁠⁠⁠.
+
+SPONSORS
+Support our free podcast by supporting our ⁠sponsors⁠:
+Monarch
+Plus500
+Netsuite
+Plaud
+
+References to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.
